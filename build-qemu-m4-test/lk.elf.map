@@ -1,0 +1,2835 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+                              ./build-qemu-m4-test/lib/libc.mod.o (__aeabi_llsr)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+                              ./build-qemu-m4-test/lib/bio.mod.o (__aeabi_llsl)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+                              ./build-qemu-m4-test/lib/gfx.mod.o (__aeabi_dsub)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+                              ./build-qemu-m4-test/lib/gfx.mod.o (__aeabi_dmul)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_dcmpeq)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_d2iz)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+                              ./build-qemu-m4-test/lib/libc.mod.o (__aeabi_d2uiz)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_d2f)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_fsub)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_fmul)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_fcmple)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+                              ./build-qemu-m4-test/external/lib/libm.mod.o (__aeabi_f2iz)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+                              ./build-qemu-m4-test/lib/bio.mod.o (__aeabi_ldivmod)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+                              ./build-qemu-m4-test/app/inetsrv.mod.o (__aeabi_uldivmod)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o) (__divdi3)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o) (__udivdi3)
+
+Discarded input sections
+
+ .comment       0x00000000       0x40 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .comment       0x00000000       0xe0 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .comment       0x00000000       0xe0 ./build-qemu-m4-test/arch/arm.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-m4-test/top.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/app.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/app/shell.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/app/stringtests.mod.o
+ .comment       0x00000000      0x180 ./build-qemu-m4-test/app/tests.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .comment       0x00000000      0x100 ./build-qemu-m4-test/dev.mod.o
+ .comment       0x00000000      0x120 ./build-qemu-m4-test/kernel.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-m4-test/lib/bio.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-m4-test/lib/fs.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/gfx.mod.o
+ .comment       0x00000000      0x460 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .comment       0x00000000      0x120 ./build-qemu-m4-test/lib/minip.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/version.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-m4-test/platform.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/platform/stm32.mod.o
+ .comment       0x00000000      0x500 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/target.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/kernel/novm.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/bcache.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/console.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/debug.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-m4-test/lib/heap.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/iovec.mod.o
+ .comment       0x00000000      0x4a0 ./build-qemu-m4-test/lib/libc.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/pool.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/tftp.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-m4-test/lib/io.mod.o
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./build-qemu-m4-test/target/qemu-m4.mod.o
+LOAD ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+LOAD ./build-qemu-m4-test/arch/arm.mod.o
+LOAD ./build-qemu-m4-test/top.mod.o
+LOAD ./build-qemu-m4-test/app.mod.o
+LOAD ./build-qemu-m4-test/app/inetsrv.mod.o
+LOAD ./build-qemu-m4-test/app/shell.mod.o
+LOAD ./build-qemu-m4-test/app/stringtests.mod.o
+LOAD ./build-qemu-m4-test/app/tests.mod.o
+LOAD ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+LOAD ./build-qemu-m4-test/dev.mod.o
+LOAD ./build-qemu-m4-test/kernel.mod.o
+LOAD ./build-qemu-m4-test/external/lib/aes.mod.o
+LOAD ./build-qemu-m4-test/external/lib/aes/test.mod.o
+LOAD ./build-qemu-m4-test/lib/bio.mod.o
+LOAD ./build-qemu-m4-test/lib/cbuf.mod.o
+LOAD ./build-qemu-m4-test/external/lib/cksum.mod.o
+LOAD ./build-qemu-m4-test/lib/debugcommands.mod.o
+LOAD ./build-qemu-m4-test/lib/fs.mod.o
+LOAD ./build-qemu-m4-test/lib/fs/ext2.mod.o
+LOAD ./build-qemu-m4-test/lib/fs/fat32.mod.o
+LOAD ./build-qemu-m4-test/lib/fs/memfs.mod.o
+LOAD ./build-qemu-m4-test/lib/fs/spifs.mod.o
+LOAD ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+LOAD ./build-qemu-m4-test/lib/gfx.mod.o
+LOAD ./build-qemu-m4-test/external/lib/libm.mod.o
+LOAD ./build-qemu-m4-test/lib/minip.mod.o
+LOAD ./build-qemu-m4-test/lib/version.mod.o
+LOAD ./build-qemu-m4-test/platform.mod.o
+LOAD ./build-qemu-m4-test/platform/stm32.mod.o
+LOAD ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+LOAD ./build-qemu-m4-test/target.mod.o
+LOAD ./build-qemu-m4-test/kernel/novm.mod.o
+LOAD ./build-qemu-m4-test/lib/bcache.mod.o
+LOAD ./build-qemu-m4-test/lib/console.mod.o
+LOAD ./build-qemu-m4-test/lib/debug.mod.o
+LOAD ./build-qemu-m4-test/lib/heap.mod.o
+LOAD ./build-qemu-m4-test/lib/iovec.mod.o
+LOAD ./build-qemu-m4-test/lib/libc.mod.o
+LOAD ./build-qemu-m4-test/lib/pool.mod.o
+LOAD ./build-qemu-m4-test/lib/tftp.mod.o
+LOAD ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+LOAD ./build-qemu-m4-test/lib/io.mod.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a
+                0x08000000                . = 0x8000000
+                0x08000000                __rom_start = .
+
+.text           0x08000000    0x232e0
+ *(.text.boot.vectab1)
+ .text.boot.vectab1
+                0x08000000       0x40 ./build-qemu-m4-test/arch/arm.mod.o
+                0x08000000                vectab
+ *(.text.boot.vectab2)
+ .text.boot.vectab2
+                0x08000040      0x144 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+                0x08000040                vectab2
+ *(.text.boot)
+ *(.text* .sram.text.glue_7* .gnu.linkonce.t.*)
+ .text          0x08000184      0x284 ./build-qemu-m4-test/target/qemu-m4.mod.o
+                0x08000184                target_early_init
+                0x08000188                target_init
+                0x0800023c                init_display
+                0x080003a0                display_get_framebuffer
+                0x080003c8                display_get_info
+                0x080003d6                display_present
+ .text          0x08000408      0x6d8 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+                0x08000408                platform_early_init
+                0x08000428                platform_init
+                0x0800042c                stm32_CAN2_RX1_IRQ
+                0x0800042c                stm32_EXTI4_IRQ
+                0x0800042c                stm32_CAN1_RX1_IRQ
+                0x0800042c                stm32_I2C3_ER_IRQ
+                0x0800042c                stm32_USART6_IRQ
+                0x0800042c                stm32_PVD_IRQ
+                0x0800042c                stm32_HASH_RNG_IRQ
+                0x0800042c                stm32_CAN2_SCE_IRQ
+                0x0800042c                stm32_TIM8_UP_TIM13_IRQ
+                0x0800042c                stm32_OTG_HS_WKUP_IRQ
+                0x0800042c                stm32_EXTI1_IRQ
+                0x0800042c                stm32_TIM8_BRK_TIM12_IRQ
+                0x0800042c                stm32_TIM1_BRK_TIM9_IRQ
+                0x0800042c                stm32_dummy_irq
+                0x0800042c                stm32_RTC_Alarm_IRQ
+                0x0800042c                stm32_DMA2_Stream3_IRQ
+                0x0800042c                stm32_I2C2_EV_IRQ
+                0x0800042c                stm32_FLASH_IRQ
+                0x0800042c                stm32_TIM1_TRG_COM_TIM11_IRQ
+                0x0800042c                stm32_ETH_WKUP_IRQ
+                0x0800042c                stm32_SDIO_IRQ
+                0x0800042c                stm32_CAN2_RX0_IRQ
+                0x0800042c                stm32_TIM1_CC_IRQ
+                0x0800042c                stm32_CAN1_TX_IRQ
+                0x0800042c                stm32_TIM1_UP_TIM10_IRQ
+                0x0800042c                stm32_TAMP_STAMP_IRQ
+                0x0800042c                stm32_DCMI_IRQ
+                0x0800042c                stm32_DMA2_Stream0_IRQ
+                0x0800042c                stm32_SPI1_IRQ
+                0x0800042c                stm32_OTG_HS_IRQ
+                0x0800042c                stm32_DMA1_Stream5_IRQ
+                0x0800042c                stm32_DMA1_Stream3_IRQ
+                0x0800042c                stm32_DMA2_Stream5_IRQ
+                0x0800042c                stm32_RTC_WKUP_IRQ
+                0x0800042c                stm32_EXTI0_IRQ
+                0x0800042c                stm32_FSMC_IRQ
+                0x0800042c                stm32_CAN1_SCE_IRQ
+                0x0800042c                stm32_SPI2_IRQ
+                0x0800042c                stm32_I2C3_EV_IRQ
+                0x0800042c                stm32_SPI3_IRQ
+                0x0800042c                stm32_TIM6_DAC_IRQ
+                0x0800042c                stm32_EXTI9_5_IRQ
+                0x0800042c                stm32_OTG_FS_WKUP_IRQ
+                0x0800042c                stm32_I2C1_ER_IRQ
+                0x0800042c                stm32_RCC_IRQ
+                0x0800042c                stm32_DMA2_Stream1_IRQ
+                0x0800042c                stm32_I2C1_EV_IRQ
+                0x0800042c                stm32_DMA2_Stream6_IRQ
+                0x0800042c                stm32_OTG_HS_EP1_IN_IRQ
+                0x0800042c                stm32_DMA1_Stream2_IRQ
+                0x0800042c                stm32_DMA1_Stream6_IRQ
+                0x0800042c                stm32_CAN1_RX0_IRQ
+                0x0800042c                stm32_TIM8_CC_IRQ
+                0x0800042c                stm32_WWDG_IRQ
+                0x0800042c                stm32_OTG_HS_EP1_OUT_IRQ
+                0x0800042c                stm32_OTG_FS_IRQ
+                0x0800042c                stm32_UART5_IRQ
+                0x0800042c                stm32_DMA1_Stream7_IRQ
+                0x0800042c                stm32_CAN2_TX_IRQ
+                0x0800042c                stm32_EXTI3_IRQ
+                0x0800042c                stm32_DMA2_Stream7_IRQ
+                0x0800042c                stm32_CRYP_IRQ
+                0x0800042c                stm32_USART1_IRQ
+                0x0800042c                stm32_UART4_IRQ
+                0x0800042c                stm32_TIM8_TRG_COM_TIM14_IRQ
+                0x0800042c                stm32_ADC_IRQ
+                0x0800042c                stm32_EXTI2_IRQ
+                0x0800042c                stm32_DMA1_Stream0_IRQ
+                0x0800042c                stm32_DMA1_Stream1_IRQ
+                0x0800042c                stm32_ETH_IRQ
+                0x0800042c                stm32_DMA1_Stream4_IRQ
+                0x0800042c                stm32_I2C2_ER_IRQ
+                0x0800042c                stm32_DMA2_Stream2_IRQ
+                0x0800042c                stm32_DMA2_Stream4_IRQ
+                0x0800042c                stm32_EXTI15_10_IRQ
+                0x08000440                stm32_gpio_early_init
+                0x08000442                gpio_config
+                0x08000508                gpio_set
+                0x08000534                gpio_get
+                0x08000588                stm32_TIM3_IRQ
+                0x08000590                stm32_TIM4_IRQ
+                0x08000598                stm32_TIM5_IRQ
+                0x080005a0                stm32_TIM6_IRQ
+                0x080005a8                stm32_TIM7_IRQ
+                0x080005b0                stm32_TIM2_IRQ
+                0x080005b8                stm32_timer_early_init
+                0x080005ba                stm32_timer_init
+                0x080005bc                stm32_debug_early_init
+                0x080005c0                stm32_debug_init
+                0x080005c4                platform_dputc
+                0x080005f8                platform_dgetc
+                0x0800060c                _debugmonitor
+                0x08000734                uart_init_early
+                0x08000764                uart_init
+                0x0800078c                uart_rx_irq
+                0x080007d4                stm32_USART2_IRQ
+                0x080007e4                stm32_USART3_IRQ
+                0x080007f4                uart_putc
+                0x08000822                uart_getc
+                0x08000880                uart_flush_tx
+                0x08000882                uart_flush_rx
+                0x08000884                uart_init_port
+                0x08000900                __debugger_console_putc
+                0x08000a68                stmflash_init
+ .text          0x08000ae0      0x528 ./build-qemu-m4-test/arch/arm.mod.o
+                0x08000ae0                arch_early_init
+                0x08000b88                arch_init
+                0x08000bbc                arch_quiesce
+                0x08000bbe                arch_idle
+                0x08000bc2                _arm_cm_set_irqpri
+                0x08000bec                arm_cm_irq_entry
+                0x08000c00                arm_cm_irq_exit
+                0x08000c18                arch_chain_load
+                0x08000c38                arch_disable_cache
+                0x08000c3a                arch_enable_cache
+                0x08000c3c                arch_clean_cache_range
+                0x08000c3e                arch_clean_invalidate_cache_range
+                0x08000c40                arch_invalidate_cache_range
+                0x08000c42                arch_sync_cache_range
+                0x08000df8                _nmi
+                0x08000e0c                _hardfault
+                0x08000e14                _memmanage
+                0x08000e1c                _busfault
+                0x08000e24                _usagefault
+                0x08000e54                _start
+                0x08000ea0                spin_cycles
+                0x08000f24                arch_thread_initialize
+                0x08000f44                _pendsv
+                0x08000f52                _svc
+                0x08000f58                arch_context_switch
+                0x08000fd4                arch_dump_thread
+ .text          0x08001008      0x230 ./build-qemu-m4-test/top.mod.o
+                0x08001008                lk_init_level
+                0x08001148                lk_main
+ .text          0x08001238       0x8c ./build-qemu-m4-test/app.mod.o
+                0x08001244                apps_init
+ .text          0x080012c4      0x3b8 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .text          0x0800167c        0x8 ./build-qemu-m4-test/app/shell.mod.o
+ .text          0x08001684      0x5c8 ./build-qemu-m4-test/app/stringtests.mod.o
+ *fill*         0x08001c4c        0x4 
+ .text          0x08001c50     0x2b5c ./build-qemu-m4-test/app/tests.mod.o
+                0x080021f4                benchmarks
+                0x08002228                cbuf_tests
+                0x08002538                clock_tests
+                0x080027a0                fibo
+                0x08002a90                printf_tests
+                0x08002ee4                printf_tests_float
+                0x08003468                sleep_test
+                0x08003494                mutex_test
+                0x080035ac                event_test
+                0x08003728                quantum_test
+                0x08003794                context_switch_test
+                0x080038c8                thread_tests
+                0x08003c68                spinner
+                0x08003efc                two_threads_basic
+                0x08004110                send_watcher_cmd
+                0x08004126                group_basic
+                0x08004298                group_dynamic
+                0x080043b8                group_waiting
+                0x08004478                port_tests
+ .text          0x080047ac      0x150 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+                0x080047ac                platform_set_periodic_timer
+                0x08004810                current_time
+                0x08004854                _systick
+                0x08004890                current_time_hires
+                0x080048e4                arm_cm_systick_init
+ .text          0x080048fc      0x46e ./build-qemu-m4-test/dev.mod.o
+                0x080048fc                dev_init
+                0x08004900                device_init
+                0x08004940                device_init_all
+                0x0800498c                device_fini
+                0x080049cc                device_fini_all
+                0x08004a18                device_suspend
+                0x08004a54                device_resume
+                0x08004a90                class_block_get_size
+                0x08004ab0                class_block_get_count
+                0x08004ad0                class_block_write
+                0x08004afa                class_block_read
+                0x08004b24                class_block_flush
+                0x08004b44                class_i2c_write
+                0x08004b64                class_i2c_read
+                0x08004b84                class_i2c_write_reg
+                0x08004ba4                class_i2c_read_reg
+                0x08004bc4                class_spi_transaction
+                0x08004be4                class_uart_read
+                0x08004c04                class_uart_write
+                0x08004c24                class_fb_set_mode
+                0x08004c44                class_fb_get_info
+                0x08004c64                class_fb_update
+                0x08004c84                class_fb_update_region
+                0x08004caa                class_netif_set_state
+                0x08004cca                class_netif_get_hwaddr
+                0x08004cea                class_netif_get_mtu
+                0x08004d0a                class_netif_set_status
+                0x08004d2a                class_netif_output
+                0x08004d4a                class_netif_mcast_filter
+ *fill*         0x08004d6a        0x2 
+ .text          0x08004d6c     0x24a8 ./build-qemu-m4-test/kernel.mod.o
+                0x08004f5c                event_init
+                0x08004f80                event_destroy
+                0x08004fd8                event_wait_timeout
+                0x08005050                event_signal
+                0x080050c8                event_unsignal
+                0x08005100                kernel_init
+                0x08005158                mutex_init
+                0x0800517c                mutex_destroy
+                0x080051fc                mutex_acquire_timeout
+                0x0800529c                mutex_release
+                0x08005714                thread_create_etc
+                0x080057ec                thread_create
+                0x0800580e                thread_set_real_time
+                0x08005868                thread_yield
+                0x080058f8                thread_resume
+                0x08005984                thread_preempt
+                0x08005a20                thread_block
+                0x08005aa8                thread_unblock
+                0x08005b40                thread_timer_tick
+                0x08005b64                thread_sleep
+                0x08005c0c                thread_init_early
+                0x08005c7c                thread_init
+                0x08005c7e                thread_set_name
+                0x08005c90                thread_set_priority
+                0x08005cdc                thread_become_idle
+                0x08005d30                thread_secondary_cpu_init_early
+                0x08005dc8                thread_secondary_cpu_entry
+                0x08005de4                dump_thread
+                0x08005e64                dump_all_threads
+                0x08005ec4                wait_queue_init
+                0x08005ed8                wait_queue_block
+                0x08005fc4                thread_join
+                0x080060ec                wait_queue_wake_one
+                0x080061cc                wait_queue_wake_all
+                0x080062d4                thread_detach
+                0x08006358                thread_detach_and_resume
+                0x08006370                thread_exit
+                0x08006444                wait_queue_destroy
+                0x080064c4                thread_unblock_from_wait_queue
+                0x080067ec                timer_initialize
+                0x08006804                timer_set_oneshot
+                0x0800681c                timer_set_periodic
+                0x08006834                timer_cancel
+                0x080068a0                timer_init
+                0x080068d8                sem_init
+                0x080068f8                sem_destroy
+                0x08006924                sem_post
+                0x08006968                sem_wait
+                0x080069ac                sem_trywait
+                0x080069e8                sem_timedwait
+                0x08006b38                port_init
+                0x08006b44                port_create
+                0x08006c40                port_open
+                0x08006d40                port_group
+                0x08006e18                port_group_add
+                0x08006ebc                port_group_remove
+                0x08006f3c                port_write
+                0x08007000                port_read
+                0x0800709c                port_destroy
+                0x08007134                port_close
+ .text          0x08007214      0xc64 ./build-qemu-m4-test/external/lib/aes.mod.o
+                0x08007214                AES_set_encrypt_key
+                0x080074b0                AES_set_decrypt_key
+                0x08007690                AES_encrypt
+                0x08007a78                AES_decrypt
+ .text          0x08007e78      0x158 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .text          0x08007fd0     0x13bc ./build-qemu-m4-test/lib/bio.mod.o
+                0x08008060                bio_trim_range
+                0x08008094                bio_trim_block_range
+                0x080080ae                bio_open
+                0x08008120                bio_close
+                0x0800814c                bio_read
+                0x080081b0                bio_read_block
+                0x0800835a                bio_write
+                0x08008432                bio_write_block
+                0x0800860a                bio_erase
+                0x08008654                bio_ioctl
+                0x08008664                bio_initialize_bdev
+                0x08008724                bio_register_device
+                0x08008780                bio_unregister_device
+                0x080087cc                bio_dump_devices
+                0x080090bc                create_membdev
+                0x0800918c                bio_publish_subdevice
+ .text          0x0800938c      0x470 ./build-qemu-m4-test/lib/cbuf.mod.o
+                0x080093a8                cbuf_initialize_etc
+                0x08009418                cbuf_initialize
+                0x08009432                cbuf_space_avail
+                0x08009448                cbuf_space_used
+                0x0800945c                cbuf_write
+                0x08009558                cbuf_read
+                0x08009640                cbuf_peek
+                0x080096ec                cbuf_write_char
+                0x08009760                cbuf_read_char
+ .text          0x080097fc      0x610 ./build-qemu-m4-test/external/lib/cksum.mod.o
+                0x0800986c                adler32
+                0x08009a4e                adler32_combine
+                0x08009a64                adler32_combine64
+                0x08009a7c                update_crc16
+                0x08009aa4                crc16
+                0x08009b8c                get_crc_table
+                0x08009b94                crc32
+                0x08009c5c                crc32_combine
+                0x08009c5e                crc32_combine64
+ .text          0x08009e0c      0x3b8 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .text          0x0800a1c4      0xd00 ./build-qemu-m4-test/lib/fs.mod.o
+                0x0800a2b0                fs_format_device
+                0x0800a2ec                fs_file_ioctl
+                0x0800a308                fs_truncate_file
+                0x0800a316                fs_read_file
+                0x0800a32a                fs_write_file
+                0x0800a346                fs_close_file
+                0x0800a368                fs_stat_file
+                0x0800a376                fs_read_dir
+                0x0800a38c                fs_close_dir
+                0x0800a3b6                fs_stat_fs
+                0x0800a3ee                trim_name
+                0x0800a404                fs_normalize_path
+                0x0800a4d2                fs_mount
+                0x0800a584                fs_unmount
+                0x0800a5ba                fs_open_file
+                0x0800a612                fs_load_file
+                0x0800a65a                fs_create_file
+                0x0800a6c6                fs_remove_file
+                0x0800a710                fs_make_dir
+                0x0800a75a                fs_open_dir
+ .text          0x0800aec4      0x774 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+                0x0800aec4                ext2_unmount
+                0x0800aee0                ext2_load_inode
+                0x0800af50                ext2_mount
+                0x0800b1d6                ext2_lookup
+                0x0800b202                ext2_read_block
+                0x0800b208                ext2_get_block
+                0x0800b20e                ext2_put_block
+                0x0800b214                ext2_get_indirect_block_pointer_cache_block
+                0x0800b334                ext2_read_inode
+                0x0800b4d4                ext2_open_file
+                0x0800b518                ext2_read_file
+                0x0800b554                ext2_close_file
+                0x0800b576                ext2_file_len
+                0x0800b5a0                ext2_stat_file
+                0x0800b5ce                ext2_read_link
+ .text          0x0800b638      0x6bc ./build-qemu-m4-test/lib/fs/fat32.mod.o
+                0x0800b638                fat32_mount
+                0x0800b888                fat32_unmount
+                0x0800b89c                fat32_dump
+                0x0800b94c                fat32_next_cluster_in_chain
+                0x0800b9c0                fat32_dir_get_filename
+                0x0800ba80                fat32_open_file
+                0x0800bbfc                fat32_read_file
+                0x0800bcd0                fat32_close_file
+                0x0800bcda                fat32_stat_file
+ .text          0x0800bcf4      0x404 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .text          0x0800c0f8      0xd50 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .text          0x0800ce48      0xac0 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+                0x0800d5b4                test_setup
+                0x0800d610                test_teardown
+ .text          0x0800d908      0xc74 ./build-qemu-m4-test/lib/gfx.mod.o
+                0x0800dbe6                gfx_copyrect
+                0x0800dc44                gfx_fillrect
+                0x0800dc7a                gfx_putpixel
+                0x0800dc8e                gfx_line
+                0x0800dd60                alpha32_add_ignore_destalpha
+                0x0800ddb4                gfx_surface_blend
+                0x0800df48                gfx_flush
+                0x0800df62                gfx_flush_rows
+                0x0800dfa4                gfx_create_surface
+                0x0800e124                gfx_create_surface_from_display
+                0x0800e190                gfx_surface_destroy
+                0x0800e1a8                gfx_draw_pattern
+                0x0800e52e                gfx_draw_pattern_white
+ *fill*         0x0800e57c        0x4 
+ .text          0x0800e580     0x6030 ./build-qemu-m4-test/external/lib/libm.mod.o
+                0x0800e580                __kernel_sin
+                0x0800e700                sin
+                0x0800ee30                sinf
+                0x0800f060                __kernel_cos
+                0x0800f1d0                cos
+                0x0800f8f8                cosf
+                0x0800fb28                __kernel_tan
+                0x0800fea8                tan
+                0x08010534                tanf
+                0x08010730                sqrt
+                0x08010894                sqrtf
+                0x08010928                __kernel_rem_pio2
+                0x08010fc0                floor
+                0x080110d0                floorf
+                0x08011158                scalbn
+                0x08011260                scalbnf
+                0x08011308                copysign
+                0x08011318                copysignf
+                0x08011328                acos
+                0x08011898                acosf
+                0x08011b90                asin
+                0x08012038                asinf
+                0x080122e8                pow
+                0x08012d18                powf
+                0x080133f0                fabs
+                0x080133f6                fabsf
+                0x080133fc                fmod
+                0x08013628                log
+                0x08013a18                exp
+                0x08013d50                round
+                0x08013de0                ceil
+                0x08013ef0                ceilf
+                0x08013f68                trunc
+                0x08014038                atan
+                0x080143a0                atan2
+ .text          0x080145b0     0x280c ./build-qemu-m4-test/lib/minip.mod.o
+                0x080145e0                arp_cache_init
+                0x080145ec                arp_cache_update
+                0x08014654                arp_cache_lookup
+                0x08014694                arp_cache_dump
+                0x080146fc                arp_send_request
+                0x08014788                arp_get_dest_mac
+                0x080147f0                ones_sum16
+                0x08014814                rfc1701_chksum
+                0x08014af8                minip_init_dhcp
+                0x08014b68                str_ip_to_int
+                0x08014d68                arp_usage
+                0x08014e0a                minip_set_hostname
+                0x08014e18                minip_get_hostname
+                0x08014e20                minip_get_macaddr
+                0x08014e30                minip_set_macaddr
+                0x08014e40                minip_get_ipaddr
+                0x08014e4c                minip_set_ipaddr
+                0x08014e58                gen_random_mac_address
+                0x08014e78                minip_init
+                0x08014e9c                ipv4_payload_len
+                0x08014eae                minip_build_mac_hdr
+                0x08014fb0                minip_build_ipv4_hdr
+                0x08014fec                send_arp_request
+                0x08015084                get_dest_mac
+                0x080150ec                minip_ipv4_send
+                0x08015164                send_ping_reply
+                0x080152a8                minip_rx_driver_callback
+                0x08015304                minip_parse_ipaddr
+                0x08015368                net_timer_work_thread
+                0x080153dc                net_timer_set
+                0x08015468                net_timer_cancel
+                0x08015498                net_timer_init
+                0x080155a4                pktbuf_add_buffer
+                0x08015610                pktbuf_alloc
+                0x0801565c                pktbuf_alloc_empty
+                0x08015668                pktbuf_free
+                0x080156a4                pktbuf_append_data
+                0x080156dc                pktbuf_append
+                0x08015708                pktbuf_prepend
+                0x08015730                pktbuf_consume
+                0x0801574a                pktbuf_consume_tail
+                0x0801575c                pktbuf_dump
+                0x08016080                tcp_input
+                0x080165ac                tcp_open_listen
+                0x080165dc                tcp_accept_timeout
+                0x08016658                tcp_read
+                0x0801670c                tcp_write
+                0x080168d8                tcp_close
+                0x08016bd8                udp_listen
+                0x08016c30                udp_open
+                0x08016c80                udp_close
+                0x08016c92                udp_send_iovec
+                0x08016d58                udp_send
+                0x08016d76                udp_input
+ .text.unlikely
+                0x08016dbc       0xb4 ./build-qemu-m4-test/lib/minip.mod.o
+ .text          0x08016e70       0x6c ./build-qemu-m4-test/lib/version.mod.o
+                0x08016e70                print_version
+ .text          0x08016edc       0x34 ./build-qemu-m4-test/platform.mod.o
+                0x08016edc                platform_pputc
+                0x08016ee0                platform_pgetc
+                0x08016ee4                platform_init_mmu_mappings
+                0x08016eea                platform_quiesce
+ .text          0x08016f10       0x48 ./build-qemu-m4-test/platform/stm32.mod.o
+                0x08016f10                platform_halt
+ .text          0x08016f58     0x7034 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+                0x08016f58                NVIC_PriorityGroupConfig
+                0x08016f6c                NVIC_Init
+                0x08016fd8                NVIC_SetVectorTable
+                0x08016fec                NVIC_SystemLPConfig
+                0x08017004                SysTick_CLKSourceConfig
+                0x0801701c                ADC_DeInit
+                0x08017036                ADC_Init
+                0x08017080                ADC_StructInit
+                0x08017094                ADC_CommonInit
+                0x080170bc                ADC_CommonStructInit
+                0x080170c8                ADC_Cmd
+                0x080170da                ADC_AnalogWatchdogCmd
+                0x080170ea                ADC_AnalogWatchdogThresholdsConfig
+                0x080170f0                ADC_AnalogWatchdogSingleChannelConfig
+                0x080170fc                ADC_TempSensorVrefintCmd
+                0x08017114                ADC_VBATCmd
+                0x0801712c                ADC_RegularChannelConfig
+                0x080171bc                ADC_SoftwareStartConv
+                0x080171c6                ADC_GetSoftwareStartConvStatus
+                0x080171ce                ADC_EOCOnEachRegularChannelCmd
+                0x080171e0                ADC_ContinuousModeCmd
+                0x080171f2                ADC_DiscModeChannelCountConfig
+                0x08017202                ADC_DiscModeCmd
+                0x08017214                ADC_GetConversionValue
+                0x0801721a                ADC_GetMultiModeConversionValue
+                0x08017224                ADC_DMACmd
+                0x08017236                ADC_DMARequestAfterLastTransferCmd
+                0x08017248                ADC_MultiModeDMARequestAfterLastTransferCmd
+                0x08017260                ADC_InjectedChannelConfig
+                0x080172bc                ADC_InjectedSequencerLengthConfig
+                0x080172cc                ADC_SetInjectedOffset
+                0x080172e2                ADC_ExternalTrigInjectedConvConfig
+                0x080172ee                ADC_ExternalTrigInjectedConvEdgeConfig
+                0x080172fa                ADC_SoftwareStartInjectedConv
+                0x08017304                ADC_GetSoftwareStartInjectedConvCmdStatus
+                0x0801730c                ADC_AutoInjectedConvCmd
+                0x0801731e                ADC_InjectedDiscModeCmd
+                0x08017330                ADC_GetInjectedConversionValue
+                0x0801734a                ADC_ITConfig
+                0x08017362                ADC_GetFlagStatus
+                0x0801736e                ADC_ClearFlag
+                0x08017374                ADC_GetITStatus
+                0x08017390                ADC_ClearITPendingBit
+                0x08017398                CAN_DeInit
+                0x080173cc                CAN_Init
+                0x080174a2                CAN_FilterInit
+                0x08017584                CAN_StructInit
+                0x080175a4                CAN_SlaveStartBank
+                0x080175e0                CAN_DBGFreeze
+                0x080175f2                CAN_TTComModeCmd
+                0x0801764a                CAN_Transmit
+                0x0801770c                CAN_TransmitStatus
+                0x08017758                CAN_CancelTransmit
+                0x0801777e                CAN_Receive
+                0x08017812                CAN_FIFORelease
+                0x08017828                CAN_MessagePending
+                0x0801783e                CAN_OperatingModeRequest
+                0x080178c6                CAN_Sleep
+                0x080178e0                CAN_WakeUp
+                0x08017902                CAN_GetLastErrorCode
+                0x0801790a                CAN_GetReceiveErrorCounter
+                0x08017910                CAN_GetLSBTransmitErrorCounter
+                0x08017918                CAN_ITConfig
+                0x08017928                CAN_GetFlagStatus
+                0x08017958                CAN_ClearFlag
+                0x08017988                CAN_GetITStatus
+                0x08017a50                CAN_ClearITPendingBit
+                0x08017acc                CRC_ResetDR
+                0x08017ad8                CRC_CalcCRC
+                0x08017ae4                CRC_CalcBlockCRC
+                0x08017b00                CRC_GetCRC
+                0x08017b0c                CRC_SetIDRegister
+                0x08017b18                CRC_GetIDRegister
+                0x08017b24                CRYP_AES_ECB
+                0x08017cac                CRYP_AES_CBC
+                0x08017e5e                CRYP_AES_CTR
+                0x08017fce                CRYP_AES_GCM
+                0x0801840e                CRYP_AES_CCM
+                0x08018984                CRYP_DeInit
+                0x0801899a                CRYP_Init
+                0x080189f0                CRYP_StructInit
+                0x080189fc                CRYP_KeyInit
+                0x08018a24                CRYP_KeyStructInit
+                0x08018a38                CRYP_IVInit
+                0x08018a50                CRYP_IVStructInit
+                0x08018a5c                CRYP_PhaseConfig
+                0x08018a70                CRYP_FIFOFlush
+                0x08018a80                CRYP_Cmd
+                0x08018a98                CRYP_DataIn
+                0x08018aa4                CRYP_DataOut
+                0x08018ab0                CRYP_SaveContext
+                0x08018b98                CRYP_RestoreContext
+                0x08018c24                CRYP_DMACmd
+                0x08018c40                CRYP_ITConfig
+                0x08018c5c                CRYP_GetITStatus
+                0x08018c70                CRYP_GetCmdStatus
+                0x08018c80                CRYP_GetFlagStatus
+                0x08018c9c                CRYP_DES_ECB
+                0x08018d54                CRYP_DES_CBC
+                0x08018e26                CRYP_TDES_ECB
+                0x08018ef2                CRYP_TDES_CBC
+                0x08018fdc                DAC_DeInit
+                0x08018ff6                DAC_Init
+                0x08019024                DAC_StructInit
+                0x08019030                DAC_Cmd
+                0x08019050                DAC_SoftwareTriggerCmd
+                0x08019070                DAC_DualSoftwareTriggerCmd
+                0x08019088                DAC_WaveGenerationCmd
+                0x080190a4                DAC_SetChannel1Data
+                0x080190c4                DAC_SetChannel2Data
+                0x080190e4                DAC_SetDualChannelData
+                0x080190fc                DAC_GetDataOutputValue
+                0x08019120                DAC_DMACmd
+                0x08019140                DAC_ITConfig
+                0x0801915c                DAC_GetFlagStatus
+                0x08019170                DAC_ClearFlag
+                0x0801917c                DAC_GetITStatus
+                0x08019198                DAC_ClearITPendingBit
+                0x080191a4                DBGMCU_GetREVID
+                0x080191b0                DBGMCU_GetDEVID
+                0x080191c0                DBGMCU_Config
+                0x080191d8                DBGMCU_APB1PeriphConfig
+                0x080191f0                DBGMCU_APB2PeriphConfig
+                0x08019208                DCMI_DeInit
+                0x08019224                DCMI_Init
+                0x08019264                DCMI_StructInit
+                0x08019276                DCMI_CROPConfig
+                0x08019294                DCMI_CROPCmd
+                0x080192ac                DCMI_SetEmbeddedSynchroCodes
+                0x080192cc                DCMI_JPEGCmd
+                0x080192e4                DCMI_Cmd
+                0x080192fc                DCMI_CaptureCmd
+                0x08019314                DCMI_ReadData
+                0x08019320                DCMI_ITConfig
+                0x08019338                DCMI_GetFlagStatus
+                0x08019358                DCMI_ClearFlag
+                0x08019364                DCMI_GetITStatus
+                0x08019378                DCMI_ClearITPendingBit
+                0x08019384                DMA2D_DeInit
+                0x0801939e                DMA2D_Init
+                0x08019444                DMA2D_StructInit
+                0x0801945c                DMA2D_StartTransfer
+                0x0801946c                DMA2D_AbortTransfer
+                0x0801947c                DMA2D_Suspend
+                0x08019494                DMA2D_FGConfig
+                0x08019500                DMA2D_FG_StructInit
+                0x0801951a                DMA2D_BGConfig
+                0x08019588                DMA2D_BG_StructInit
+                0x080195a2                DMA2D_FGStart
+                0x080195bc                DMA2D_BGStart
+                0x080195d4                DMA2D_DeadTimeConfig
+                0x08019600                DMA2D_LineWatermarkConfig
+                0x0801960c                DMA2D_ITConfig
+                0x08019624                DMA2D_GetFlagStatus
+                0x08019638                DMA2D_ClearFlag
+                0x08019644                DMA2D_GetITStatus
+                0x08019664                DMA2D_ClearITPendingBit
+                0x08019670                DMA_DeInit
+                0x0801977c                DMA_Init
+                0x080197d0                DMA_StructInit
+                0x080197f2                DMA_Cmd
+                0x08019804                DMA_PeriphIncOffsetSizeConfig
+                0x08019816                DMA_FlowControllerConfig
+                0x08019828                DMA_SetCurrDataCounter
+                0x0801982c                DMA_GetCurrDataCounter
+                0x08019832                DMA_DoubleBufferModeConfig
+                0x08019846                DMA_DoubleBufferModeCmd
+                0x08019858                DMA_MemoryTargetConfig
+                0x08019862                DMA_GetCurrentMemoryTarget
+                0x0801986a                DMA_GetCmdStatus
+                0x08019872                DMA_GetFIFOStatus
+                0x0801987a                DMA_GetFlagStatus
+                0x080198b0                DMA_ClearFlag
+                0x080198e0                DMA_ITConfig
+                0x0801991e                DMA_GetITStatus
+                0x08019970                DMA_ClearITPendingBit
+                0x080199a0                EXTI_DeInit
+                0x080199bc                EXTI_Init
+                0x08019a2c                EXTI_StructInit
+                0x08019a3a                EXTI_GenerateSWInterrupt
+                0x08019a48                EXTI_GetFlagStatus
+                0x08019a5c                EXTI_ClearFlag
+                0x08019a68                EXTI_GetITStatus
+                0x08019a7c                EXTI_ClearITPendingBit
+                0x08019a88                FLASH_SetLatency
+                0x08019a94                FLASH_PrefetchBufferCmd
+                0x08019aac                FLASH_InstructionCacheCmd
+                0x08019ac4                FLASH_DataCacheCmd
+                0x08019adc                FLASH_InstructionCacheReset
+                0x08019aec                FLASH_DataCacheReset
+                0x08019afc                FLASH_Unlock
+                0x08019b18                FLASH_Lock
+                0x08019b28                FLASH_OB_Unlock
+                0x08019b44                FLASH_OB_Lock
+                0x08019b54                FLASH_OB_PCROPSelectionConfig
+                0x08019b68                FLASH_OB_BootConfig
+                0x08019b80                FLASH_OB_BORConfig
+                0x08019b98                FLASH_OB_GetUser
+                0x08019ba8                FLASH_OB_GetWRP
+                0x08019bb4                FLASH_OB_GetWRP1
+                0x08019bc0                FLASH_OB_GetPCROP
+                0x08019bcc                FLASH_OB_GetPCROP1
+                0x08019bd8                FLASH_OB_GetRDP
+                0x08019be8                FLASH_OB_GetBOR
+                0x08019bf8                FLASH_ITConfig
+                0x08019c10                FLASH_GetFlagStatus
+                0x08019c24                FLASH_ClearFlag
+                0x08019c30                FLASH_GetStatus
+                0x08019c70                FLASH_WaitForLastOperation
+                0x08019c92                FLASH_EraseSector
+                0x08019d00                FLASH_EraseAllSectors
+                0x08019d5c                FLASH_EraseAllBank1Sectors
+                0x08019db8                FLASH_EraseAllBank2Sectors
+                0x08019e14                FLASH_ProgramDoubleWord
+                0x08019e54                FLASH_ProgramWord
+                0x08019e90                FLASH_ProgramHalfWord
+                0x08019ecc                FLASH_ProgramByte
+                0x08019f04                FLASH_OB_WRPConfig
+                0x08019f2c                FLASH_OB_WRP1Config
+                0x08019f54                FLASH_OB_PCROPConfig
+                0x08019f7c                FLASH_OB_PCROP1Config
+                0x08019fa4                FLASH_OB_RDPConfig
+                0x08019fbc                FLASH_OB_UserConfig
+                0x08019fe4                FLASH_OB_Launch
+                0x08019ff8                FSMC_NORSRAMDeInit
+                0x0801a026                FSMC_NORSRAMInit
+                0x0801a100                FSMC_NORSRAMStructInit
+                0x0801a134                FSMC_NORSRAMCmd
+                0x0801a154                FSMC_NANDDeInit
+                0x0801a178                FSMC_NANDInit
+                0x0801a204                FSMC_NANDStructInit
+                0x0801a22e                FSMC_NANDCmd
+                0x0801a260                FSMC_NANDECCCmd
+                0x0801a294                FSMC_GetECC
+                0x0801a2a8                FSMC_PCCARDDeInit
+                0x0801a2c4                FSMC_PCCARDInit
+                0x0801a33c                FSMC_PCCARDStructInit
+                0x0801a366                FSMC_PCCARDCmd
+                0x0801a384                FSMC_ITConfig
+                0x0801a3c8                FSMC_GetFlagStatus
+                0x0801a3f4                FSMC_ClearFlag
+                0x0801a420                FSMC_GetITStatus
+                0x0801a454                FSMC_ClearITPendingBit
+                0x0801a480                GPIO_DeInit
+                0x0801a58c                GPIO_Init
+                0x0801a60e                GPIO_StructInit
+                0x0801a620                GPIO_PinLockConfig
+                0x0801a644                GPIO_ReadInputDataBit
+                0x0801a650                GPIO_ReadInputData
+                0x0801a656                GPIO_ReadOutputDataBit
+                0x0801a662                GPIO_ReadOutputData
+                0x0801a668                GPIO_SetBits
+                0x0801a66c                GPIO_ResetBits
+                0x0801a670                GPIO_WriteBit
+                0x0801a67a                GPIO_Write
+                0x0801a67e                GPIO_ToggleBits
+                0x0801a686                GPIO_PinAFConfig
+                0x0801a6ac                HASH_DeInit
+                0x0801a6c2                HASH_Init
+                0x0801a704                HASH_StructInit
+                0x0801a710                HASH_Reset
+                0x0801a720                HASH_SetLastWordValidBitsNbr
+                0x0801a738                HASH_DataIn
+                0x0801a744                HASH_GetInFIFOWordsNbr
+                0x0801a754                HASH_GetDigest
+                0x0801a784                HASH_StartDigest
+                0x0801a794                HASH_SaveContext
+                0x0801a7c0                HASH_RestoreContext
+                0x0801a7f8                HASH_AutoStartDigest
+                0x0801a810                HASH_DMACmd
+                0x0801a828                HASH_ITConfig
+                0x0801a840                HASH_GetFlagStatus
+                0x0801a85c                HASH_ClearFlag
+                0x0801a868                HASH_GetITStatus
+                0x0801a880                HASH_ClearITPendingBit
+                0x0801a88c                HASH_MD5
+                0x0801a91c                HMAC_MD5
+                0x0801aa56                HASH_SHA1
+                0x0801aaea                HMAC_SHA1
+                0x0801ac2c                I2C_DeInit
+                0x0801ac88                I2C_Init
+                0x0801ad5c                I2C_StructInit
+                0x0801ad78                I2C_Cmd
+                0x0801ad90                I2C_AnalogFilterCmd
+                0x0801ada8                I2C_DigitalFilterConfig
+                0x0801adba                I2C_GenerateSTART
+                0x0801add2                I2C_GenerateSTOP
+                0x0801adea                I2C_Send7bitAddress
+                0x0801adfa                I2C_AcknowledgeConfig
+                0x0801ae12                I2C_OwnAddress2Config
+                0x0801ae24                I2C_DualAddressCmd
+                0x0801ae3c                I2C_GeneralCallCmd
+                0x0801ae54                I2C_SoftwareResetCmd
+                0x0801ae6c                I2C_StretchClockCmd
+                0x0801ae84                I2C_FastModeDutyCycleConfig
+                0x0801aea0                I2C_NACKPositionConfig
+                0x0801aebc                I2C_SMBusAlertConfig
+                0x0801aed8                I2C_ARPCmd
+                0x0801aef0                I2C_SendData
+                0x0801aef4                I2C_ReceiveData
+                0x0801aefa                I2C_TransmitPEC
+                0x0801af12                I2C_PECPositionConfig
+                0x0801af2e                I2C_CalculatePEC
+                0x0801af46                I2C_GetPEC
+                0x0801af4e                I2C_DMACmd
+                0x0801af66                I2C_DMALastTransferCmd
+                0x0801af7e                I2C_ReadRegister
+                0x0801af96                I2C_ITConfig
+                0x0801afa8                I2C_CheckEvent
+                0x0801afc0                I2C_GetLastEvent
+                0x0801afd0                I2C_GetFlagStatus
+                0x0801b004                I2C_ClearFlag
+                0x0801b00c                I2C_GetITStatus
+                0x0801b028                I2C_ClearITPendingBit
+                0x0801b030                IWDG_WriteAccessCmd
+                0x0801b03c                IWDG_SetPrescaler
+                0x0801b048                IWDG_SetReload
+                0x0801b054                IWDG_ReloadCounter
+                0x0801b064                IWDG_Enable
+                0x0801b074                IWDG_GetFlagStatus
+                0x0801b088                LTDC_DeInit
+                0x0801b0a2                LTDC_Init
+                0x0801b140                LTDC_StructInit
+                0x0801b162                LTDC_Cmd
+                0x0801b17c                LTDC_DitherCmd
+                0x0801b194                LTDC_GetRGBWidth
+                0x0801b1c4                LTDC_RGBStructInit
+                0x0801b1ce                LTDC_LIPConfig
+                0x0801b1d8                LTDC_ReloadConfig
+                0x0801b1e4                LTDC_LayerInit
+                0x0801b27e                LTDC_LayerStructInit
+                0x0801b2aa                LTDC_LayerCmd
+                0x0801b2bc                LTDC_GetPosStatus
+                0x0801b2d8                LTDC_PosStructInit
+                0x0801b2e0                LTDC_GetCDStatus
+                0x0801b2f4                LTDC_ColorKeyingConfig
+                0x0801b330                LTDC_ColorKeyingStructInit
+                0x0801b33a                LTDC_CLUTCmd
+                0x0801b358                LTDC_CLUTInit
+                0x0801b370                LTDC_CLUTStructInit
+                0x0801b37c                LTDC_LayerPosition
+                0x0801b3ec                LTDC_LayerAlpha
+                0x0801b3f0                LTDC_LayerAddress
+                0x0801b3f4                LTDC_LayerSize
+                0x0801b444                LTDC_LayerPixelFormat
+                0x0801b49a                LTDC_ITConfig
+                0x0801b4b0                LTDC_GetFlagStatus
+                0x0801b4c4                LTDC_ClearFlag
+                0x0801b4d0                LTDC_GetITStatus
+                0x0801b4ec                LTDC_ClearITPendingBit
+                0x0801b4f8                PWR_DeInit
+                0x0801b512                PWR_BackupAccessCmd
+                0x0801b51c                PWR_PVDLevelConfig
+                0x0801b530                PWR_PVDCmd
+                0x0801b53c                PWR_WakeUpPinCmd
+                0x0801b548                PWR_BackupRegulatorCmd
+                0x0801b554                PWR_MainRegulatorModeConfig
+                0x0801b568                PWR_OverDriveCmd
+                0x0801b574                PWR_OverDriveSWCmd
+                0x0801b580                PWR_UnderDriveCmd
+                0x0801b598                PWR_FlashPowerDownCmd
+                0x0801b5a4                PWR_EnterSTOPMode
+                0x0801b5dc                PWR_EnterUnderDriveSTOPMode
+                0x0801b614                PWR_EnterSTANDBYMode
+                0x0801b634                PWR_GetFlagStatus
+                0x0801b648                PWR_ClearFlag
+                0x0801b658                RCC_DeInit
+                0x0801b6a0                RCC_HSEConfig
+                0x0801b6b0                RCC_AdjustHSICalibrationValue
+                0x0801b6c4                RCC_HSICmd
+                0x0801b6d0                RCC_LSEConfig
+                0x0801b6f0                RCC_LSICmd
+                0x0801b6fc                RCC_PLLConfig
+                0x0801b71c                RCC_PLLCmd
+                0x0801b728                RCC_PLLI2SConfig
+                0x0801b73c                RCC_PLLI2SCmd
+                0x0801b748                RCC_PLLSAIConfig
+                0x0801b760                RCC_PLLSAICmd
+                0x0801b76c                RCC_ClockSecuritySystemCmd
+                0x0801b778                RCC_MCO1Config
+                0x0801b78c                RCC_MCO2Config
+                0x0801b7a0                RCC_SYSCLKConfig
+                0x0801b7b4                RCC_GetSYSCLKSource
+                0x0801b7c4                RCC_HCLKConfig
+                0x0801b7d8                RCC_PCLK1Config
+                0x0801b7ec                RCC_PCLK2Config
+                0x0801b800                RCC_GetClocksFreq
+                0x0801b888                RCC_RTCCLKConfig
+                0x0801b8b8                RCC_RTCCLKCmd
+                0x0801b8c4                RCC_BackupResetCmd
+                0x0801b8d0                RCC_I2SCLKConfig
+                0x0801b8dc                RCC_SAIBlockACLKConfig
+                0x0801b8f4                RCC_SAIBlockBCLKConfig
+                0x0801b90c                RCC_SAIPLLI2SClkDivConfig
+                0x0801b924                RCC_SAIPLLSAIClkDivConfig
+                0x0801b940                RCC_LTDCCLKDivConfig
+                0x0801b958                RCC_TIMCLKPresConfig
+                0x0801b964                RCC_AHB1PeriphClockCmd
+                0x0801b97c                RCC_AHB2PeriphClockCmd
+                0x0801b994                RCC_AHB3PeriphClockCmd
+                0x0801b9ac                RCC_APB1PeriphClockCmd
+                0x0801b9c4                RCC_APB2PeriphClockCmd
+                0x0801b9dc                RCC_AHB1PeriphResetCmd
+                0x0801b9f4                RCC_AHB2PeriphResetCmd
+                0x0801ba0c                RCC_AHB3PeriphResetCmd
+                0x0801ba24                RCC_APB1PeriphResetCmd
+                0x0801ba3c                RCC_APB2PeriphResetCmd
+                0x0801ba54                RCC_AHB1PeriphClockLPModeCmd
+                0x0801ba6c                RCC_AHB2PeriphClockLPModeCmd
+                0x0801ba84                RCC_AHB3PeriphClockLPModeCmd
+                0x0801ba9c                RCC_APB1PeriphClockLPModeCmd
+                0x0801bab4                RCC_APB2PeriphClockLPModeCmd
+                0x0801bacc                RCC_LSEModeConfig
+                0x0801bae4                RCC_ITConfig
+                0x0801bafc                RCC_GetFlagStatus
+                0x0801bb28                RCC_WaitForHSEStartUp
+                0x0801bb58                RCC_ClearFlag
+                0x0801bb68                RCC_GetITStatus
+                0x0801bb7c                RCC_ClearITPendingBit
+                0x0801bb88                RNG_DeInit
+                0x0801bb9e                RNG_Cmd
+                0x0801bbb8                RNG_GetRandomNumber
+                0x0801bbc4                RNG_ITConfig
+                0x0801bbdc                RNG_GetFlagStatus
+                0x0801bbf0                RNG_ClearFlag
+                0x0801bc00                RNG_GetITStatus
+                0x0801bc14                RNG_ClearITPendingBit
+                0x0801bc4c                RTC_StructInit
+                0x0801bc58                RTC_WriteProtectionCmd
+                0x0801bc70                RTC_EnterInitMode
+                0x0801bcb0                RTC_ExitInitMode
+                0x0801bcc0                RTC_Init
+                0x0801bd04                RTC_WaitForSynchro
+                0x0801bd48                RTC_DeInit
+                0x0801bdd4                RTC_RefClockCmd
+                0x0801be08                RTC_BypassShadowCmd
+                0x0801be2c                RTC_SetTime
+                0x0801bec4                RTC_TimeStructInit
+                0x0801bed0                RTC_GetTime
+                0x0801bf14                RTC_GetSubSecond
+                0x0801bf20                RTC_SetDate
+                0x0801bfb0                RTC_DateStructInit
+                0x0801bfbe                RTC_GetDate
+                0x0801c000                RTC_SetAlarm
+                0x0801c0a4                RTC_AlarmStructInit
+                0x0801c0b8                RTC_GetAlarm
+                0x0801c11c                RTC_AlarmCmd
+                0x0801c178                RTC_AlarmSubSecondConfig
+                0x0801c19c                RTC_GetAlarmSubSecond
+                0x0801c1b4                RTC_WakeUpClockConfig
+                0x0801c1d8                RTC_SetWakeUpCounter
+                0x0801c1f0                RTC_GetWakeUpCounter
+                0x0801c1fc                RTC_WakeUpCmd
+                0x0801c250                RTC_DayLightSavingConfig
+                0x0801c274                RTC_GetStoreOperation
+                0x0801c284                RTC_OutputConfig
+                0x0801c2a8                RTC_CoarseCalibConfig
+                0x0801c2d4                RTC_CoarseCalibCmd
+                0x0801c308                RTC_CalibOutputCmd
+                0x0801c32c                RTC_CalibOutputConfig
+                0x0801c350                RTC_SmoothCalibConfig
+                0x0801c394                RTC_TimeStampCmd
+                0x0801c3bc                RTC_GetTimeStamp
+                0x0801c430                RTC_GetTimeStampSubSecond
+                0x0801c43c                RTC_TamperTriggerConfig
+                0x0801c454                RTC_TamperCmd
+                0x0801c46c                RTC_TamperFilterConfig
+                0x0801c484                RTC_TamperSamplingFreqConfig
+                0x0801c49c                RTC_TamperPinsPrechargeDuration
+                0x0801c4b4                RTC_TimeStampOnTamperDetectionCmd
+                0x0801c4cc                RTC_TamperPullUpCmd
+                0x0801c4e4                RTC_WriteBackupRegister
+                0x0801c504                RTC_ReadBackupRegister
+                0x0801c524                RTC_TamperPinSelection
+                0x0801c53c                RTC_TimeStampPinSelection
+                0x0801c554                RTC_OutputTypeConfig
+                0x0801c56c                RTC_SynchroShiftConfig
+                0x0801c5c0                RTC_ITConfig
+                0x0801c5fc                RTC_GetFlagStatus
+                0x0801c618                RTC_ClearFlag
+                0x0801c634                RTC_GetITStatus
+                0x0801c664                RTC_ClearITPendingBit
+                0x0801c680                SAI_DeInit
+                0x0801c6a8                SAI_Init
+                0x0801c6ec                SAI_FrameInit
+                0x0801c718                SAI_SlotInit
+                0x0801c73a                SAI_StructInit
+                0x0801c754                SAI_FrameStructInit
+                0x0801c768                SAI_SlotStructInit
+                0x0801c776                SAI_Cmd
+                0x0801c788                SAI_MonoModeConfig
+                0x0801c79a                SAI_TRIStateConfig
+                0x0801c7ac                SAI_CompandingModeConfig
+                0x0801c7bc                SAI_MuteModeCmd
+                0x0801c7ce                SAI_MuteValueConfig
+                0x0801c7de                SAI_MuteFrameCounterConfig
+                0x0801c7f0                SAI_FlushFIFO
+                0x0801c7fa                SAI_ReceiveData
+                0x0801c7fe                SAI_SendData
+                0x0801c802                SAI_DMACmd
+                0x0801c814                SAI_ITConfig
+                0x0801c824                SAI_GetFlagStatus
+                0x0801c830                SAI_ClearFlag
+                0x0801c838                SAI_GetITStatus
+                0x0801c84a                SAI_ClearITPendingBit
+                0x0801c852                SAI_GetCmdStatus
+                0x0801c85a                SAI_GetFIFOStatus
+                0x0801c864                SDIO_DeInit
+                0x0801c87e                SDIO_Init
+                0x0801c8ac                SDIO_StructInit
+                0x0801c8bc                SDIO_ClockCmd
+                0x0801c8c8                SDIO_SetPowerState
+                0x0801c8d4                SDIO_GetPowerState
+                0x0801c8e4                SDIO_SendCommand
+                0x0801c910                SDIO_CmdStructInit
+                0x0801c91e                SDIO_GetCommandResponse
+                0x0801c92c                SDIO_GetResponse
+                0x0801c944                SDIO_DataConfig
+                0x0801c970                SDIO_DataStructInit
+                0x0801c984                SDIO_GetDataCounter
+                0x0801c990                SDIO_ReadData
+                0x0801c99c                SDIO_WriteData
+                0x0801c9a8                SDIO_GetFIFOCount
+                0x0801c9b4                SDIO_StartSDIOReadWait
+                0x0801c9c0                SDIO_StopSDIOReadWait
+                0x0801c9cc                SDIO_SetSDIOReadWaitMode
+                0x0801c9d8                SDIO_SetSDIOOperation
+                0x0801c9e4                SDIO_SendSDIOSuspendCmd
+                0x0801c9f0                SDIO_CommandCompletionCmd
+                0x0801c9fc                SDIO_CEATAITCmd
+                0x0801ca10                SDIO_SendCEATACmd
+                0x0801ca1c                SDIO_DMACmd
+                0x0801ca28                SDIO_ITConfig
+                0x0801ca40                SDIO_GetFlagStatus
+                0x0801ca54                SDIO_ClearFlag
+                0x0801ca60                SDIO_GetITStatus
+                0x0801ca74                SDIO_ClearITPendingBit
+                0x0801ca80                SPI_I2S_DeInit
+                0x0801cb30                SPI_Init
+                0x0801cb6e                I2S_Init
+                0x0801cc54                SPI_StructInit
+                0x0801cc6c                I2S_StructInit
+                0x0801cc7e                SPI_Cmd
+                0x0801cc96                I2S_Cmd
+                0x0801ccae                SPI_DataSizeConfig
+                0x0801ccc4                SPI_BiDirectionalLineConfig
+                0x0801cce0                SPI_NSSInternalSoftwareConfig
+                0x0801ccfe                SPI_SSOutputCmd
+                0x0801cd16                SPI_TIModeCmd
+                0x0801cd2e                I2S_FullDuplexConfig
+                0x0801cd72                SPI_I2S_ReceiveData
+                0x0801cd78                SPI_I2S_SendData
+                0x0801cd7c                SPI_CalculateCRC
+                0x0801cd94                SPI_TransmitCRC
+                0x0801cda0                SPI_GetCRC
+                0x0801cdac                SPI_GetCRCPolynomial
+                0x0801cdb2                SPI_I2S_DMACmd
+                0x0801cdc4                SPI_I2S_ITConfig
+                0x0801cde2                SPI_I2S_GetFlagStatus
+                0x0801cdee                SPI_I2S_ClearFlag
+                0x0801cdf6                SPI_I2S_GetITStatus
+                0x0801ce1c                SPI_I2S_ClearITPendingBit
+                0x0801ce2c                SYSCFG_DeInit
+                0x0801ce46                SYSCFG_MemoryRemapConfig
+                0x0801ce50                SYSCFG_MemorySwappingBank
+                0x0801ce5c                SYSCFG_EXTILineConfig
+                0x0801ce86                SYSCFG_ETH_MediaInterfaceConfig
+                0x0801ce90                SYSCFG_CompensationCellCmd
+                0x0801ce9c                SYSCFG_GetCompensationCellStatus
+                0x0801cf18                TIM_DeInit
+                0x0801d06c                TIM_TimeBaseInit
+                0x0801d0e8                TIM_TimeBaseStructInit
+                0x0801d0fa                TIM_PrescalerConfig
+                0x0801d100                TIM_CounterModeConfig
+                0x0801d110                TIM_SetCounter
+                0x0801d114                TIM_SetAutoreload
+                0x0801d118                TIM_GetCounter
+                0x0801d11c                TIM_GetPrescaler
+                0x0801d122                TIM_UpdateDisableConfig
+                0x0801d13a                TIM_UpdateRequestConfig
+                0x0801d152                TIM_ARRPreloadConfig
+                0x0801d16a                TIM_SelectOnePulseMode
+                0x0801d180                TIM_SetClockDivision
+                0x0801d196                TIM_Cmd
+                0x0801d1ae                TIM_OC1Init
+                0x0801d220                TIM_OC2Init
+                0x0801d2a8                TIM_OC3Init
+                0x0801d32c                TIM_OC4Init
+                0x0801d394                TIM_OCStructInit
+                0x0801d3a8                TIM_SelectOCxM
+                0x0801d3ee                TIM_SetCompare1
+                0x0801d3f2                TIM_SetCompare2
+                0x0801d3f6                TIM_SetCompare3
+                0x0801d3fa                TIM_SetCompare4
+                0x0801d3fe                TIM_ForcedOC1Config
+                0x0801d40e                TIM_ForcedOC2Config
+                0x0801d422                TIM_ForcedOC3Config
+                0x0801d432                TIM_ForcedOC4Config
+                0x0801d446                TIM_OC1PreloadConfig
+                0x0801d456                TIM_OC2PreloadConfig
+                0x0801d46a                TIM_OC3PreloadConfig
+                0x0801d47a                TIM_OC4PreloadConfig
+                0x0801d48e                TIM_OC1FastConfig
+                0x0801d49e                TIM_OC2FastConfig
+                0x0801d4b2                TIM_OC3FastConfig
+                0x0801d4c2                TIM_OC4FastConfig
+                0x0801d4d6                TIM_ClearOC1Ref
+                0x0801d4e6                TIM_ClearOC2Ref
+                0x0801d4f6                TIM_ClearOC3Ref
+                0x0801d506                TIM_ClearOC4Ref
+                0x0801d516                TIM_OC1PolarityConfig
+                0x0801d526                TIM_OC1NPolarityConfig
+                0x0801d536                TIM_OC2PolarityConfig
+                0x0801d54a                TIM_OC2NPolarityConfig
+                0x0801d55e                TIM_OC3PolarityConfig
+                0x0801d572                TIM_OC3NPolarityConfig
+                0x0801d586                TIM_OC4PolarityConfig
+                0x0801d59a                TIM_CCxCmd
+                0x0801d5b6                TIM_CCxNCmd
+                0x0801d5d2                TIM_ICStructInit
+                0x0801d5e2                TIM_GetCapture1
+                0x0801d5e6                TIM_GetCapture2
+                0x0801d5ea                TIM_GetCapture3
+                0x0801d5ee                TIM_GetCapture4
+                0x0801d5f2                TIM_SetIC1Prescaler
+                0x0801d608                TIM_SetIC2Prescaler
+                0x0801d622                TIM_PWMIConfig
+                0x0801d690                TIM_SetIC3Prescaler
+                0x0801d6a6                TIM_SetIC4Prescaler
+                0x0801d6c0                TIM_ICInit
+                0x0801d778                TIM_BDTRConfig
+                0x0801d79a                TIM_BDTRStructInit
+                0x0801d7ac                TIM_CtrlPWMOutputs
+                0x0801d7c8                TIM_SelectCOM
+                0x0801d7e0                TIM_CCPreloadControl
+                0x0801d7f8                TIM_ITConfig
+                0x0801d80a                TIM_GenerateEvent
+                0x0801d80e                TIM_GetFlagStatus
+                0x0801d81a                TIM_ClearFlag
+                0x0801d822                TIM_GetITStatus
+                0x0801d838                TIM_ClearITPendingBit
+                0x0801d840                TIM_DMAConfig
+                0x0801d848                TIM_DMACmd
+                0x0801d85a                TIM_SelectCCDMA
+                0x0801d872                TIM_InternalClockConfig
+                0x0801d880                TIM_ITRxExternalClockConfig
+                0x0801d89a                TIM_TIxExternalClockConfig
+                0x0801d8ce                TIM_SelectInputTrigger
+                0x0801d8de                TIM_SelectOutputTrigger
+                0x0801d8f4                TIM_SelectSlaveMode
+                0x0801d90a                TIM_SelectMasterSlaveMode
+                0x0801d920                TIM_ETRConfig
+                0x0801d934                TIM_ETRClockMode1Config
+                0x0801d94e                TIM_ETRClockMode2Config
+                0x0801d962                TIM_EncoderInterfaceConfig
+                0x0801d99e                TIM_SelectHallSensor
+                0x0801d9b6                TIM_RemapConfig
+                0x0801d9bc                USART_DeInit
+                0x0801da98                USART_Init
+                0x0801db4c                USART_StructInit
+                0x0801db62                USART_ClockInit
+                0x0801db82                USART_ClockStructInit
+                0x0801db8e                USART_Cmd
+                0x0801dba6                USART_SetPrescaler
+                0x0801dbb8                USART_OverSampling8Cmd
+                0x0801dbd0                USART_OneBitMethodCmd
+                0x0801dbe8                USART_SendData
+                0x0801dbf0                USART_ReceiveData
+                0x0801dbf8                USART_SetAddress
+                0x0801dc0e                USART_ReceiverWakeUpCmd
+                0x0801dc26                USART_WakeUpConfig
+                0x0801dc3c                USART_LINBreakDetectLengthConfig
+                0x0801dc52                USART_LINCmd
+                0x0801dc6a                USART_SendBreak
+                0x0801dc76                USART_HalfDuplexCmd
+                0x0801dc8e                USART_SetGuardTime
+                0x0801dca0                USART_SmartCardCmd
+                0x0801dcb8                USART_SmartCardNACKCmd
+                0x0801dcd0                USART_IrDAConfig
+                0x0801dce6                USART_IrDACmd
+                0x0801dcfe                USART_DMACmd
+                0x0801dd10                USART_ITConfig
+                0x0801dd40                USART_GetFlagStatus
+                0x0801dd4c                USART_ClearFlag
+                0x0801dd54                USART_GetITStatus
+                0x0801dd94                USART_ClearITPendingBit
+                0x0801dda4                WWDG_DeInit
+                0x0801ddbe                WWDG_SetPrescaler
+                0x0801ddd0                WWDG_SetWindowValue
+                0x0801ddf8                WWDG_EnableIT
+                0x0801de04                WWDG_SetCounter
+                0x0801de14                WWDG_Enable
+                0x0801de24                WWDG_GetFlagStatus
+                0x0801de34                WWDG_ClearFlag
+                0x0801de40                SystemInit
+                0x0801df1c                SystemCoreClockUpdate
+ .text          0x0801df8c        0x8 ./build-qemu-m4-test/target.mod.o
+                0x0801df90                target_set_led
+                0x0801df92                target_quiesce
+ .text          0x0801df94      0x434 ./build-qemu-m4-test/kernel/novm.mod.o
+                0x0801e054                novm_get_arenas
+                0x0801e078                novm_add_arena
+                0x0801e0a8                novm_alloc_helper
+                0x0801e0f6                novm_alloc_pages
+                0x0801e114                novm_alloc_unaligned
+                0x0801e13c                novm_free_pages
+                0x0801e36c                novm_alloc_specific_pages
+ .text          0x0801e3c8      0x3b0 ./build-qemu-m4-test/lib/bcache.mod.o
+                0x0801e530                bcache_create
+                0x0801e5ae                bcache_destroy
+                0x0801e610                bcache_read_block
+                0x0801e634                bcache_get_block
+                0x0801e674                bcache_put_block
+                0x0801e6c0                bcache_mark_block_dirty
+                0x0801e6d6                bcache_zero_block
+                0x0801e708                bcache_flush
+                0x0801e72c                bcache_dump
+ .text          0x0801e778      0x94c ./build-qemu-m4-test/lib/console.mod.o
+                0x0801ee28                console_abort_script
+                0x0801ee34                console_start
+                0x0801ee78                console_run_script
+                0x0801ee7c                console_run_script_locked
+                0x0801ef40                console_get_command_handler
+                0x0801ef4e                console_register_commands
+                0x0801ef9c                console_init
+                0x0801efe0                panic_shell_start
+ .text          0x0801f0c4      0x21c ./build-qemu-m4-test/lib/debug.mod.o
+                0x0801f0f8                spin
+                0x0801f120                _panic
+                0x0801f148                get_panic_fd
+                0x0801f150                hexdump
+                0x0801f214                hexdump8_ex
+ .text          0x0801f2e0      0x500 ./build-qemu-m4-test/lib/heap.mod.o
+                0x0801f2fc                heap_init
+                0x0801f310                heap_trim
+                0x0801f32c                malloc
+                0x0801f36c                memalign
+                0x0801f3b0                calloc
+                0x0801f408                realloc
+                0x0801f44c                free
+                0x0801f734                heap_delayed_free
+                0x0801f7bc                page_alloc
+                0x0801f7c0                page_free
+                0x0801f7c4                page_get_arenas
+                0x0801f7c8                page_first_alloc
+                0x0801f7cc                operator new(unsigned int)
+                0x0801f7d0                operator new[](unsigned int)
+                0x0801f7d4                operator new(unsigned int, void*)
+                0x0801f7d8                operator delete(void*)
+                0x0801f7dc                operator delete[](void*)
+ .text.unlikely
+                0x0801f7e0       0x6c ./build-qemu-m4-test/lib/heap.mod.o
+ .text          0x0801f84c       0x84 ./build-qemu-m4-test/lib/iovec.mod.o
+                0x0801f84c                iovec_size
+                0x0801f86e                iovec_to_membuf
+ .text          0x0801f8d0     0x1a18 ./build-qemu-m4-test/lib/libc.mod.o
+                0x0801f8fc                atol
+                0x0801f958                atoi
+                0x0801f95c                atoul
+                0x0801f9a6                atoui
+                0x0801f9aa                atoull
+                0x0801fa26                strtoul
+                0x0801fb00                bsearch
+                0x0801fb44                isblank
+                0x0801fb56                isspace
+                0x0801fb68                islower
+                0x0801fb74                isupper
+                0x0801fb80                isdigit
+                0x0801fb8c                isalpha
+                0x0801fb9c                isalnum
+                0x0801fbb8                isxdigit
+                0x0801fbd4                isgraph
+                0x0801fbe0                iscntrl
+                0x0801fbf2                isprint
+                0x0801fbfe                ispunct
+                0x0801fc1a                tolower
+                0x0801fc26                toupper
+                0x0801fc34                __geterrno
+                0x08020180                _printf_engine
+                0x080205fa                vsnprintf
+                0x08020628                snprintf
+                0x08020642                vsprintf
+                0x08020656                sprintf
+                0x08020670                srand
+                0x0802067c                rand_add_entropy
+                0x080206a4                rand
+                0x080206c0                strtol
+                0x080207ee                strtoll
+                0x080209c0                fputc
+                0x080209d8                putchar
+                0x080209e4                fputs
+                0x080209fc                puts
+                0x08020a1c                fwrite
+                0x08020a4a                getc
+                0x08020a66                getchar
+                0x08020a70                vfprintf
+                0x08020a8c                fprintf
+                0x08020aa6                _printf
+                0x08020ac8                _vprintf
+                0x08020b4c                qsort
+                0x08020dc4                __aeabi_unwind_cpp_pr0
+                0x08020dc8                __aeabi_unwind_cpp_pr1
+                0x08020dcc                __aeabi_unwind_cpp_pr2
+                0x08020dd0                raise
+                0x08020dd2                __aeabi_atexit
+                0x08020ddc                atexit
+                0x08020de0                memchr
+                0x08020dfc                memcmp
+                0x08020e1c                memmove
+                0x08020f18                strcat
+                0x08020f32                strchr
+                0x08020f4c                strcmp
+                0x08020f66                strcoll
+                0x08020f6a                strcpy
+                0x08020f78                strdup
+                0x08020f98                strerror
+                0x08020fb0                strlcat
+                0x08020ff0                strlcpy
+                0x0802101e                strlen
+                0x0802102c                strncat
+                0x08021052                strncpy
+                0x08021066                strncmp
+                0x08021088                strncasecmp
+                0x08021088                strnicmp
+                0x080210cc                strnlen
+                0x080210e6                strpbrk
+                0x08021106                strrchr
+                0x08021124                strspn
+                0x08021140                strstr
+                0x08021188                strtok
+                0x080211cc                strxfrm
+                0x080211fc                __cxa_pure_virtual
+                0x0802120c                __cxa_atexit
+                0x08021210                bcopy
+                0x08021216                memcpy
+                0x080212a0                bzero
+                0x080212a4                memset
+ .text          0x080212e8      0x108 ./build-qemu-m4-test/lib/pool.mod.o
+                0x080212e8                pool_alloc
+                0x08021318                pool_free
+                0x08021358                pool_init
+ .text          0x080213f0      0x284 ./build-qemu-m4-test/lib/tftp.mod.o
+                0x080215b4                tftp_set_write_client
+                0x08021664                tftp_server_init
+ .text          0x08021674      0x514 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+                0x08021770                miniheap_dump
+                0x080217cc                miniheap_alloc
+                0x0802196c                miniheap_free
+                0x080219b4                miniheap_realloc
+                0x080219f0                miniheap_trim
+                0x08021b04                miniheap_get_stats
+                0x08021b50                miniheap_init
+ .text          0x08021b88      0x170 ./build-qemu-m4-test/lib/io.mod.o
+                0x08021c24                register_print_callback
+                0x08021c54                unregister_print_callback
+                0x08021c80                io_write
+                0x08021cbc                io_read
+ .text          0x08021cf8       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+                0x08021cf8                __aeabi_llsr
+                0x08021cf8                __lshrdi3
+ .text          0x08021d10       0x18 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+                0x08021d10                __ashldi3
+                0x08021d10                __aeabi_llsl
+ .text          0x08021d28      0x370 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+                0x08021d28                __aeabi_drsub
+                0x08021d30                __aeabi_dsub
+                0x08021d30                __subdf3
+                0x08021d34                __adddf3
+                0x08021d34                __aeabi_dadd
+                0x08021fac                __aeabi_ui2d
+                0x08021fac                __floatunsidf
+                0x08021fcc                __floatsidf
+                0x08021fcc                __aeabi_i2d
+                0x08021ff0                __extendsfdf2
+                0x08021ff0                __aeabi_f2d
+                0x0802202c                __aeabi_ul2d
+                0x0802202c                __floatundidf
+                0x0802203c                __floatdidf
+                0x0802203c                __aeabi_l2d
+ .text          0x08022098      0x424 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+                0x08022098                __aeabi_dmul
+                0x08022098                __muldf3
+                0x080222ec                __aeabi_ddiv
+                0x080222ec                __divdf3
+ .text          0x080224bc      0x110 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+                0x080224bc                __gtdf2
+                0x080224bc                __gedf2
+                0x080224c4                __ltdf2
+                0x080224c4                __ledf2
+                0x080224cc                __cmpdf2
+                0x080224cc                __eqdf2
+                0x080224cc                __nedf2
+                0x08022548                __aeabi_cdrcmple
+                0x08022558                __aeabi_cdcmple
+                0x08022558                __aeabi_cdcmpeq
+                0x08022568                __aeabi_dcmpeq
+                0x0802257c                __aeabi_dcmplt
+                0x08022590                __aeabi_dcmple
+                0x080225a4                __aeabi_dcmpge
+                0x080225b8                __aeabi_dcmpgt
+ .text          0x080225cc       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+                0x080225cc                __fixdfsi
+                0x080225cc                __aeabi_d2iz
+ .text          0x0802261c       0x40 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+                0x0802261c                __fixunsdfsi
+                0x0802261c                __aeabi_d2uiz
+ .text          0x0802265c       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+                0x0802265c                __aeabi_d2f
+                0x0802265c                __truncdfsf2
+ .text          0x080226fc      0x21c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+                0x080226fc                __aeabi_frsub
+                0x08022704                __subsf3
+                0x08022704                __aeabi_fsub
+                0x08022708                __aeabi_fadd
+                0x08022708                __addsf3
+                0x08022868                __aeabi_ui2f
+                0x08022868                __floatunsisf
+                0x08022870                __aeabi_i2f
+                0x08022870                __floatsisf
+                0x0802288c                __floatundisf
+                0x0802288c                __aeabi_ul2f
+                0x0802289c                __floatdisf
+                0x0802289c                __aeabi_l2f
+ .text          0x08022918      0x2a0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+                0x08022918                __mulsf3
+                0x08022918                __aeabi_fmul
+                0x08022a80                __divsf3
+                0x08022a80                __aeabi_fdiv
+ .text          0x08022bb8       0xec /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+                0x08022bb8                __gtsf2
+                0x08022bb8                __gesf2
+                0x08022bc0                __lesf2
+                0x08022bc0                __ltsf2
+                0x08022bc8                __nesf2
+                0x08022bc8                __eqsf2
+                0x08022bc8                __cmpsf2
+                0x08022c28                __aeabi_cfrcmple
+                0x08022c30                __aeabi_cfcmple
+                0x08022c30                __aeabi_cfcmpeq
+                0x08022c40                __aeabi_fcmpeq
+                0x08022c54                __aeabi_fcmplt
+                0x08022c68                __aeabi_fcmple
+                0x08022c7c                __aeabi_fcmpge
+                0x08022c90                __aeabi_fcmpgt
+ .text          0x08022ca4       0x4c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+                0x08022ca4                __fixsfsi
+                0x08022ca4                __aeabi_f2iz
+ .text          0x08022cf0       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+                0x08022cf0                __aeabi_ldivmod
+ .text          0x08022d28       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+                0x08022d28                __aeabi_uldivmod
+ .text          0x08022d54       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+                0x08022d54                __gnu_ldivmod_helper
+                0x08022d84                __gnu_uldivmod_helper
+ .text          0x08022db4        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+                0x08022db4                __aeabi_ldiv0
+                0x08022db4                __aeabi_idiv0
+ .text          0x08022db8      0x2ac /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+                0x08022db8                __divdi3
+ .text          0x08023064      0x27c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+                0x08023064                __udivdi3
+
+.glue_7         0x080232e0        0x0
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x080232e0        0x0
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x080232e0        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x080232e0        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x080232e0        0x0
+ .iplt          0x00000000        0x0 ./build-qemu-m4-test/target/qemu-m4.mod.o
+
+.RamFunc        0x080232e0       0x30
+ .RamFunc       0x080232e0       0x30 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+                0x080232e0                FLASH_FlashInterfaceCmd
+                0x080232f8                FLASH_FlashSleepModeCmd
+
+.rel.dyn        0x08023310        0x0
+ .rel.iplt      0x00000000        0x0 ./build-qemu-m4-test/target/qemu-m4.mod.o
+
+.interp
+ *(.interp)
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+                0x08023310                __exidx_start = .
+
+.ARM.exidx      0x08023310        0x8
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x08023310        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x08023318        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x08023318                __exidx_end = .
+
+.rodata         0x08023318     0x9671
+                0x08023318                __rodata_start = .
+                0x08023318                __fault_handler_table_start = .
+ *(.rodata.fault_handler_table)
+                0x08023318                __fault_handler_table_end = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x08023318       0x6b ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .rodata.str1.1
+                0x08023383       0x83 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ *fill*         0x08023406        0x2 
+ .rodata        0x08023408       0x64 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .rodata.str1.1
+                0x0802346c       0x83 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+                                 0xcb (size before relaxing)
+ .rodata.str1.1
+                0x080234ef      0x26b ./build-qemu-m4-test/arch/arm.mod.o
+                                0x26d (size before relaxing)
+ .rodata.str1.1
+                0x0802375a      0x13b ./build-qemu-m4-test/top.mod.o
+                                0x159 (size before relaxing)
+ .rodata.str1.1
+                0x08023895       0x11 ./build-qemu-m4-test/app.mod.o
+ .rodata        0x080238a6       0x54 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .rodata.str1.1
+                0x080238fa      0x27d ./build-qemu-m4-test/app/inetsrv.mod.o
+ .rodata.str1.1
+                0x08023b77        0x6 ./build-qemu-m4-test/app/shell.mod.o
+ *fill*         0x08023b7d        0x3 
+ .rodata        0x08023b80       0x10 ./build-qemu-m4-test/app/stringtests.mod.o
+ .rodata.str1.1
+                0x08023b90      0x25f ./build-qemu-m4-test/app/stringtests.mod.o
+                                0x2be (size before relaxing)
+ *fill*         0x08023def        0x1 
+ .rodata        0x08023df0      0x20e ./build-qemu-m4-test/app/tests.mod.o
+                0x08023df0                ITER
+                0x08023df4                BUFSIZE
+ .rodata.str1.1
+                0x08023ffe     0x1a95 ./build-qemu-m4-test/app/tests.mod.o
+                               0x1bcc (size before relaxing)
+ .rodata.str1.1
+                0x08025a93       0x46 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+                                 0x6a (size before relaxing)
+ .rodata        0x08025ad9       0x20 ./build-qemu-m4-test/dev.mod.o
+ .rodata.str1.1
+                0x08025af9       0x9f ./build-qemu-m4-test/dev.mod.o
+                                 0xc3 (size before relaxing)
+ .rodata        0x08025b98       0x48 ./build-qemu-m4-test/kernel.mod.o
+ .rodata.str1.1
+                0x08025be0      0x73e ./build-qemu-m4-test/kernel.mod.o
+                                0x85c (size before relaxing)
+ *fill*         0x0802631e        0x2 
+ .rodata        0x08026320     0x2828 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .rodata        0x08028b48       0x5c ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .rodata.str1.1
+                0x08028ba4      0x156 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ *fill*         0x08028cfa        0x2 
+ .rodata        0x08028cfc       0x20 ./build-qemu-m4-test/lib/bio.mod.o
+ .rodata.str1.1
+                0x08028d1c      0x864 ./build-qemu-m4-test/lib/bio.mod.o
+                                0x905 (size before relaxing)
+ .rodata.str1.1
+                0x08029580       0x74 ./build-qemu-m4-test/lib/cbuf.mod.o
+                                 0x9f (size before relaxing)
+ .rodata        0x080295f4      0x440 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .rodata.str1.1
+                0x08029a34       0xde ./build-qemu-m4-test/external/lib/cksum.mod.o
+                                0x100 (size before relaxing)
+ *fill*         0x08029b12        0x2 
+ .rodata        0x08029b14      0x100 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .rodata.str1.1
+                0x08029c14      0x31b ./build-qemu-m4-test/lib/debugcommands.mod.o
+                                0x33f (size before relaxing)
+ *fill*         0x08029f2f        0x1 
+ .rodata        0x08029f30       0x90 ./build-qemu-m4-test/lib/fs.mod.o
+ .rodata.str1.1
+                0x08029fc0      0x3cb ./build-qemu-m4-test/lib/fs.mod.o
+                                0x44d (size before relaxing)
+ *fill*         0x0802a38b        0x1 
+ .rodata        0x0802a38c       0x44 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .rodata.str1.1
+                0x0802a3d0       0x21 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ *fill*         0x0802a3f1        0x3 
+ .rodata        0x0802a3f4       0x54 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .rodata.str1.1
+                0x0802a448      0x26d ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ *fill*         0x0802a6b5        0x3 
+ .rodata        0x0802a6b8       0x44 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .rodata.str1.1
+                0x0802a6fc        0x6 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ *fill*         0x0802a702        0x2 
+ .rodata        0x0802a704       0x64 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .rodata.str1.1
+                0x0802a768      0x12e ./build-qemu-m4-test/lib/fs/spifs.mod.o
+                                0x152 (size before relaxing)
+ *fill*         0x0802a896        0x2 
+ .rodata        0x0802a898       0xac ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .rodata.str1.1
+                0x0802a944      0x620 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+                                0x65e (size before relaxing)
+ .rodata        0x0802af64       0x10 ./build-qemu-m4-test/lib/gfx.mod.o
+ .rodata.str1.1
+                0x0802af74      0x2b8 ./build-qemu-m4-test/lib/gfx.mod.o
+                                0x2f5 (size before relaxing)
+ *fill*         0x0802b22c        0x4 
+ .rodata        0x0802b230      0x220 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .rodata        0x0802b450       0x90 ./build-qemu-m4-test/lib/minip.mod.o
+ .rodata.str1.1
+                0x0802b4e0      0x88a ./build-qemu-m4-test/lib/minip.mod.o
+                                0x967 (size before relaxing)
+ *fill*         0x0802bd6a        0x2 
+ .rodata        0x0802bd6c       0x28 ./build-qemu-m4-test/lib/version.mod.o
+                0x0802bd7c                version
+ .rodata.str1.1
+                0x0802bd94       0x92 ./build-qemu-m4-test/lib/version.mod.o
+                                 0x9a (size before relaxing)
+ *fill*         0x0802be26        0x2 
+ .rodata        0x0802be28       0x20 ./build-qemu-m4-test/platform.mod.o
+ .rodata.str1.1
+                0x0802be48       0x4e ./build-qemu-m4-test/platform.mod.o
+ .rodata.str1.1
+                0x0802be96        0x8 ./build-qemu-m4-test/platform/stm32.mod.o
+                                 0x31 (size before relaxing)
+ *fill*         0x0802be9e        0x2 
+ .rodata        0x0802bea0       0x1c ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+                0x0802bea0                FSMC_DefaultTimingStruct
+ .rodata        0x0802bebc       0x10 ./build-qemu-m4-test/kernel/novm.mod.o
+ .rodata.str1.1
+                0x0802becc      0x1f0 ./build-qemu-m4-test/kernel/novm.mod.o
+                                0x23c (size before relaxing)
+ .rodata.str1.1
+                0x0802c0bc       0xcb ./build-qemu-m4-test/lib/bcache.mod.o
+                                 0xf3 (size before relaxing)
+ *fill*         0x0802c187        0x1 
+ .rodata        0x0802c188       0x70 ./build-qemu-m4-test/lib/console.mod.o
+ .rodata.str1.1
+                0x0802c1f8      0x22a ./build-qemu-m4-test/lib/console.mod.o
+                                0x27b (size before relaxing)
+ *fill*         0x0802c422        0x2 
+ .rodata        0x0802c424        0x8 ./build-qemu-m4-test/lib/debug.mod.o
+ .rodata.str1.1
+                0x0802c42c       0x3a ./build-qemu-m4-test/lib/debug.mod.o
+                                 0x5d (size before relaxing)
+ *fill*         0x0802c466        0x2 
+ .rodata        0x0802c468       0x20 ./build-qemu-m4-test/lib/heap.mod.o
+ .rodata.str1.1
+                0x0802c488      0x20d ./build-qemu-m4-test/lib/heap.mod.o
+                                0x2ce (size before relaxing)
+ .rodata        0x0802c695       0x20 ./build-qemu-m4-test/lib/libc.mod.o
+ .rodata.str1.1
+                0x0802c6b5       0x72 ./build-qemu-m4-test/lib/libc.mod.o
+ .rodata.str1.1
+                0x0802c727       0x9f ./build-qemu-m4-test/lib/pool.mod.o
+                                 0xc3 (size before relaxing)
+ .rodata.str1.1
+                0x0802c7c6       0x1d ./build-qemu-m4-test/lib/tftp.mod.o
+                                 0x41 (size before relaxing)
+ .rodata        0x0802c7e3        0xa ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .rodata.str1.1
+                0x0802c7ed      0x16a ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+                                0x18e (size before relaxing)
+ *fill*         0x0802c957        0x1 
+ .rodata        0x0802c958        0x8 ./build-qemu-m4-test/lib/io.mod.o
+ .rodata.str1.1
+                0x0802c960       0x29 ./build-qemu-m4-test/lib/io.mod.o
+                                 0x4d (size before relaxing)
+
+.ARM.extab      0x0802c989        0x0
+ .ARM.extab     0x0802c989        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .ARM.extab     0x0802c989        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.fs_impls       0x0802c98c       0x20
+                0x0802c98c                __fs_impl_start = .
+ *(.fs_impl)
+ .fs_impl       0x0802c98c        0x8 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+                0x0802c98c                __fs_impl_ext2
+ .fs_impl       0x0802c994        0x8 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+                0x0802c994                __fs_impl_fat32
+ .fs_impl       0x0802c99c        0x8 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+                0x0802c99c                __fs_impl_memfs
+ .fs_impl       0x0802c9a4        0x8 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+                0x0802c9a4                __fs_impl_spifs
+                0x0802c9ac                __fs_impl_end = .
+
+.drivers        0x0802c9ac        0x0
+                0x0802c9ac                __drivers = .
+ *(.drivers)
+                0x0802c9ac                __drivers_end = .
+
+.apps           0x0802c9ac       0x50
+                0x0802c9ac                __apps_start = .
+ *(.apps)
+ .apps          0x0802c9ac       0x14 ./build-qemu-m4-test/app/inetsrv.mod.o
+                0x0802c9ac                _app_inetsrv
+ .apps          0x0802c9c0       0x14 ./build-qemu-m4-test/app/shell.mod.o
+                0x0802c9c0                _app_shell
+ .apps          0x0802c9d4       0x14 ./build-qemu-m4-test/app/stringtests.mod.o
+                0x0802c9d4                _app_stringtests
+ .apps          0x0802c9e8       0x14 ./build-qemu-m4-test/app/tests.mod.o
+                0x0802c9e8                _app_tests
+                0x0802c9fc                __apps_end = .
+
+.lk_init        0x0802c9fc       0x30
+                0x0802c9fc                __lk_init = .
+ *(.lk_init)
+ .lk_init       0x0802c9fc       0x10 ./build-qemu-m4-test/lib/minip.mod.o
+                0x0802c9fc                _init_struct_pktbuf
+ .lk_init       0x0802ca0c       0x10 ./build-qemu-m4-test/lib/version.mod.o
+                0x0802ca0c                _init_struct_version
+ .lk_init       0x0802ca1c       0x10 ./build-qemu-m4-test/kernel/novm.mod.o
+                0x0802ca1c                _init_struct_novm
+                0x0802ca2c                __lk_init_end = .
+
+.dummy_post_rodata
+                0x0802ca2c        0x0
+                0x0802ca2c                __rodata_end = .
+                0x0802ca2c                __rom_end = .
+                0x0802ca2c                __data_start_rom = .
+                0x20000000                . = 0x20000000
+
+.data           0x20000000      0x1bc load address 0x0802ca2c
+                0x20000000                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x20000000        0x0 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/arch/arm.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/top.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/app.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/app/shell.mod.o
+ .data          0x20000000        0x0 ./build-qemu-m4-test/app/stringtests.mod.o
+ .data          0x20000000       0x54 ./build-qemu-m4-test/app/tests.mod.o
+                0x20000050                context1
+ .data          0x20000054        0x0 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .data          0x20000054        0x0 ./build-qemu-m4-test/dev.mod.o
+ .data          0x20000054        0x0 ./build-qemu-m4-test/kernel.mod.o
+ .data          0x20000054        0x0 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .data          0x20000054        0x0 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .data          0x20000054       0x24 ./build-qemu-m4-test/lib/bio.mod.o
+ .data          0x20000078        0x0 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .data          0x20000078        0x0 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .data          0x20000078        0x0 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .data          0x20000078       0x24 ./build-qemu-m4-test/lib/fs.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .data          0x2000009c        0x0 ./build-qemu-m4-test/lib/gfx.mod.o
+ *fill*         0x2000009c        0x4 
+ .data          0x200000a0       0x20 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .data          0x200000c0       0x94 ./build-qemu-m4-test/lib/minip.mod.o
+ .data          0x20000154        0x0 ./build-qemu-m4-test/lib/version.mod.o
+ .data          0x20000154        0x0 ./build-qemu-m4-test/platform.mod.o
+ .data          0x20000154        0x0 ./build-qemu-m4-test/platform/stm32.mod.o
+ .data          0x20000154       0x24 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+                0x20000164                SystemCoreClock
+                0x20000168                AHBPrescTable
+ .data          0x20000178        0x0 ./build-qemu-m4-test/target.mod.o
+ .data          0x20000178        0x0 ./build-qemu-m4-test/kernel/novm.mod.o
+ .data          0x20000178        0x0 ./build-qemu-m4-test/lib/bcache.mod.o
+ .data          0x20000178        0x1 ./build-qemu-m4-test/lib/console.mod.o
+ *fill*         0x20000179        0x3 
+ .data          0x2000017c        0xc ./build-qemu-m4-test/lib/debug.mod.o
+ .data          0x20000188        0x8 ./build-qemu-m4-test/lib/heap.mod.o
+                0x20000188                delayed_free_list
+ .data          0x20000190        0x0 ./build-qemu-m4-test/lib/iovec.mod.o
+ .data          0x20000190       0x10 ./build-qemu-m4-test/lib/libc.mod.o
+                0x20000194                __stdio_FILEs
+ .data          0x200001a0        0x0 ./build-qemu-m4-test/lib/pool.mod.o
+ .data          0x200001a0        0xc ./build-qemu-m4-test/lib/tftp.mod.o
+                0x200001a0                next_port
+ .data          0x200001ac        0x0 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .data          0x200001ac       0x10 ./build-qemu-m4-test/lib/io.mod.o
+                0x200001b4                console_io
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .data          0x200001bc        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.igot.plt       0x200001bc        0x0 load address 0x0802cbe8
+ .igot.plt      0x00000000        0x0 ./build-qemu-m4-test/target/qemu-m4.mod.o
+
+.commands       0x200001bc       0xf0 load address 0x0802cbe8
+                0x200001bc                __commands_start = .
+ *(.commands)
+ .commands      0x200001bc        0xc ./build-qemu-m4-test/app/stringtests.mod.o
+                0x200001bc                _cmd_block_stringtests
+ .commands      0x200001c8       0x18 ./build-qemu-m4-test/app/tests.mod.o
+                0x200001c8                _cmd_block_mem_tests
+                0x200001d4                _cmd_block_tests
+ .commands      0x200001e0        0xc ./build-qemu-m4-test/kernel.mod.o
+                0x200001e0                _cmd_block_kernel
+ .commands      0x200001ec        0xc ./build-qemu-m4-test/external/lib/aes/test.mod.o
+                0x200001ec                _cmd_block_aes_test
+ .commands      0x200001f8        0xc ./build-qemu-m4-test/lib/bio.mod.o
+                0x200001f8                _cmd_block_bio
+ .commands      0x20000204        0xc ./build-qemu-m4-test/external/lib/cksum.mod.o
+                0x20000204                _cmd_block_crc
+ .commands      0x20000210        0xc ./build-qemu-m4-test/lib/debugcommands.mod.o
+                0x20000210                _cmd_block_mem
+ .commands      0x2000021c       0x18 ./build-qemu-m4-test/lib/fs.mod.o
+                0x2000021c                _cmd_block_fs
+                0x20000228                _cmd_block_fs_shell
+ .commands      0x20000234        0xc ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+                0x20000234                _cmd_block_spifs
+ .commands      0x20000240        0xc ./build-qemu-m4-test/lib/gfx.mod.o
+                0x20000240                _cmd_block_gfx
+ .commands      0x2000024c       0x18 ./build-qemu-m4-test/lib/minip.mod.o
+                0x2000024c                _cmd_block_minip
+                0x20000258                _cmd_block_tcp
+ .commands      0x20000264        0xc ./build-qemu-m4-test/lib/version.mod.o
+                0x20000264                _cmd_block_version
+ .commands      0x20000270        0xc ./build-qemu-m4-test/platform.mod.o
+                0x20000270                _cmd_block_platform_power
+ .commands      0x2000027c        0xc ./build-qemu-m4-test/kernel/novm.mod.o
+                0x2000027c                _cmd_block_novm
+ .commands      0x20000288        0xc ./build-qemu-m4-test/lib/console.mod.o
+                0x20000288                _cmd_block_help
+ .commands      0x20000294       0x18 ./build-qemu-m4-test/lib/heap.mod.o
+                0x20000294                _cmd_block_heap
+                0x200002a0                _cmd_block_page_alloc
+                0x200002ac                __commands_end = .
+
+.devices        0x200002ac        0x0
+                0x200002ac                __devices = .
+ *(.devices)
+                0x200002ac                __devices_end = .
+
+.sram.text
+ *(.sram.text*)
+
+.ctors          0x200002ac        0x0
+                0x200002ac                __ctor_list = .
+ *(.ctors .init_array)
+                0x200002ac                __ctor_end = .
+
+.dtors          0x200002ac        0x0
+                0x200002ac                __dtor_list = .
+ *(.dtors .fini_array)
+                0x200002ac                __dtor_end = .
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.dynamic
+ *(.dynamic)
+
+.dummy_post_data
+                0x200002ac        0x0
+                0x200002ac                __data_end = .
+
+.bss            0x200002c0     0x8818 load address 0x0802cd00
+ *(.bss.prebss.*)
+ .bss.prebss.initial_stack
+                0x200002c0      0x400 ./build-qemu-m4-test/arch/arm.mod.o
+                0x200006c0                . = ALIGN (0x4)
+                0x200006c0                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x200006c0     0x7e90 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .bss           0x20008550       0xc0 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+                0x20008550                uart2_rx_buf
+                0x20008580                uart3_rx_buf
+ .bss           0x20008610        0x8 ./build-qemu-m4-test/arch/arm.mod.o
+                0x20008610                _current_thread
+ .bss           0x20008618       0x10 ./build-qemu-m4-test/top.mod.o
+                0x20008618                lk_boot_args
+ .bss           0x20008628        0x0 ./build-qemu-m4-test/app.mod.o
+ .bss           0x20008628        0x0 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .bss           0x20008628        0x0 ./build-qemu-m4-test/app/shell.mod.o
+ .bss           0x20008628       0x10 ./build-qemu-m4-test/app/stringtests.mod.o
+ .bss           0x20008638       0xbc ./build-qemu-m4-test/app/tests.mod.o
+                0x200086d8                group_waiting_sync_evt
+ *fill*         0x200086f4        0x4 
+ .bss           0x200086f8       0x28 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .bss           0x20008720        0x0 ./build-qemu-m4-test/dev.mod.o
+ .bss           0x20008720      0x268 ./build-qemu-m4-test/kernel.mod.o
+                0x200087f0                thread_lock
+                0x200087f8                thread_stats
+                0x20008960                timer_lock
+ .bss           0x20008988        0x0 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .bss           0x20008988        0x0 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .bss           0x20008988        0x0 ./build-qemu-m4-test/lib/bio.mod.o
+ .bss           0x20008988        0x0 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .bss           0x20008988        0x0 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .bss           0x20008988        0x8 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .bss           0x20008990        0x4 ./build-qemu-m4-test/lib/fs.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .bss           0x20008994        0x0 ./build-qemu-m4-test/lib/gfx.mod.o
+ *fill*         0x20008994        0x4 
+ .bss           0x20008998        0x8 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .bss           0x200089a0       0x75 ./build-qemu-m4-test/lib/minip.mod.o
+                0x200089a8                dhcp_udp_handle
+                0x200089e8                minip_tx_handler
+                0x200089ec                minip_tx_arg
+ .bss           0x20008a15        0x0 ./build-qemu-m4-test/lib/version.mod.o
+ .bss           0x20008a15        0x0 ./build-qemu-m4-test/platform.mod.o
+ .bss           0x20008a15        0x0 ./build-qemu-m4-test/platform/stm32.mod.o
+ .bss           0x20008a15        0x0 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .bss           0x20008a15        0x0 ./build-qemu-m4-test/target.mod.o
+ *fill*         0x20008a15        0x3 
+ .bss           0x20008a18       0x58 ./build-qemu-m4-test/kernel/novm.mod.o
+                0x20008a18                arena
+ .bss           0x20008a70        0x0 ./build-qemu-m4-test/lib/bcache.mod.o
+ .bss           0x20008a70       0x1c ./build-qemu-m4-test/lib/console.mod.o
+                0x20008a88                lastresult
+ .bss           0x20008a8c        0x0 ./build-qemu-m4-test/lib/debug.mod.o
+ .bss           0x20008a8c        0x8 ./build-qemu-m4-test/lib/heap.mod.o
+                0x20008a8c                delayed_free_lock
+ .bss           0x20008a94        0x0 ./build-qemu-m4-test/lib/iovec.mod.o
+ .bss           0x20008a94        0xc ./build-qemu-m4-test/lib/libc.mod.o
+                0x20008a98                __dso_handle
+ .bss           0x20008aa0        0x0 ./build-qemu-m4-test/lib/pool.mod.o
+ .bss           0x20008aa0        0x0 ./build-qemu-m4-test/lib/tftp.mod.o
+ .bss           0x20008aa0       0x34 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .bss           0x20008ad4        0x4 ./build-qemu-m4-test/lib/io.mod.o
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .bss           0x20008ad8        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x20008ad8                . = ALIGN (0x4)
+                0x20008ad8                __bss_end = .
+                0x20008ad8                _end = .
+                0x20020000                . = 0x20020000
+                0x20020000                _end_of_ram = .
+
+/DISCARD/
+ *(.comment .note .eh_frame)
+OUTPUT(build-qemu-m4-test/lk.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x31
+ .ARM.attributes
+                0x00000000       0x33 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .ARM.attributes
+                0x00000033       0x33 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .ARM.attributes
+                0x00000066       0x33 ./build-qemu-m4-test/arch/arm.mod.o
+ .ARM.attributes
+                0x00000099       0x33 ./build-qemu-m4-test/top.mod.o
+ .ARM.attributes
+                0x000000cc       0x33 ./build-qemu-m4-test/app.mod.o
+ .ARM.attributes
+                0x000000ff       0x33 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .ARM.attributes
+                0x00000132       0x33 ./build-qemu-m4-test/app/shell.mod.o
+ .ARM.attributes
+                0x00000165       0x33 ./build-qemu-m4-test/app/stringtests.mod.o
+ .ARM.attributes
+                0x00000198       0x31 ./build-qemu-m4-test/app/tests.mod.o
+ .ARM.attributes
+                0x000001c9       0x33 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .ARM.attributes
+                0x000001fc       0x33 ./build-qemu-m4-test/dev.mod.o
+ .ARM.attributes
+                0x0000022f       0x33 ./build-qemu-m4-test/kernel.mod.o
+ .ARM.attributes
+                0x00000262       0x33 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .ARM.attributes
+                0x00000295       0x33 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .ARM.attributes
+                0x000002c8       0x33 ./build-qemu-m4-test/lib/bio.mod.o
+ .ARM.attributes
+                0x000002fb       0x33 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .ARM.attributes
+                0x0000032e       0x33 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .ARM.attributes
+                0x00000361       0x33 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .ARM.attributes
+                0x00000394       0x33 ./build-qemu-m4-test/lib/fs.mod.o
+ .ARM.attributes
+                0x000003c7       0x33 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .ARM.attributes
+                0x000003fa       0x33 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .ARM.attributes
+                0x0000042d       0x33 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .ARM.attributes
+                0x00000460       0x33 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .ARM.attributes
+                0x00000493       0x33 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .ARM.attributes
+                0x000004c6       0x33 ./build-qemu-m4-test/lib/gfx.mod.o
+ .ARM.attributes
+                0x000004f9       0x33 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .ARM.attributes
+                0x0000052c       0x33 ./build-qemu-m4-test/lib/minip.mod.o
+ .ARM.attributes
+                0x0000055f       0x33 ./build-qemu-m4-test/lib/version.mod.o
+ .ARM.attributes
+                0x00000592       0x33 ./build-qemu-m4-test/platform.mod.o
+ .ARM.attributes
+                0x000005c5       0x33 ./build-qemu-m4-test/platform/stm32.mod.o
+ .ARM.attributes
+                0x000005f8       0x33 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .ARM.attributes
+                0x0000062b       0x33 ./build-qemu-m4-test/target.mod.o
+ .ARM.attributes
+                0x0000065e       0x33 ./build-qemu-m4-test/kernel/novm.mod.o
+ .ARM.attributes
+                0x00000691       0x33 ./build-qemu-m4-test/lib/bcache.mod.o
+ .ARM.attributes
+                0x000006c4       0x33 ./build-qemu-m4-test/lib/console.mod.o
+ .ARM.attributes
+                0x000006f7       0x33 ./build-qemu-m4-test/lib/debug.mod.o
+ .ARM.attributes
+                0x0000072a       0x33 ./build-qemu-m4-test/lib/heap.mod.o
+ .ARM.attributes
+                0x0000075d       0x33 ./build-qemu-m4-test/lib/iovec.mod.o
+ .ARM.attributes
+                0x00000790       0x31 ./build-qemu-m4-test/lib/libc.mod.o
+ .ARM.attributes
+                0x000007c1       0x33 ./build-qemu-m4-test/lib/pool.mod.o
+ .ARM.attributes
+                0x000007f4       0x33 ./build-qemu-m4-test/lib/tftp.mod.o
+ .ARM.attributes
+                0x00000827       0x33 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .ARM.attributes
+                0x0000085a       0x33 ./build-qemu-m4-test/lib/io.mod.o
+ .ARM.attributes
+                0x0000088d       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .ARM.attributes
+                0x000008ab       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .ARM.attributes
+                0x000008c9       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x000008e7       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .ARM.attributes
+                0x00000905       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .ARM.attributes
+                0x00000923       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .ARM.attributes
+                0x00000941       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .ARM.attributes
+                0x0000095f       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .ARM.attributes
+                0x0000097d       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .ARM.attributes
+                0x0000099b       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .ARM.attributes
+                0x000009b9       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .ARM.attributes
+                0x000009d7       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .ARM.attributes
+                0x000009f5       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000a13       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000a31       0x2e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000a5f       0x1e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000a7d       0x2e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000aab       0x2e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_aranges  0x00000000     0x1d40
+ .debug_aranges
+                0x00000000       0x40 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_aranges
+                0x00000040       0xe0 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_aranges
+                0x00000120       0xd8 ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_aranges
+                0x000001f8       0x40 ./build-qemu-m4-test/top.mod.o
+ .debug_aranges
+                0x00000238       0x20 ./build-qemu-m4-test/app.mod.o
+ .debug_aranges
+                0x00000258       0x20 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_aranges
+                0x00000278       0x20 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_aranges
+                0x00000298       0x20 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_aranges
+                0x000002b8      0x138 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_aranges
+                0x000003f0       0x20 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_aranges
+                0x00000410      0x100 ./build-qemu-m4-test/dev.mod.o
+ .debug_aranges
+                0x00000510      0x118 ./build-qemu-m4-test/kernel.mod.o
+ .debug_aranges
+                0x00000628       0x20 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_aranges
+                0x00000648       0x20 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_aranges
+                0x00000668       0x80 ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_aranges
+                0x000006e8       0x20 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_aranges
+                0x00000708       0x80 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_aranges
+                0x00000788       0x20 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_aranges
+                0x000007a8       0x60 ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_aranges
+                0x00000808       0x80 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_aranges
+                0x00000888       0x40 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_aranges
+                0x000008c8       0x20 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_aranges
+                0x000008e8       0x20 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_aranges
+                0x00000908       0x20 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_aranges
+                0x00000928       0x20 ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_aranges
+                0x00000948      0x460 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_aranges
+                0x00000da8      0x128 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_aranges
+                0x00000ed0       0x20 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_aranges
+                0x00000ef0       0x60 ./build-qemu-m4-test/platform.mod.o
+ .debug_aranges
+                0x00000f50       0x20 ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_aranges
+                0x00000f70      0x4e8 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_aranges
+                0x00001458       0x20 ./build-qemu-m4-test/target.mod.o
+ .debug_aranges
+                0x00001478       0x20 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_aranges
+                0x00001498       0x20 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_aranges
+                0x000014b8       0x20 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_aranges
+                0x000014d8       0x20 ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_aranges
+                0x000014f8       0x68 ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_aranges
+                0x00001560       0x20 ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_aranges
+                0x00001580      0x4e0 ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_aranges
+                0x00001a60       0x20 ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_aranges
+                0x00001a80       0x20 ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_aranges
+                0x00001aa0       0x20 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_aranges
+                0x00001ac0       0x40 ./build-qemu-m4-test/lib/io.mod.o
+ .debug_aranges
+                0x00001b00       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .debug_aranges
+                0x00001b20       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .debug_aranges
+                0x00001b40       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x00001b60       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_aranges
+                0x00001b80       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_aranges
+                0x00001ba0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_aranges
+                0x00001bc0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_aranges
+                0x00001be0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .debug_aranges
+                0x00001c00       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_aranges
+                0x00001c20       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_aranges
+                0x00001c40       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .debug_aranges
+                0x00001c60       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .debug_aranges
+                0x00001c80       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x00001ca0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x00001cc0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x00001ce0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00001d00       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00001d20       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_info     0x00000000    0x6d3d6
+ .debug_info    0x00000000     0x108e ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_info    0x0000108e     0x36c0 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_info    0x0000474e     0x27fc ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_info    0x00006f4a      0xc55 ./build-qemu-m4-test/top.mod.o
+ .debug_info    0x00007b9f      0x570 ./build-qemu-m4-test/app.mod.o
+ .debug_info    0x0000810f     0x1028 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_info    0x00009137      0x1b8 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_info    0x000092ef     0x1389 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_info    0x0000a678     0x8ca2 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_info    0x0001331a      0x6ad ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_info    0x000139c7     0x1e42 ./build-qemu-m4-test/dev.mod.o
+ .debug_info    0x00015809     0x94a9 ./build-qemu-m4-test/kernel.mod.o
+ .debug_info    0x0001ecb2      0x4f7 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_info    0x0001f1a9      0x7cf ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_info    0x0001f978     0x47da ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_info    0x00024152     0x13be ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_info    0x00025510     0x11f0 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_info    0x00026700      0xe4f ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_info    0x0002754f     0x382c ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_info    0x0002ad7b     0x40ab ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_info    0x0002ee26     0x193f ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_info    0x00030765     0x1638 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_info    0x00031d9d     0x34a7 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_info    0x00035244     0x2268 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_info    0x000374ac     0x1d67 ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_info    0x00039213     0x6589 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_info    0x0003f79c     0x993e ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_info    0x000490da      0x498 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_info    0x00049572      0x7ca ./build-qemu-m4-test/platform.mod.o
+ .debug_info    0x00049d3c      0x412 ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_info    0x0004a14e    0x14187 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_info    0x0005e2d5       0xe3 ./build-qemu-m4-test/target.mod.o
+ .debug_info    0x0005e3b8     0x11e3 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_info    0x0005f59b      0xf4e ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_info    0x000604e9     0x1ce9 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_info    0x000621d2      0x85d ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_info    0x00062a2f     0x1d1e ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_info    0x0006474d      0x22b ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_info    0x00064978     0x49a3 ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_info    0x0006931b      0x22c ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_info    0x00069547      0x97e ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_info    0x00069ec5     0x1085 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_info    0x0006af4a      0xe8d ./build-qemu-m4-test/lib/io.mod.o
+ .debug_info    0x0006bdd7       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .debug_info    0x0006be77       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .debug_info    0x0006bf17       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x0006bfb8       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_info    0x0006c059       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_info    0x0006c0fa       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_info    0x0006c19b       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_info    0x0006c23c       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .debug_info    0x0006c2dd       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_info    0x0006c37e       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_info    0x0006c41f       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .debug_info    0x0006c4c0       0xa1 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .debug_info    0x0006c561       0x9c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x0006c5fd       0x9c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x0006c699      0x164 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_info    0x0006c7fd       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x0006c89d      0x5bd /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_info    0x0006ce5a      0x57c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_abbrev   0x00000000    0x1847b
+ .debug_abbrev  0x00000000      0x409 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_abbrev  0x00000409      0xf25 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_abbrev  0x0000132e      0xb2f ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_abbrev  0x00001e5d      0x3f4 ./build-qemu-m4-test/top.mod.o
+ .debug_abbrev  0x00002251      0x20f ./build-qemu-m4-test/app.mod.o
+ .debug_abbrev  0x00002460      0x2e6 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_abbrev  0x00002746       0xf5 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_abbrev  0x0000283b      0x3b5 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_abbrev  0x00002bf0     0x17a9 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_abbrev  0x00004399      0x2a8 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_abbrev  0x00004641      0x8b8 ./build-qemu-m4-test/dev.mod.o
+ .debug_abbrev  0x00004ef9     0x1b6d ./build-qemu-m4-test/kernel.mod.o
+ .debug_abbrev  0x00006a66      0x149 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_abbrev  0x00006baf      0x26d ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_abbrev  0x00006e1c      0xbce ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_abbrev  0x000079ea      0x367 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_abbrev  0x00007d51      0x5fa ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_abbrev  0x0000834b      0x327 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_abbrev  0x00008672      0x96a ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_abbrev  0x00008fdc      0xb38 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_abbrev  0x00009b14      0x4b8 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_abbrev  0x00009fcc      0x371 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_abbrev  0x0000a33d      0x4b4 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_abbrev  0x0000a7f1      0x3e5 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_abbrev  0x0000abd6      0x42c ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_abbrev  0x0000b002     0x27bd ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_abbrev  0x0000d7bf     0x1e17 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_abbrev  0x0000f5d6      0x187 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_abbrev  0x0000f75d      0x2eb ./build-qemu-m4-test/platform.mod.o
+ .debug_abbrev  0x0000fa48      0x1ae ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_abbrev  0x0000fbf6     0x4031 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_abbrev  0x00013c27       0x6b ./build-qemu-m4-test/target.mod.o
+ .debug_abbrev  0x00013c92      0x400 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_abbrev  0x00014092      0x348 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_abbrev  0x000143da      0x514 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_abbrev  0x000148ee      0x2c5 ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_abbrev  0x00014bb3      0x790 ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_abbrev  0x00015343      0x112 ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_abbrev  0x00015455     0x1f0e ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_abbrev  0x00017363      0x126 ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_abbrev  0x00017489      0x30d ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_abbrev  0x00017796      0x46c ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_abbrev  0x00017c02      0x3dd ./build-qemu-m4-test/lib/io.mod.o
+ .debug_abbrev  0x00017fdf       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .debug_abbrev  0x00017ff3       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .debug_abbrev  0x00018007       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0001801b       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_abbrev  0x0001802f       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_abbrev  0x00018043       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_abbrev  0x00018057       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_abbrev  0x0001806b       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .debug_abbrev  0x0001807f       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_abbrev  0x00018093       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_abbrev  0x000180a7       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .debug_abbrev  0x000180bb       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .debug_abbrev  0x000180cf       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x000180e3       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x000180f7       0xb7 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_abbrev  0x000181ae       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x000181c2      0x165 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x00018327      0x154 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_line     0x00000000    0x1ac07
+ .debug_line    0x00000000      0x3e7 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_line    0x000003e7      0xf02 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_line    0x000012e9      0xa1b ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_line    0x00001d04      0x3ad ./build-qemu-m4-test/top.mod.o
+ .debug_line    0x000020b1      0x1d7 ./build-qemu-m4-test/app.mod.o
+ .debug_line    0x00002288      0x323 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_line    0x000025ab       0xa9 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_line    0x00002654      0x359 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_line    0x000029ad     0x1aa2 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_line    0x0000444f      0x24f ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_line    0x0000469e      0x7f9 ./build-qemu-m4-test/dev.mod.o
+ .debug_line    0x00004e97     0x2612 ./build-qemu-m4-test/kernel.mod.o
+ .debug_line    0x000074a9      0x46f ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_line    0x00007918      0x241 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_line    0x00007b59      0xb78 ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_line    0x000086d1      0x4fe ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_line    0x00008bcf      0x515 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_line    0x000090e4      0x312 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_line    0x000093f6      0x793 ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_line    0x00009b89      0x718 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_line    0x0000a2a1      0x489 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_line    0x0000a72a      0x3b8 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_line    0x0000aae2      0x7c4 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_line    0x0000b2a6      0x3bc ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_line    0x0000b662      0x626 ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_line    0x0000bc88     0x22d0 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_line    0x0000df58     0x1cc2 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_line    0x0000fc1a      0x120 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_line    0x0000fd3a      0x289 ./build-qemu-m4-test/platform.mod.o
+ .debug_line    0x0000ffc3      0x17c ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_line    0x0001013f     0x61e4 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_line    0x00016323       0x40 ./build-qemu-m4-test/target.mod.o
+ .debug_line    0x00016363      0x330 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_line    0x00016693      0x306 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_line    0x00016999      0x54b ./build-qemu-m4-test/lib/console.mod.o
+ .debug_line    0x00016ee4      0x27d ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_line    0x00017161      0x59d ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_line    0x000176fe       0xf3 ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_line    0x000177f1     0x1ac6 ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_line    0x000192b7      0x11b ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_line    0x000193d2      0x206 ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_line    0x000195d8      0x3ee ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_line    0x000199c6      0x3ad ./build-qemu-m4-test/lib/io.mod.o
+ .debug_line    0x00019d73       0x6f /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_lshrdi3.o)
+ .debug_line    0x00019de2       0x6f /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_ashldi3.o)
+ .debug_line    0x00019e51      0x1fc /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x0001a04d      0x21d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivdf3.o)
+ .debug_line    0x0001a26a      0x103 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpdf2.o)
+ .debug_line    0x0001a36d       0x7d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixdfsi.o)
+ .debug_line    0x0001a3ea       0x79 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixunsdfsi.o)
+ .debug_line    0x0001a463       0x91 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_truncdfsf2.o)
+ .debug_line    0x0001a4f4      0x11d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_addsubsf3.o)
+ .debug_line    0x0001a611      0x140 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_muldivsf3.o)
+ .debug_line    0x0001a751       0xf7 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_cmpsf2.o)
+ .debug_line    0x0001a848       0x7d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_arm_fixsfsi.o)
+ .debug_line    0x0001a8c5       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x0001a92d       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x0001a995       0x68 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_line    0x0001a9fd       0x64 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x0001aa61       0xd8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_line    0x0001ab39       0xce /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_frame    0x00000000     0x9c6c
+ .debug_frame   0x00000000       0xd8 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_frame   0x000000d8      0x484 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_frame   0x0000055c      0x344 ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_frame   0x000008a0       0x8c ./build-qemu-m4-test/top.mod.o
+ .debug_frame   0x0000092c       0x4c ./build-qemu-m4-test/app.mod.o
+ .debug_frame   0x00000978      0x104 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_frame   0x00000a7c       0x30 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_frame   0x00000aac       0xf8 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_frame   0x00000ba4      0x770 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_frame   0x00001314       0x94 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_frame   0x000013a8      0x360 ./build-qemu-m4-test/dev.mod.o
+ .debug_frame   0x00001708      0xa68 ./build-qemu-m4-test/kernel.mod.o
+ .debug_frame   0x00002170       0xa8 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_frame   0x00002218       0x50 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_frame   0x00002268      0x45c ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_frame   0x000026c4      0x144 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_frame   0x00002808      0x1e4 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_frame   0x000029ec      0x10c ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_frame   0x00002af8      0x404 ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_frame   0x00002efc      0x250 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_frame   0x0000314c      0x130 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_frame   0x0000327c      0x1cc ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_frame   0x00003448      0x360 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_frame   0x000037a8      0x200 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_frame   0x000039a8      0x328 ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_frame   0x00003cd0      0x7b0 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_frame   0x00004480      0xab4 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_frame   0x00004f34       0x40 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_frame   0x00004f74       0xd8 ./build-qemu-m4-test/platform.mod.o
+ .debug_frame   0x0000504c       0x28 ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_frame   0x00005074     0x3438 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_frame   0x000084ac       0x50 ./build-qemu-m4-test/target.mod.o
+ .debug_frame   0x000084fc      0x140 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_frame   0x0000863c      0x198 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_frame   0x000087d4      0x244 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_frame   0x00008a18       0xe4 ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_frame   0x00008afc      0x234 ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_frame   0x00008d30       0x50 ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_frame   0x00008d80      0xabc ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_frame   0x0000983c       0x70 ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_frame   0x000098ac       0xcc ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_frame   0x00009978      0x14c ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_frame   0x00009ac4       0xf4 ./build-qemu-m4-test/lib/io.mod.o
+ .debug_frame   0x00009bb8       0x50 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_frame   0x00009c08       0x34 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_frame   0x00009c3c       0x30 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_str      0x00000000    0x106fd
+ .debug_str     0x00000000      0x7ba ./build-qemu-m4-test/target/qemu-m4.mod.o
+                                0x9b6 (size before relaxing)
+ .debug_str     0x000007ba      0xf01 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+                               0x2a9c (size before relaxing)
+ .debug_str     0x000016bb      0x7c9 ./build-qemu-m4-test/arch/arm.mod.o
+                               0x1e7c (size before relaxing)
+ .debug_str     0x00001e84      0x301 ./build-qemu-m4-test/top.mod.o
+                                0xa74 (size before relaxing)
+ .debug_str     0x00002185       0x5f ./build-qemu-m4-test/app.mod.o
+                                0x3c9 (size before relaxing)
+ .debug_str     0x000021e4      0x14e ./build-qemu-m4-test/app/inetsrv.mod.o
+                                0x52a (size before relaxing)
+ .debug_str     0x00002332       0x4f ./build-qemu-m4-test/app/shell.mod.o
+                                0x1a7 (size before relaxing)
+ .debug_str     0x00002381      0x1b6 ./build-qemu-m4-test/app/stringtests.mod.o
+                                0x59b (size before relaxing)
+ .debug_str     0x00002537      0xb88 ./build-qemu-m4-test/app/tests.mod.o
+                               0x2a11 (size before relaxing)
+ .debug_str     0x000030bf      0x10e ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+                                0x510 (size before relaxing)
+ .debug_str     0x000031cd      0x39e ./build-qemu-m4-test/dev.mod.o
+                                0xfb8 (size before relaxing)
+ .debug_str     0x0000356b      0x68d ./build-qemu-m4-test/kernel.mod.o
+                               0x3969 (size before relaxing)
+ .debug_str     0x00003bf8       0x91 ./build-qemu-m4-test/external/lib/aes.mod.o
+                                0x19d (size before relaxing)
+ .debug_str     0x00003c89       0x83 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+                                0x36c (size before relaxing)
+ .debug_str     0x00003d0c      0x583 ./build-qemu-m4-test/lib/bio.mod.o
+                               0x16ea (size before relaxing)
+ .debug_str     0x0000428f       0x8f ./build-qemu-m4-test/lib/cbuf.mod.o
+                                0x6be (size before relaxing)
+ .debug_str     0x0000431e      0x1b0 ./build-qemu-m4-test/external/lib/cksum.mod.o
+                                0x8fa (size before relaxing)
+ .debug_str     0x000044ce       0xca ./build-qemu-m4-test/lib/debugcommands.mod.o
+                                0x504 (size before relaxing)
+ .debug_str     0x00004598      0x37a ./build-qemu-m4-test/lib/fs.mod.o
+                                0xf80 (size before relaxing)
+ .debug_str     0x00004912      0x901 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+                               0x261f (size before relaxing)
+ .debug_str     0x00005213      0x32c ./build-qemu-m4-test/lib/fs/fat32.mod.o
+                                0xb2e (size before relaxing)
+ .debug_str     0x0000553f      0x124 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+                                0x6eb (size before relaxing)
+ .debug_str     0x00005663      0x4ef ./build-qemu-m4-test/lib/fs/spifs.mod.o
+                                0xd95 (size before relaxing)
+ .debug_str     0x00005b52      0x297 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+                                0x7ef (size before relaxing)
+ .debug_str     0x00005de9      0x343 ./build-qemu-m4-test/lib/gfx.mod.o
+                                0x7fd (size before relaxing)
+ .debug_str     0x0000612c      0x711 ./build-qemu-m4-test/external/lib/libm.mod.o
+                               0x3a07 (size before relaxing)
+ .debug_str     0x0000683d      0xf38 ./build-qemu-m4-test/lib/minip.mod.o
+                               0x3dc7 (size before relaxing)
+ .debug_str     0x00007775       0x7e ./build-qemu-m4-test/lib/version.mod.o
+                                0x435 (size before relaxing)
+ .debug_str     0x000077f3       0xbf ./build-qemu-m4-test/platform.mod.o
+                                0x839 (size before relaxing)
+ .debug_str     0x000078b2       0x34 ./build-qemu-m4-test/platform/stm32.mod.o
+                                0x3a6 (size before relaxing)
+ .debug_str     0x000078e6     0x748f ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+                               0xc53c (size before relaxing)
+ .debug_str     0x0000ed75       0x2c ./build-qemu-m4-test/target.mod.o
+                                0x153 (size before relaxing)
+ .debug_str     0x0000eda1      0x1b6 ./build-qemu-m4-test/kernel/novm.mod.o
+                                0x859 (size before relaxing)
+ .debug_str     0x0000ef57       0xee ./build-qemu-m4-test/lib/bcache.mod.o
+                                0x493 (size before relaxing)
+ .debug_str     0x0000f045      0x3e8 ./build-qemu-m4-test/lib/console.mod.o
+                                0x983 (size before relaxing)
+ .debug_str     0x0000f42d       0x9d ./build-qemu-m4-test/lib/debug.mod.o
+                                0x495 (size before relaxing)
+ .debug_str     0x0000f4ca      0x2b9 ./build-qemu-m4-test/lib/heap.mod.o
+                                0xa92 (size before relaxing)
+ .debug_str     0x0000f783       0x32 ./build-qemu-m4-test/lib/iovec.mod.o
+                                0x1a3 (size before relaxing)
+ .debug_str     0x0000f7b5      0x93d ./build-qemu-m4-test/lib/libc.mod.o
+                               0x31b3 (size before relaxing)
+ .debug_str     0x000100f2       0x3e ./build-qemu-m4-test/lib/pool.mod.o
+                                0x1aa (size before relaxing)
+ .debug_str     0x00010130       0xd6 ./build-qemu-m4-test/lib/tftp.mod.o
+                                0x344 (size before relaxing)
+ .debug_str     0x00010206      0x16b ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+                                0x697 (size before relaxing)
+ .debug_str     0x00010371       0xbb ./build-qemu-m4-test/lib/io.mod.o
+                                0x7bc (size before relaxing)
+ .debug_str     0x0001042c      0x17b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+                                0x1a0 (size before relaxing)
+ .debug_str     0x000105a7      0x156 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+                                0x24e (size before relaxing)
+ .debug_str     0x00000000      0x24f /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_loc      0x00000000    0x42741
+ .debug_loc     0x00000000      0x221 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_loc     0x00000221      0xafc ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_loc     0x00000d1d      0x410 ./build-qemu-m4-test/arch/arm.mod.o
+ .debug_loc     0x0000112d      0x2d3 ./build-qemu-m4-test/top.mod.o
+ .debug_loc     0x00001400       0xc0 ./build-qemu-m4-test/app.mod.o
+ .debug_loc     0x000014c0      0x4f8 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_loc     0x000019b8       0x63 ./build-qemu-m4-test/app/shell.mod.o
+ .debug_loc     0x00001a1b      0xa34 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_loc     0x0000244f     0x33b1 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_loc     0x00005800      0x315 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_loc     0x00005b15     0x1cba ./build-qemu-m4-test/dev.mod.o
+ .debug_loc     0x000077cf     0x4502 ./build-qemu-m4-test/kernel.mod.o
+ .debug_loc     0x0000bcd1      0x752 ./build-qemu-m4-test/external/lib/aes.mod.o
+ .debug_loc     0x0000c423      0x22d ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_loc     0x0000c650     0x2911 ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_loc     0x0000ef61      0xfc0 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_loc     0x0000ff21      0xe86 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_loc     0x00010da7      0x899 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_loc     0x00011640     0x1b05 ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_loc     0x00013145     0x10b7 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_loc     0x000141fc      0xc62 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_loc     0x00014e5e      0x985 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_loc     0x000157e3     0x232d ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_loc     0x00017b10      0xe65 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_loc     0x00018975     0x2420 ./build-qemu-m4-test/lib/gfx.mod.o
+ .debug_loc     0x0001ad95     0xc59c ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_loc     0x00027331     0x4529 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_loc     0x0002b85a       0x42 ./build-qemu-m4-test/lib/version.mod.o
+ .debug_loc     0x0002b89c      0x129 ./build-qemu-m4-test/platform.mod.o
+ .debug_loc     0x0002b9c5       0x74 ./build-qemu-m4-test/platform/stm32.mod.o
+ .debug_loc     0x0002ba39     0xc9c6 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_loc     0x000383ff      0x921 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_loc     0x00038d20      0x959 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_loc     0x00039679     0x1052 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_loc     0x0003a6cb      0x4ad ./build-qemu-m4-test/lib/debug.mod.o
+ .debug_loc     0x0003ab78      0x999 ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_loc     0x0003b511      0x1cc ./build-qemu-m4-test/lib/iovec.mod.o
+ .debug_loc     0x0003b6dd     0x43cb ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_loc     0x0003faa8      0x262 ./build-qemu-m4-test/lib/pool.mod.o
+ .debug_loc     0x0003fd0a      0x55a ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_loc     0x00040264      0x849 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_loc     0x00040aad      0x65e ./build-qemu-m4-test/lib/io.mod.o
+ .debug_loc     0x0004110b       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(bpabi.o)
+ .debug_loc     0x000411ab      0xa8e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_loc     0x00041c39      0xb08 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000     0x27c0
+ .debug_ranges  0x00000000       0x30 ./build-qemu-m4-test/target/qemu-m4.mod.o
+ .debug_ranges  0x00000030       0x48 ./build-qemu-m4-test/platform/stm32f4xx.mod.o
+ .debug_ranges  0x00000078       0x38 ./build-qemu-m4-test/top.mod.o
+ .debug_ranges  0x000000b0       0x48 ./build-qemu-m4-test/app/inetsrv.mod.o
+ .debug_ranges  0x000000f8       0x30 ./build-qemu-m4-test/app/stringtests.mod.o
+ .debug_ranges  0x00000128      0x1d8 ./build-qemu-m4-test/app/tests.mod.o
+ .debug_ranges  0x00000300       0x20 ./build-qemu-m4-test/arch/arm/arm-m/systick.mod.o
+ .debug_ranges  0x00000320      0xd58 ./build-qemu-m4-test/kernel.mod.o
+ .debug_ranges  0x00001078       0x30 ./build-qemu-m4-test/external/lib/aes/test.mod.o
+ .debug_ranges  0x000010a8       0xf8 ./build-qemu-m4-test/lib/bio.mod.o
+ .debug_ranges  0x000011a0      0x168 ./build-qemu-m4-test/lib/cbuf.mod.o
+ .debug_ranges  0x00001308       0x40 ./build-qemu-m4-test/external/lib/cksum.mod.o
+ .debug_ranges  0x00001348       0x38 ./build-qemu-m4-test/lib/debugcommands.mod.o
+ .debug_ranges  0x00001380       0x78 ./build-qemu-m4-test/lib/fs.mod.o
+ .debug_ranges  0x000013f8       0x98 ./build-qemu-m4-test/lib/fs/ext2.mod.o
+ .debug_ranges  0x00001490       0xc0 ./build-qemu-m4-test/lib/fs/fat32.mod.o
+ .debug_ranges  0x00001550       0xb8 ./build-qemu-m4-test/lib/fs/memfs.mod.o
+ .debug_ranges  0x00001608      0x2d0 ./build-qemu-m4-test/lib/fs/spifs.mod.o
+ .debug_ranges  0x000018d8       0x30 ./build-qemu-m4-test/lib/fs/spifs/test.mod.o
+ .debug_ranges  0x00001908      0x220 ./build-qemu-m4-test/external/lib/libm.mod.o
+ .debug_ranges  0x00001b28      0x320 ./build-qemu-m4-test/lib/minip.mod.o
+ .debug_ranges  0x00001e48      0x1c0 ./build-qemu-m4-test/external/platform/stm32f4xx/STM32F4xx_StdPeriph_Driver.mod.o
+ .debug_ranges  0x00002008       0xf0 ./build-qemu-m4-test/kernel/novm.mod.o
+ .debug_ranges  0x000020f8       0x88 ./build-qemu-m4-test/lib/bcache.mod.o
+ .debug_ranges  0x00002180       0xe8 ./build-qemu-m4-test/lib/console.mod.o
+ .debug_ranges  0x00002268      0x188 ./build-qemu-m4-test/lib/heap.mod.o
+ .debug_ranges  0x000023f0       0xf8 ./build-qemu-m4-test/lib/libc.mod.o
+ .debug_ranges  0x000024e8       0x30 ./build-qemu-m4-test/lib/tftp.mod.o
+ .debug_ranges  0x00002518       0x50 ./build-qemu-m4-test/lib/heap/miniheap.mod.o
+ .debug_ranges  0x00002568       0xf0 ./build-qemu-m4-test/lib/io.mod.o
+ .debug_ranges  0x00002658       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_divdi3.o)
+ .debug_ranges  0x000026f8       0xc8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7e-m/libgcc.a(_udivdi3.o)

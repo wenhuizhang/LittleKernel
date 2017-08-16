@@ -1,0 +1,13 @@
+#ifndef __build_lm3s6965evb_test_platform_stellaris_module_config_h_H
+#define __build_lm3s6965evb_test_platform_stellaris_module_config_h_H
+#define MODULE_COMPILEFLAGS ""
+#define MODULE_CFLAGS ""
+#define MODULE_CPPFLAGS ""
+#define MODULE_ASMFLAGS ""
+#define MODULE_LDFLAGS ""
+#define MODULE_OPTFLAGS ""
+#define MODULE_INCLUDES ""
+#define MODULE_SRCDEPS ""
+#define MODULE_DEPS "_PLATFORM_STELLARIS_TI_DRIVERLIB_ARCH_ARM_ARM_M_SYSTICK_LIB_CBUF_DEV_USB"
+#define MODULE_SRCS "_PLATFORM_STELLARIS_DEBUG_C_PLATFORM_STELLARIS_GPIO_C_PLATFORM_STELLARIS_INIT_C_PLATFORM_STELLARIS_USBC_C_PLATFORM_STELLARIS_VECTAB_C_"
+#endif

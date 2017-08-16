@@ -1,0 +1,2162 @@
+Archive member included because of file (symbol)
+
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+                              ./build-qemu-virt-a15-test/lib/libc.mod.o (__aeabi_ul2d)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+                              ./build-qemu-virt-a15-test/external/lib/cksum.mod.o (__aeabi_ldivmod)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+                              ./build-qemu-virt-a15-test/app/inetsrv.mod.o (__aeabi_uldivmod)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o) (__gnu_ldivmod_helper)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o) (__aeabi_ldiv0)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o) (__divdi3)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o) (__udivdi3)
+/usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+                              /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o) (__aeabi_uidiv)
+
+Discarded input sections
+
+ .comment       0x00000000       0x60 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .comment       0x00000000      0x100 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-virt-a15-test/top.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/app.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .comment       0x00000000      0x180 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .comment       0x00000000      0x100 ./build-qemu-virt-a15-test/dev.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .comment       0x00000000      0x120 ./build-qemu-virt-a15-test/kernel.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .comment       0x00000000      0x100 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .comment       0x00000000      0x460 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .comment       0x00000000      0x120 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-virt-a15-test/platform.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/target.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .comment       0x00000000       0x80 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .comment       0x00000000       0x60 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .comment       0x00000000      0x480 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .comment       0x00000000       0x20 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .comment       0x00000000       0x40 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .comment       0x00000000       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+LOAD ./build-qemu-virt-a15-test/arch/arm.mod.o
+LOAD ./build-qemu-virt-a15-test/top.mod.o
+LOAD ./build-qemu-virt-a15-test/app.mod.o
+LOAD ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+LOAD ./build-qemu-virt-a15-test/app/shell.mod.o
+LOAD ./build-qemu-virt-a15-test/app/stringtests.mod.o
+LOAD ./build-qemu-virt-a15-test/app/tests.mod.o
+LOAD ./build-qemu-virt-a15-test/dev.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+LOAD ./build-qemu-virt-a15-test/kernel.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/minip.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/version.mod.o
+LOAD ./build-qemu-virt-a15-test/platform.mod.o
+LOAD ./build-qemu-virt-a15-test/target.mod.o
+LOAD ./build-qemu-virt-a15-test/dev/virtio.mod.o
+LOAD ./build-qemu-virt-a15-test/kernel/vm.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/bcache.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/bio.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/console.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/debug.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/gfx.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/heap.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/iovec.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/libc.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/pool.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/tftp.mod.o
+LOAD ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+LOAD ./build-qemu-virt-a15-test/lib/io.mod.o
+LOAD /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a
+                0x80010000                . = 0x80010000
+                0x80010000                _start = .
+
+.text           0x80010000    0x2c128 load address 0x40010000
+ *(.text.boot.vectab1)
+ *(.text.boot.vectab2)
+ *(.text.boot)
+ .text.boot     0x80010000      0x324 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x80010024                arm_reset
+                0x80010024                platform_reset
+                0x8001023c                arm_secondary_setup
+ *(.text* .sram.text.glue_7* .gnu.linkonce.t.*)
+ .text          0x80010324      0x450 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+                0x80010324                platform_dputc
+                0x80010348                platform_dgetc
+                0x80010360                platform_pputc
+                0x80010384                platform_pgetc
+                0x8001039c                platform_early_init
+                0x80010564                platform_init
+                0x80010660                uart_init
+                0x800106c8                uart_init_early
+                0x800106d8                uart_putc
+                0x800106f0                uart_getc
+                0x80010730                uart_pputc
+                0x80010748                uart_pgetc
+                0x80010760                uart_flush_tx
+                0x80010764                uart_flush_rx
+                0x80010768                uart_init_port
+                0x8001076c                psci_call
+ .text          0x80010774     0x21a4 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x8001080c                arm_dcc_enable
+                0x80010864                arm_dcc_read_available
+                0x80010870                arm_dcc_read
+                0x800108c8                arm_dcc_write
+                0x80010dd8                arm_syscall_handler
+                0x80010dec                arm_undefined_handler
+                0x80010ee4                arm_data_abort_handler
+                0x800110c0                arm_prefetch_abort_handler
+                0x800111c8                arm_fpu_set_enable
+                0x800111d8                arm_fpu_thread_initialize
+                0x800111fc                arm_fpu_thread_swap
+                0x80011278                arm_fpu_undefined_instruction
+                0x80011324                arm_mmu_early_init
+                0x80011328                arm_mmu_init
+                0x800113ec                arch_disable_mmu
+                0x80011400                arch_mmu_context_switch
+                0x80011428                arch_mmu_query
+                0x8001160c                arch_mmu_map
+                0x80011a68                arch_mmu_unmap
+                0x80011ce4                arch_mmu_init_aspace
+                0x80011dc8                arch_mmu_destroy_aspace
+                0x80011e28                arch_thread_initialize
+                0x80011e7c                arch_context_switch
+                0x80011ea4                arch_dump_thread
+                0x80011ed4                arm_ipi_generic_handler
+                0x80011ed8                arm_ipi_reschedule_handler
+                0x80011edc                arch_mp_send_ipi
+                0x80011ef8                arch_mp_init_percpu
+                0x80011f24                arm_context_switch
+                0x80011f3c                arm_save_mode_regs
+                0x80011f98                arm_chain_load
+                0x80011fc0                arch_disable_cache
+                0x80012028                arch_enable_cache
+                0x800121b8                arch_clean_cache_range
+                0x800121dc                arch_clean_invalidate_cache_range
+                0x80012200                arch_invalidate_cache_range
+                0x80012224                arch_sync_cache_range
+                0x80012240                _arch_enable_ints
+                0x80012250                _arch_disable_ints
+                0x80012260                _atomic_swap
+                0x80012278                _atomic_add
+                0x80012294                _atomic_and
+                0x800122b0                _atomic_or
+                0x800122cc                arch_spin_trylock
+                0x800122e8                arch_spin_lock
+                0x8001230c                arch_spin_unlock
+                0x80012324                arch_idle
+                0x8001232c                arm_invalidate_tlb
+                0x80012338                arm_undefined
+                0x80012390                arm_syscall
+                0x800123e8                arm_prefetch_abort
+                0x80012444                arm_data_abort
+                0x800124a0                arm_reserved
+                0x800124a4                arm_irq
+                0x80012528                arm_fiq
+                0x80012604                arch_early_init
+                0x80012628                arch_init
+                0x80012690                arm_secondary_entry
+                0x80012704                arch_quiesce
+                0x80012728                arm_vtop
+                0x8001279c                arch_chain_load
+                0x800128a0                arch_enter_uspace
+ .text          0x80012918      0x3e8 ./build-qemu-virt-a15-test/top.mod.o
+                0x80012918                lk_init_level
+                0x80012af0                lk_main
+                0x80012c18                lk_secondary_cpu_entry
+                0x80012c70                lk_init_secondary_cpus
+ .text          0x80012d00       0xbc ./build-qemu-virt-a15-test/app.mod.o
+                0x80012d10                apps_init
+ .text          0x80012dbc      0x490 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .text          0x8001324c        0x8 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .text          0x80013254      0x768 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ *fill*         0x800139bc        0x4 
+ .text          0x800139c0     0x39e4 ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x80013ff0                benchmarks
+                0x80014194                cbuf_tests
+                0x800145e0                clock_tests
+                0x800148d4                fibo
+                0x80014ea8                printf_tests
+                0x800153b0                printf_tests_float
+                0x80015a50                sleep_test
+                0x80015a90                mutex_test
+                0x80015bec                event_test
+                0x80015e08                quantum_test
+                0x80015e8c                context_switch_test
+                0x80015ff4                thread_tests
+                0x80016590                spinner
+                0x800168d0                two_threads_basic
+                0x80016b40                send_watcher_cmd
+                0x80016b5c                group_basic
+                0x80016d10                group_dynamic
+                0x80016e3c                group_waiting
+                0x80016f10                port_tests
+                0x800172c8                float_vfp_arm_instruction_test
+                0x80017300                float_neon_arm_instruction_test
+                0x80017338                float_vfp_thumb_instruction_test
+                0x8001736c                float_neon_thumb_instruction_test
+ .text          0x800173a4      0x584 ./build-qemu-virt-a15-test/dev.mod.o
+                0x800173a4                dev_init
+                0x800173a8                device_init
+                0x800173f4                device_init_all
+                0x8001747c                device_fini
+                0x800174c8                device_fini_all
+                0x8001754c                device_suspend
+                0x80017590                device_resume
+                0x800175d4                class_block_get_size
+                0x800175f8                class_block_get_count
+                0x8001761c                class_block_write
+                0x80017650                class_block_read
+                0x80017684                class_block_flush
+                0x800176a8                class_i2c_write
+                0x800176cc                class_i2c_read
+                0x800176f0                class_i2c_write_reg
+                0x80017714                class_i2c_read_reg
+                0x80017738                class_spi_transaction
+                0x8001775c                class_uart_read
+                0x80017780                class_uart_write
+                0x800177a4                class_fb_set_mode
+                0x800177c8                class_fb_get_info
+                0x800177ec                class_fb_update
+                0x80017810                class_fb_update_region
+                0x80017850                class_netif_set_state
+                0x80017874                class_netif_get_hwaddr
+                0x80017898                class_netif_get_mtu
+                0x800178bc                class_netif_set_status
+                0x800178e0                class_netif_output
+                0x80017904                class_netif_mcast_filter
+ .text          0x80017928      0x2a4 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+                0x80017944                register_int_handler
+                0x800179c8                arm_gic_init
+                0x80017ab4                arm_gic_sgi
+                0x80017af0                mask_interrupt
+                0x80017b14                unmask_interrupt
+                0x80017b38                platform_irq
+                0x80017bb0                platform_fiq
+ *fill*         0x80017bcc        0x4 
+ .text          0x80017bd0      0x7a8 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+                0x80017fcc                platform_set_oneshot_timer
+                0x800180a0                platform_stop_timer
+                0x800180ac                current_time_hires
+                0x80018178                current_time
+                0x80018180                arm_generic_timer_init
+ .text          0x80018378      0x4b0 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+                0x8001843c                virtio_block_init
+                0x80018560                virtio_block_read_write
+ .text          0x80018828      0x8f0 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+                0x8001882c                virtio_gpu_gfx_flush
+                0x80018bf0                virtio_gpu_start
+                0x80018f80                virtio_gpu_init
+                0x80019024                display_get_framebuffer
+                0x80019074                display_get_info
+                0x800190d4                display_present
+ .text          0x80019118      0x878 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+                0x800194a0                virtio_net_init
+                0x800196c8                virtio_net_start
+                0x8001972c                virtio_net_found
+                0x80019740                virtio_net_get_mac_addr
+                0x80019764                virtio_net_send_minip_pkt
+ .text          0x80019990     0x3814 ./build-qemu-virt-a15-test/kernel.mod.o
+                0x80019c54                event_init
+                0x80019c88                event_destroy
+                0x80019d30                event_wait_timeout
+                0x80019dcc                event_signal
+                0x80019e78                event_unsignal
+                0x80019ec0                kernel_init
+                0x80019f0c                mutex_init
+                0x80019f3c                mutex_destroy
+                0x8001a020                mutex_acquire_timeout
+                0x8001a0f0                mutex_release
+                0x8001a1bc                thread_timer_tick
+                0x8001a83c                thread_create_etc
+                0x8001a998                thread_create
+                0x8001a9d0                thread_set_real_time
+                0x8001aa80                thread_yield
+                0x8001ab60                thread_resume
+                0x8001ac34                thread_preempt
+                0x8001ad20                thread_block
+                0x8001ade8                thread_unblock
+                0x8001aedc                thread_sleep
+                0x8001b000                thread_init_early
+                0x8001b0e4                thread_init
+                0x8001b118                thread_set_name
+                0x8001b128                thread_set_priority
+                0x8001b184                thread_become_idle
+                0x8001b228                thread_secondary_cpu_init_early
+                0x8001b314                thread_secondary_cpu_entry
+                0x8001b350                dump_thread
+                0x8001b424                dump_all_threads
+                0x8001b4b8                wait_queue_init
+                0x8001b4d0                wait_queue_block
+                0x8001b610                thread_join
+                0x8001b7dc                wait_queue_wake_one
+                0x8001b924                wait_queue_wake_all
+                0x8001baec                thread_detach
+                0x8001bba8                thread_detach_and_resume
+                0x8001bbc8                thread_exit
+                0x8001bcd8                wait_queue_destroy
+                0x8001bd84                thread_unblock_from_wait_queue
+                0x8001c2a4                timer_initialize
+                0x8001c2c0                timer_set_oneshot
+                0x8001c2e0                timer_set_periodic
+                0x8001c300                timer_cancel
+                0x8001c3f0                timer_init
+                0x8001c42c                sem_init
+                0x8001c458                sem_destroy
+                0x8001c4c0                sem_post
+                0x8001c51c                sem_wait
+                0x8001c578                sem_trywait
+                0x8001c5c8                sem_timedwait
+                0x8001c630                mp_init
+                0x8001c634                mp_reschedule
+                0x8001c66c                mp_set_curr_cpu_active
+                0x8001c69c                mp_mbx_reschedule_irq
+                0x8001c778                port_init
+                0x8001c788                port_create
+                0x8001c914                port_open
+                0x8001ca54                port_group
+                0x8001cb94                port_group_add
+                0x8001cc64                port_group_remove
+                0x8001cd0c                port_write
+                0x8001ce18                port_read
+                0x8001cf8c                port_destroy
+                0x8001d070                port_close
+ .text          0x8001d1a4      0xfc4 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+                0x8001d1a4                AES_set_encrypt_key
+                0x8001d550                AES_set_decrypt_key
+                0x8001d7d8                AES_encrypt
+                0x8001dc7c                AES_decrypt
+ .text          0x8001e168      0x1b8 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .text          0x8001e320      0x6ec ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+                0x8001e320                cbuf_initialize_etc
+                0x8001e3c8                cbuf_initialize
+                0x8001e3f0                cbuf_space_avail
+                0x8001e40c                cbuf_space_used
+                0x8001e428                cbuf_write
+                0x8001e5b8                cbuf_read
+                0x8001e724                cbuf_peek
+                0x8001e83c                cbuf_write_char
+                0x8001e8f8                cbuf_read_char
+ .text          0x8001ea0c      0x80c ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+                0x8001ea9c                adler32
+                0x8001ed14                adler32_combine
+                0x8001ed30                adler32_combine64
+                0x8001ed4c                update_crc16
+                0x8001ed74                crc16
+                0x8001eef0                get_crc_table
+                0x8001eefc                crc32
+                0x8001f01c                crc32_combine
+                0x8001f020                crc32_combine64
+ .text          0x8001f218      0x4f8 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .text          0x8001f710     0x2a18 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+                0x8001f710                fdt_check_header
+                0x8001f7cc                fdt_offset_ptr
+                0x8001f848                fdt_next_tag
+                0x8001f930                _fdt_check_node_offset
+                0x8001f960                _fdt_check_prop_offset
+                0x8001f990                fdt_next_node
+                0x8001fa0c                fdt_first_subnode
+                0x8001fa3c                fdt_next_subnode
+                0x8001fa88                _fdt_find_string
+                0x8001fac8                fdt_move
+                0x8001fb38                fdt_address_cells
+                0x8001fb88                fdt_size_cells
+                0x8001fbd8                fdt_create_empty_tree
+                0x8001fc84                fdt_string
+                0x8001fcb0                fdt_get_mem_rsv
+                0x8001fe2c                fdt_num_mem_rsv
+                0x8001ff3c                fdt_subnode_offset_namelen
+                0x8001ffd4                fdt_subnode_offset
+                0x80020000                fdt_get_name
+                0x80020084                fdt_first_property_offset
+                0x800200a0                fdt_next_property_offset
+                0x800200bc                fdt_get_property_by_offset
+                0x8002012c                fdt_get_property_namelen
+                0x800201f4                fdt_get_property
+                0x80020230                fdt_getprop_namelen
+                0x80020248                fdt_getprop_by_offset
+                0x800202ac                fdt_getprop
+                0x800202ec                fdt_get_phandle
+                0x80020360                fdt_get_alias_namelen
+                0x800203ac                fdt_path_offset_namelen
+                0x8002046c                fdt_path_offset
+                0x80020494                fdt_get_alias
+                0x800204bc                fdt_get_path
+                0x800205b4                fdt_supernode_atdepth_offset
+                0x80020650                fdt_node_depth
+                0x80020678                fdt_parent_offset
+                0x800206a8                fdt_node_offset_by_prop_value
+                0x80020724                fdt_node_offset_by_phandle
+                0x80020770                fdt_stringlist_contains
+                0x800207c8                fdt_node_check_compatible
+                0x800207fc                fdt_node_offset_by_compatible
+                0x80020eb4                fdt_add_mem_rsv
+                0x80021070                fdt_del_mem_rsv
+                0x800210fc                fdt_set_name
+                0x8002116c                fdt_setprop
+                0x80021214                fdt_appendprop
+                0x800212c8                fdt_delprop
+                0x8002131c                fdt_add_subnode_namelen
+                0x800213f4                fdt_add_subnode
+                0x80021420                fdt_del_node
+                0x80021490                fdt_open_into
+                0x80021678                fdt_pack
+                0x8002171c                fdt_strerror
+                0x8002181c                fdt_create
+                0x8002188c                fdt_resize
+                0x800219a0                fdt_add_reservemap_entry
+                0x80021ba4                fdt_finish_reservemap
+                0x80021bcc                fdt_begin_node
+                0x80021c54                fdt_end_node
+                0x80021ca8                fdt_property
+                0x80021e64                fdt_finish
+                0x80022040                fdt_setprop_inplace
+                0x80022084                fdt_nop_property
+                0x800220bc                _fdt_node_end_offset
+                0x800220e8                fdt_nop_node
+ .text          0x80022128     0x1038 ./build-qemu-virt-a15-test/lib/fs.mod.o
+                0x8002225c                fs_format_device
+                0x800222a8                fs_file_ioctl
+                0x800222c8                fs_truncate_file
+                0x800222dc                fs_read_file
+                0x80022300                fs_write_file
+                0x8002232c                fs_close_file
+                0x80022354                fs_stat_file
+                0x80022368                fs_read_dir
+                0x80022384                fs_close_dir
+                0x800223b4                fs_stat_fs
+                0x800223fc                trim_name
+                0x80022420                fs_normalize_path
+                0x80022528                fs_mount
+                0x800225f8                fs_unmount
+                0x80022634                fs_open_file
+                0x800226a4                fs_load_file
+                0x80022714                fs_create_file
+                0x80022798                fs_remove_file
+                0x800227f0                fs_make_dir
+                0x80022848                fs_open_dir
+ .text          0x80023160      0x8e8 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+                0x80023160                ext2_unmount
+                0x80023180                ext2_load_inode
+                0x80023208                ext2_mount
+                0x80023500                ext2_lookup
+                0x8002353c                ext2_read_block
+                0x80023544                ext2_get_block
+                0x8002354c                ext2_put_block
+                0x80023554                ext2_get_indirect_block_pointer_cache_block
+                0x800236b4                ext2_read_inode
+                0x80023870                ext2_open_file
+                0x800238d0                ext2_read_file
+                0x80023910                ext2_close_file
+                0x8002393c                ext2_file_len
+                0x80023968                ext2_stat_file
+                0x800239bc                ext2_read_link
+ .text          0x80023a48      0x850 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+                0x80023a48                fat32_mount
+                0x80023d48                fat32_unmount
+                0x80023d60                fat32_dump
+                0x80023e34                fat32_next_cluster_in_chain
+                0x80023ec4                fat32_dir_get_filename
+                0x80023fa8                fat32_open_file
+                0x80024154                fat32_read_file
+                0x80024264                fat32_close_file
+                0x80024274                fat32_stat_file
+ .text          0x80024298      0x4ec ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .text          0x80024784     0x10b8 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .text          0x8002583c      0xdc4 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+                0x80026194                test_setup
+                0x8002622c                test_teardown
+ .text          0x80026600     0x4950 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+                0x80026600                __kernel_sin
+                0x800266b0                sin
+                0x80026a58                sinf
+                0x80026e00                __kernel_cos
+                0x80026ea8                cos
+                0x80027258                cosf
+                0x80027620                __kernel_tan
+                0x800277f8                tan
+                0x80027b20                tanf
+                0x80027e28                sqrt
+                0x80027e38                sqrtf
+                0x80027e48                __kernel_rem_pio2
+                0x80028498                floor
+                0x800285b0                floorf
+                0x80028650                scalbn
+                0x80028780                scalbnf
+                0x8002886c                copysign
+                0x80028884                copysignf
+                0x80028890                acos
+                0x80028b50                acosf
+                0x80028dc8                asin
+                0x80029030                asinf
+                0x80029250                pow
+                0x80029960                powf
+                0x80029f2c                fabs
+                0x80029f34                fabsf
+                0x80029f3c                fmod
+                0x8002a218                log
+                0x8002a480                exp
+                0x8002a778                round
+                0x8002a810                ceil
+                0x8002a928                ceilf
+                0x8002a9b8                trunc
+                0x8002aa80                atan
+                0x8002acd0                atan2
+ .text          0x8002af50     0x3464 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                0x8002af58                arp_cache_init
+                0x8002af68                arp_cache_update
+                0x8002b01c                arp_cache_lookup
+                0x8002b09c                arp_cache_dump
+                0x8002b12c                arp_send_request
+                0x8002b1c0                arp_get_dest_mac
+                0x8002b23c                ones_sum16
+                0x8002b288                rfc1701_chksum
+                0x8002b604                minip_init_dhcp
+                0x8002b694                str_ip_to_int
+                0x8002b9a4                arp_usage
+                0x8002baec                minip_set_hostname
+                0x8002bafc                minip_get_hostname
+                0x8002bb04                minip_get_macaddr
+                0x8002bb18                minip_set_macaddr
+                0x8002bb2c                minip_get_ipaddr
+                0x8002bb38                minip_set_ipaddr
+                0x8002bb58                gen_random_mac_address
+                0x8002bb80                minip_init
+                0x8002bbcc                ipv4_payload_len
+                0x8002bbe0                minip_build_mac_hdr
+                0x8002bc08                minip_build_ipv4_hdr
+                0x8002bc50                send_arp_request
+                0x8002bd20                get_dest_mac
+                0x8002bd9c                minip_ipv4_send
+                0x8002be5c                send_ping_reply
+                0x8002c02c                minip_rx_driver_callback
+                0x8002c09c                minip_parse_ipaddr
+                0x8002c11c                net_timer_work_thread
+                0x8002c1b8                net_timer_set
+                0x8002c26c                net_timer_cancel
+                0x8002c2ac                net_timer_init
+                0x8002c450                pktbuf_add_buffer
+                0x8002c504                pktbuf_alloc
+                0x8002c560                pktbuf_alloc_empty
+                0x8002c570                pktbuf_free
+                0x8002c5b8                pktbuf_append_data
+                0x8002c5f8                pktbuf_append
+                0x8002c62c                pktbuf_prepend
+                0x8002c65c                pktbuf_consume
+                0x8002c678                pktbuf_consume_tail
+                0x8002c68c                pktbuf_dump
+                0x8002d300                tcp_input
+                0x8002d95c                tcp_open_listen
+                0x8002d994                tcp_accept_timeout
+                0x8002da3c                tcp_read
+                0x8002db0c                tcp_write
+                0x8002dd80                tcp_close
+                0x8002e128                udp_listen
+                0x8002e1b4                udp_open
+                0x8002e210                udp_close
+                0x8002e228                udp_send_iovec
+                0x8002e324                udp_send
+                0x8002e350                udp_input
+ .text.unlikely
+                0x8002e3b4       0xbc ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .text          0x8002e470       0x88 ./build-qemu-virt-a15-test/lib/version.mod.o
+                0x8002e470                print_version
+ .text          0x8002e4f8       0x6c ./build-qemu-virt-a15-test/platform.mod.o
+                0x8002e500                platform_init_mmu_mappings
+                0x8002e50c                platform_quiesce
+                0x8002e510                platform_halt
+ .text          0x8002e564       0x10 ./build-qemu-virt-a15-test/target.mod.o
+                0x8002e564                target_early_init
+                0x8002e568                target_init
+                0x8002e56c                target_set_led
+                0x8002e570                target_quiesce
+ .text          0x8002e574      0x684 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+                0x8002e574                virtio_init
+                0x8002e664                virtio_dump_desc
+                0x8002e6bc                virtio_mmio_detect
+                0x8002e8a4                virtio_free_desc
+                0x8002e8c8                virtio_alloc_desc
+                0x8002e93c                virtio_alloc_desc_chain
+                0x8002e9e0                virtio_submit_chain
+                0x8002ea04                virtio_kick
+                0x8002ea10                virtio_alloc_ring
+                0x8002ebd8                virtio_reset_device
+                0x8002ebe0                virtio_status_acknowledge_driver
+                0x8002ebec                virtio_status_driver_ok
+ .text          0x8002ebf8     0x1fc8 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                0x8002ebf8                boot_alloc_mem
+                0x8002ee14                vm_page_to_paddr
+                0x8002ee90                paddr_to_vm_page
+                0x8002eed8                pmm_add_arena
+                0x8002f008                pmm_alloc_pages
+                0x8002f0a4                pmm_alloc_range
+                0x8002f200                pmm_free
+                0x8002f2e8                pmm_free_page
+                0x8002f308                pmm_alloc_kpages
+                0x8002f710                pmm_free_kpages
+                0x8002f75c                pmm_alloc_contiguous
+                0x8002f870                kvaddr_get_range
+                0x8002f880                paddr_to_kvaddr
+                0x8002fac4                vaddr_to_paddr
+                0x8002fb10                vaddr_to_aspace
+                0x8002fb38                vmm_init_preheap
+                0x8002fba0                vmm_init
+                0x8002fba4                arch_mmu_pick_spot
+                0x8002fe88                vmm_reserve_space
+                0x8002ffac                vmm_alloc_physical
+                0x800300f8                vmm_alloc_contiguous
+                0x80030248                vmm_alloc
+                0x80030458                vmm_free_region
+                0x80030514                vmm_create_aspace
+                0x800305cc                vmm_context_switch
+                0x80030620                vmm_free_aspace
+                0x80030b18                vmm_set_active_aspace
+ .text.unlikely
+                0x80030bc0       0x28 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .text          0x80030be8      0x510 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+                0x80030ddc                bcache_create
+                0x80030e80                bcache_destroy
+                0x80030f18                bcache_read_block
+                0x80030f44                bcache_get_block
+                0x80030f94                bcache_put_block
+                0x80031000                bcache_mark_block_dirty
+                0x8003101c                bcache_zero_block
+                0x80031058                bcache_flush
+                0x80031090                bcache_dump
+ .text          0x800310f8     0x198c ./build-qemu-virt-a15-test/lib/bio.mod.o
+                0x8003119c                bio_trim_range
+                0x800311f0                bio_trim_block_range
+                0x8003120c                bio_open
+                0x800312ac                bio_close
+                0x800312e4                bio_read
+                0x80031398                bio_read_block
+                0x800315ac                bio_write
+                0x80031704                bio_write_block
+                0x80031948                bio_erase
+                0x800319d4                bio_ioctl
+                0x800319e8                bio_initialize_bdev
+                0x80031b10                bio_register_device
+                0x80031b8c                bio_unregister_device
+                0x80031bf0                bio_dump_devices
+                0x800326d8                create_membdev
+                0x800327e8                bio_publish_subdevice
+ .text          0x80032a84      0xc2c ./build-qemu-virt-a15-test/lib/console.mod.o
+                0x80033454                console_abort_script
+                0x80033464                console_start
+                0x800334b4                console_run_script
+                0x800334b8                console_run_script_locked
+                0x800334bc                console_get_command_handler
+                0x800334d0                console_register_commands
+                0x80033538                console_init
+                0x8003358c                panic_shell_start
+ .text          0x800336b0      0x2c0 ./build-qemu-virt-a15-test/lib/debug.mod.o
+                0x800336f4                spin
+                0x80033724                _panic
+                0x80033754                get_panic_fd
+                0x80033760                hexdump
+                0x80033864                hexdump8_ex
+ .text          0x80033970        0x0 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .text          0x80033970      0xfc8 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+                0x80033d54                gfx_copyrect
+                0x80033dd4                gfx_fillrect
+                0x80033e28                gfx_putpixel
+                0x80033e44                gfx_line
+                0x80033f38                alpha32_add_ignore_destalpha
+                0x80033fac                gfx_surface_blend
+                0x800341b8                gfx_flush
+                0x800341d8                gfx_flush_rows
+                0x80034228                gfx_create_surface
+                0x80034474                gfx_create_surface_from_display
+                0x800344fc                gfx_surface_destroy
+                0x8003451c                gfx_draw_pattern
+                0x800348d8                gfx_draw_pattern_white
+ .text          0x80034938      0x85c ./build-qemu-virt-a15-test/lib/heap.mod.o
+                0x8003495c                heap_init
+                0x80034960                heap_trim
+                0x80034988                malloc
+                0x800349d8                memalign
+                0x80034a40                calloc
+                0x80034aa8                realloc
+                0x80034b10                free
+                0x80035038                heap_delayed_free
+                0x80035118                page_alloc
+                0x80035120                page_free
+                0x8003515c                page_get_arenas
+                0x80035170                page_first_alloc
+                0x80035180                operator new(unsigned int)
+                0x80035184                operator new[](unsigned int)
+                0x80035188                operator new(unsigned int, void*)
+                0x8003518c                operator delete(void*)
+                0x80035190                operator delete[](void*)
+ .text.unlikely
+                0x80035194       0x88 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .text          0x8003521c       0xb4 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+                0x8003521c                iovec_size
+                0x8003524c                iovec_to_membuf
+ .text          0x800352d0     0x261c ./build-qemu-virt-a15-test/lib/libc.mod.o
+                0x800352fc                atol
+                0x8003538c                atoi
+                0x80035390                atoul
+                0x8003540c                atoui
+                0x80035410                atoull
+                0x800354c4                strtoul
+                0x800355c8                bsearch
+                0x80035630                isblank
+                0x80035640                isspace
+                0x80035654                islower
+                0x80035660                isupper
+                0x8003566c                isdigit
+                0x80035678                isalpha
+                0x80035688                isalnum
+                0x800356a4                isxdigit
+                0x800356c0                isgraph
+                0x800356cc                iscntrl
+                0x800356dc                isprint
+                0x800356e8                ispunct
+                0x8003570c                tolower
+                0x80035718                toupper
+                0x80035724                __geterrno
+                0x80035f48                _printf_engine
+                0x800365d4                vsnprintf
+                0x80036614                snprintf
+                0x80036638                vsprintf
+                0x80036644                sprintf
+                0x80036670                srand
+                0x8003667c                rand_add_entropy
+                0x800366a4                rand
+                0x800366c8                strtol
+                0x80036864                strtoll
+                0x80036ad0                fputc
+                0x80036af0                putchar
+                0x80036b14                fputs
+                0x80036b3c                puts
+                0x80036b6c                fwrite
+                0x80036ba8                getc
+                0x80036bcc                getchar
+                0x80036bd8                vfprintf
+                0x80036bfc                fprintf
+                0x80036c2c                _printf
+                0x80036c60                _vprintf
+                0x80036c80                qsort
+                0x80037214                __aeabi_unwind_cpp_pr0
+                0x80037218                __aeabi_unwind_cpp_pr1
+                0x8003721c                __aeabi_unwind_cpp_pr2
+                0x80037220                raise
+                0x80037224                __aeabi_atexit
+                0x80037230                atexit
+                0x80037234                memchr
+                0x80037264                memcmp
+                0x800372a4                strcat
+                0x800372d0                strchr
+                0x80037300                strcmp
+                0x80037320                strcoll
+                0x80037324                strcpy
+                0x80037334                strdup
+                0x8003735c                strerror
+                0x80037378                strlcat
+                0x800373e8                strlcpy
+                0x8003743c                strlen
+                0x80037454                strncat
+                0x800374a4                strncpy
+                0x800374c4                strncmp
+                0x80037514                strncasecmp
+                0x80037514                strnicmp
+                0x80037570                strnlen
+                0x800375ac                strpbrk
+                0x800375e0                strrchr
+                0x800375fc                strspn
+                0x80037650                strstr
+                0x8003769c                strtok
+                0x800376f0                strxfrm
+                0x8003772c                __cxa_pure_virtual
+                0x80037740                __cxa_atexit
+                0x80037744                bcopy
+                0x80037750                memmove
+                0x80037750                memcpy
+                0x80037850                bzero
+                0x80037858                memset
+ .text          0x800378ec      0x178 ./build-qemu-virt-a15-test/lib/pool.mod.o
+                0x800378ec                pool_alloc
+                0x80037928                pool_free
+                0x80037984                pool_init
+ .text          0x80037a64      0x350 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+                0x80037c9c                tftp_set_write_client
+                0x80037da4                tftp_server_init
+ .text          0x80037db4     0x33dc ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+                0x80038ab4                dlmalloc
+                0x8003a2ac                dlfree
+                0x8003a958                dlcalloc
+                0x8003a998                dlrealloc
+                0x8003aa70                dlrealloc_in_place
+                0x8003aae8                dlmemalign
+                0x8003aaf8                dlposix_memalign
+                0x8003ab54                dlvalloc
+                0x8003ab84                dlpvalloc
+                0x8003abb8                dlindependent_calloc
+                0x8003abd4                dlindependent_comalloc
+                0x8003abdc                dlbulk_free
+                0x8003acd4                dlmalloc_inspect_all
+                0x8003adc8                dlmalloc_trim
+                0x8003ae28                dlmalloc_footprint
+                0x8003ae38                dlmalloc_max_footprint
+                0x8003ae48                dlmalloc_footprint_limit
+                0x8003ae60                dlmalloc_set_footprint_limit
+                0x8003ae88                dlmallinfo
+                0x8003afe4                dlmalloc_stats
+                0x8003b114                dlmallopt
+                0x8003b16c                dlmalloc_usable_size
+ .text.unlikely
+                0x8003b190       0x50 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .text          0x8003b1e0      0x208 ./build-qemu-virt-a15-test/lib/io.mod.o
+                0x8003b1e0                console_init_hook
+                0x8003b288                register_print_callback
+                0x8003b2e8                unregister_print_callback
+                0x8003b340                io_write
+                0x8003b394                io_read
+ .text          0x8003b3e8      0x370 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+                0x8003b3e8                __aeabi_drsub
+                0x8003b3f0                __aeabi_dsub
+                0x8003b3f0                __subdf3
+                0x8003b3f4                __adddf3
+                0x8003b3f4                __aeabi_dadd
+                0x8003b66c                __aeabi_ui2d
+                0x8003b66c                __floatunsidf
+                0x8003b68c                __floatsidf
+                0x8003b68c                __aeabi_i2d
+                0x8003b6b0                __extendsfdf2
+                0x8003b6b0                __aeabi_f2d
+                0x8003b6ec                __aeabi_ul2d
+                0x8003b6ec                __floatundidf
+                0x8003b6fc                __floatdidf
+                0x8003b6fc                __aeabi_l2d
+ .text          0x8003b758       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+                0x8003b758                __aeabi_ldivmod
+ .text          0x8003b790       0x2c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+                0x8003b790                __aeabi_uldivmod
+ .text          0x8003b7bc       0x60 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+                0x8003b7bc                __gnu_ldivmod_helper
+                0x8003b7ec                __gnu_uldivmod_helper
+ .text          0x8003b81c        0x4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+                0x8003b81c                __aeabi_ldiv0
+                0x8003b81c                __aeabi_idiv0
+ .text          0x8003b820      0x354 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+                0x8003b820                __divdi3
+ .text          0x8003bb74      0x300 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+                0x8003bb74                __udivdi3
+ *fill*         0x8003be74        0x4 
+ .text          0x8003be78      0x278 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+                0x8003be78                __udivsi3
+                0x8003be78                __aeabi_uidiv
+                0x8003c0d4                __aeabi_uidivmod
+ .text.__stub   0x8003c0f0       0x38 linker stubs
+
+.glue_7         0x8003c128        0x0 load address 0x4003c128
+ .glue_7        0x00000000        0x0 linker stubs
+
+.glue_7t        0x8003c128        0x0 load address 0x4003c128
+ .glue_7t       0x00000000        0x0 linker stubs
+
+.vfp11_veneer   0x8003c128        0x0 load address 0x4003c128
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x8003c128        0x0 load address 0x4003c128
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.iplt           0x8003c128        0x0 load address 0x4003c128
+ .iplt          0x00000000        0x0 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+
+.rel.dyn        0x8003c128        0x0 load address 0x4003c128
+ .rel.iplt      0x00000000        0x0 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+
+.interp
+ *(.interp)
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(.init)
+
+.plt
+ *(.plt)
+                0x8003c128                __exidx_start = .
+
+.ARM.exidx      0x8003c128        0x8 load address 0x4003c128
+ *(.ARM.exidx* .gnu.linkonce.armexidx.*)
+ .ARM.exidx     0x8003c128        0x8 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .ARM.exidx     0x8003c130        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+                                  0x8 (size before relaxing)
+                0x8003c130                __exidx_end = .
+
+.rodata         0x8003c130     0xbab4 load address 0x4003c130
+                0x8003c130                __rodata_start = .
+                0x8003c130                __fault_handler_table_start = .
+ *(.rodata.fault_handler_table)
+                0x8003c130                __fault_handler_table_end = .
+ *(.rodata .rodata.* .gnu.linkonce.r.*)
+ .rodata        0x8003c130       0x10 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .rodata.str1.4
+                0x8003c140       0x58 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+                                 0x60 (size before relaxing)
+ .rodata        0x8003c198       0x40 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .rodata.str1.4
+                0x8003c1d8      0x772 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                                0x7c0 (size before relaxing)
+ *fill*         0x8003c94a        0x2 
+ .rodata.str1.4
+                0x8003c94c      0x240 ./build-qemu-virt-a15-test/top.mod.o
+                                0x260 (size before relaxing)
+ .rodata.str1.4
+                0x8003cb8c       0x11 ./build-qemu-virt-a15-test/app.mod.o
+                                 0x14 (size before relaxing)
+ *fill*         0x8003cb9d        0x3 
+ .rodata        0x8003cba0       0x58 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .rodata.str1.4
+                0x8003cbf8      0x294 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .rodata.str1.4
+                0x8003ce8c        0x6 ./build-qemu-virt-a15-test/app/shell.mod.o
+                                  0x8 (size before relaxing)
+ *fill*         0x8003ce92        0x2 
+ .rodata        0x8003ce94       0x10 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .rodata.str1.4
+                0x8003cea4      0x2d9 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+                                0x2e8 (size before relaxing)
+ *fill*         0x8003d17d        0x3 
+ .rodata        0x8003d180      0x230 ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x8003d180                ITER
+                0x8003d184                BUFSIZE
+ .rodata.str1.4
+                0x8003d3b0     0x1e4c ./build-qemu-virt-a15-test/app/tests.mod.o
+                               0x1f30 (size before relaxing)
+ .rodata        0x8003f1fc       0x20 ./build-qemu-virt-a15-test/dev.mod.o
+ .rodata.str1.4
+                0x8003f21c       0xa3 ./build-qemu-virt-a15-test/dev.mod.o
+                                 0xc8 (size before relaxing)
+ *fill*         0x8003f2bf        0x1 
+ .rodata        0x8003f2c0       0xa4 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .rodata.str1.4
+                0x8003f364       0xa4 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+                                 0xb8 (size before relaxing)
+ .rodata        0x8003f408       0x3c ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .rodata.str1.4
+                0x8003f444       0xcd ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+                                 0xf0 (size before relaxing)
+ *fill*         0x8003f511        0x3 
+ .rodata.str1.4
+                0x8003f514       0x96 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+                                 0xbc (size before relaxing)
+ *fill*         0x8003f5aa        0x2 
+ .rodata        0x8003f5ac       0x24 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .rodata.str1.4
+                0x8003f5d0      0x136 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+                                0x194 (size before relaxing)
+ *fill*         0x8003f706        0x2 
+ .rodata        0x8003f708       0x58 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .rodata.str1.4
+                0x8003f760      0x228 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+                                0x2a8 (size before relaxing)
+ .rodata        0x8003f988       0x48 ./build-qemu-virt-a15-test/kernel.mod.o
+ .rodata.str1.4
+                0x8003f9d0      0x85e ./build-qemu-virt-a15-test/kernel.mod.o
+                                0x948 (size before relaxing)
+ *fill*         0x8004022e        0x2 
+ .rodata        0x80040230     0x2828 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .rodata        0x80042a58       0x5c ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .rodata.str1.4
+                0x80042ab4      0x165 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+                                0x168 (size before relaxing)
+ *fill*         0x80042c19        0x3 
+ .rodata.str1.4
+                0x80042c1c       0x7e ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+                                 0xa8 (size before relaxing)
+ *fill*         0x80042c9a        0x2 
+ .rodata        0x80042c9c      0x440 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .rodata.str1.4
+                0x800430dc       0xec ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+                                0x10c (size before relaxing)
+ .rodata        0x800431c8      0x100 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .rodata.str1.4
+                0x800432c8      0x389 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+                                0x3b0 (size before relaxing)
+ *fill*         0x80043651        0x3 
+ .rodata        0x80043654       0x34 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .rodata.str1.4
+                0x80043688      0x152 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+                                0x158 (size before relaxing)
+ *fill*         0x800437da        0x2 
+ .rodata        0x800437dc       0x90 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .rodata.str1.4
+                0x8004386c      0x449 ./build-qemu-virt-a15-test/lib/fs.mod.o
+                                0x4ac (size before relaxing)
+ *fill*         0x80043cb5        0x3 
+ .rodata        0x80043cb8       0x44 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .rodata.str1.4
+                0x80043cfc       0x24 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .rodata        0x80043d20       0x54 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .rodata.str1.4
+                0x80043d74      0x296 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+                                0x298 (size before relaxing)
+ *fill*         0x8004400a        0x2 
+ .rodata        0x8004400c       0x44 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .rodata.str1.4
+                0x80044050        0x6 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+                                  0x8 (size before relaxing)
+ *fill*         0x80044056        0x2 
+ .rodata        0x80044058       0x64 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .rodata.str1.4
+                0x800440bc      0x144 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+                                0x168 (size before relaxing)
+ .rodata        0x80044200       0xac ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .rodata.str1.4
+                0x800442ac      0x66e ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+                                0x6a8 (size before relaxing)
+ *fill*         0x8004491a        0x6 
+ .rodata        0x80044920      0x220 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .rodata        0x80044b40       0x94 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .rodata.str1.4
+                0x80044bd4      0x999 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                                0xa1c (size before relaxing)
+ *fill*         0x8004556d        0x3 
+ .rodata        0x80045570       0x28 ./build-qemu-virt-a15-test/lib/version.mod.o
+                0x80045580                version
+ .rodata.str1.4
+                0x80045598       0xa2 ./build-qemu-virt-a15-test/lib/version.mod.o
+                                 0xa4 (size before relaxing)
+ *fill*         0x8004563a        0x2 
+ .rodata        0x8004563c       0x20 ./build-qemu-virt-a15-test/platform.mod.o
+ .rodata.str1.4
+                0x8004565c       0x86 ./build-qemu-virt-a15-test/platform.mod.o
+                                 0x88 (size before relaxing)
+ *fill*         0x800456e2        0x2 
+ .rodata.str1.4
+                0x800456e4      0x123 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+                                0x14c (size before relaxing)
+ *fill*         0x80045807        0x1 
+ .rodata        0x80045808       0x30 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .rodata.str1.4
+                0x80045838      0x8d7 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                                0xa48 (size before relaxing)
+ *fill*         0x8004610f        0x1 
+ .rodata.str1.4
+                0x80046110       0xd3 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+                                 0xfc (size before relaxing)
+ *fill*         0x800461e3        0x1 
+ .rodata        0x800461e4       0x20 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .rodata.str1.4
+                0x80046204      0x871 ./build-qemu-virt-a15-test/lib/bio.mod.o
+                                0x968 (size before relaxing)
+ *fill*         0x80046a75        0x3 
+ .rodata        0x80046a78       0x70 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .rodata.str1.4
+                0x80046ae8      0x257 ./build-qemu-virt-a15-test/lib/console.mod.o
+                                0x2b4 (size before relaxing)
+ *fill*         0x80046d3f        0x1 
+ .rodata        0x80046d40        0x8 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .rodata.str1.4
+                0x80046d48       0x48 ./build-qemu-virt-a15-test/lib/debug.mod.o
+                                 0x6c (size before relaxing)
+ .rodata        0x80046d90       0x10 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .rodata.str1.4
+                0x80046da0      0x2dd ./build-qemu-virt-a15-test/lib/gfx.mod.o
+                                0x324 (size before relaxing)
+ *fill*         0x8004707d        0x3 
+ .rodata        0x80047080       0x20 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .rodata.str1.4
+                0x800470a0      0x3a2 ./build-qemu-virt-a15-test/lib/heap.mod.o
+                                0x478 (size before relaxing)
+ *fill*         0x80047442        0x2 
+ .rodata        0x80047444       0x20 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .rodata.str1.4
+                0x80047464       0x7d ./build-qemu-virt-a15-test/lib/libc.mod.o
+                                 0x80 (size before relaxing)
+ *fill*         0x800474e1        0x3 
+ .rodata.str1.4
+                0x800474e4       0xa6 ./build-qemu-virt-a15-test/lib/pool.mod.o
+                                 0xcc (size before relaxing)
+ *fill*         0x8004758a        0x2 
+ .rodata.str1.4
+                0x8004758c       0x1f ./build-qemu-virt-a15-test/lib/tftp.mod.o
+                                 0x44 (size before relaxing)
+ *fill*         0x800475ab        0x1 
+ .rodata.str1.4
+                0x800475ac      0x5fa ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+                                0x620 (size before relaxing)
+ *fill*         0x80047ba6        0x2 
+ .rodata        0x80047ba8        0x8 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .rodata.str1.4
+                0x80047bb0       0x34 ./build-qemu-virt-a15-test/lib/io.mod.o
+                                 0x58 (size before relaxing)
+
+.ARM.extab      0x80047be4        0x0 load address 0x40047be4
+ .ARM.extab     0x80047be4        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .ARM.extab     0x80047be4        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+
+.fs_impls       0x80047be4       0x20 load address 0x40047be4
+                0x80047be4                __fs_impl_start = .
+ *(.fs_impl)
+ .fs_impl       0x80047be4        0x8 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+                0x80047be4                __fs_impl_ext2
+ .fs_impl       0x80047bec        0x8 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+                0x80047bec                __fs_impl_fat32
+ .fs_impl       0x80047bf4        0x8 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+                0x80047bf4                __fs_impl_memfs
+ .fs_impl       0x80047bfc        0x8 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+                0x80047bfc                __fs_impl_spifs
+                0x80047c04                __fs_impl_end = .
+
+.drivers        0x80047c04        0x0
+                0x80047c04                __drivers = .
+ *(.drivers)
+                0x80047c04                __drivers_end = .
+
+.apps           0x80047c04       0x50 load address 0x40047c04
+                0x80047c04                __apps_start = .
+ *(.apps)
+ .apps          0x80047c04       0x14 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+                0x80047c04                _app_inetsrv
+ .apps          0x80047c18       0x14 ./build-qemu-virt-a15-test/app/shell.mod.o
+                0x80047c18                _app_shell
+ .apps          0x80047c2c       0x14 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+                0x80047c2c                _app_stringtests
+ .apps          0x80047c40       0x14 ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x80047c40                _app_tests
+                0x80047c54                __apps_end = .
+
+.lk_init        0x80047c54       0xb0 load address 0x40047c54
+                0x80047c54                __lk_init = .
+ *(.lk_init)
+ .lk_init       0x80047c54       0x30 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+                0x80047c54                _init_struct_arm_gic_resume_cpu
+                0x80047c64                _init_struct_arm_gic_suspend_cpu
+                0x80047c74                _init_struct_arm_gic_init_percpu
+ .lk_init       0x80047c84       0x20 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+                0x80047c84                _init_struct_arm_generic_timer_resume_cpu
+                0x80047c94                _init_struct_arm_generic_timer_init_secondary_cpu
+ .lk_init       0x80047ca4       0x10 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                0x80047ca4                _init_struct_pktbuf
+ .lk_init       0x80047cb4       0x10 ./build-qemu-virt-a15-test/lib/version.mod.o
+                0x80047cb4                _init_struct_version
+ .lk_init       0x80047cc4       0x10 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+                0x80047cc4                _init_struct_virtio
+ .lk_init       0x80047cd4       0x20 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                0x80047cd4                _init_struct_vm
+                0x80047ce4                _init_struct_vm_preheap
+ .lk_init       0x80047cf4       0x10 ./build-qemu-virt-a15-test/lib/io.mod.o
+                0x80047cf4                _init_struct_console
+                0x80047d04                __lk_init_end = .
+
+.dummy_post_rodata
+                0x80047d04        0x0
+                0x80047d04                __rodata_end = .
+
+.data           0x80047d08      0x280 load address 0x40047d08
+                0x80047d08                __data_start_rom = .
+                0x80047d08                __data_start = .
+ *(.data .data.* .gnu.linkonce.d.*)
+ .data          0x80047d08       0x68 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+                0x80047d34                mmu_initial_mappings
+ .data          0x80047d70        0x8 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x80047d70                __arm_in_handler
+                0x80047d74                arm_boot_cpu_lock
+ .data          0x80047d78        0x0 ./build-qemu-virt-a15-test/top.mod.o
+ .data          0x80047d78        0x0 ./build-qemu-virt-a15-test/app.mod.o
+ .data          0x80047d78        0x0 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .data          0x80047d78        0x0 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .data          0x80047d78        0x0 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .data          0x80047d78       0x5c ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x80047dc8                context1
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/kernel.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .data          0x80047dd4        0x0 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .data          0x80047dd4       0x24 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .data          0x80047df8        0x0 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .data          0x80047df8        0x0 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .data          0x80047df8        0x0 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .data          0x80047df8        0x0 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .data          0x80047df8        0x0 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .data          0x80047df8       0x20 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .data          0x80047e18       0x94 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .data          0x80047eac        0x0 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .data          0x80047eac        0x0 ./build-qemu-virt-a15-test/platform.mod.o
+ .data          0x80047eac        0x0 ./build-qemu-virt-a15-test/target.mod.o
+ .data          0x80047eac        0x0 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .data          0x80047eac       0x58 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                0x80047eac                boot_alloc_end
+                0x80047eb0                boot_alloc_start
+ .data          0x80047f04        0x0 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .data          0x80047f04       0x24 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .data          0x80047f28        0x1 ./build-qemu-virt-a15-test/lib/console.mod.o
+ *fill*         0x80047f29        0x3 
+ .data          0x80047f2c        0xc ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .data          0x80047f38        0x0 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .data          0x80047f38        0x0 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .data          0x80047f38        0x8 ./build-qemu-virt-a15-test/lib/heap.mod.o
+                0x80047f38                delayed_free_list
+ .data          0x80047f40        0x0 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .data          0x80047f40       0x10 ./build-qemu-virt-a15-test/lib/libc.mod.o
+                0x80047f44                __stdio_FILEs
+ .data          0x80047f50        0x0 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .data          0x80047f50        0xc ./build-qemu-virt-a15-test/lib/tftp.mod.o
+                0x80047f50                next_port
+ .data          0x80047f5c       0x1c ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .data          0x80047f78       0x10 ./build-qemu-virt-a15-test/lib/io.mod.o
+                0x80047f80                console_io
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .data          0x80047f88        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.igot.plt       0x80047f88        0x0 load address 0x40047f88
+ .igot.plt      0x00000000        0x0 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+
+.commands       0x80047f88      0x12c load address 0x40047f88
+                0x80047f88                __commands_start = .
+ *(.commands)
+ .commands      0x80047f88        0xc ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x80047f88                _cmd_block_dcc
+ .commands      0x80047f94        0xc ./build-qemu-virt-a15-test/app/stringtests.mod.o
+                0x80047f94                _cmd_block_stringtests
+ .commands      0x80047fa0       0x30 ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x80047fa0                _cmd_block_cache_tests
+                0x80047fac                _cmd_block_float_tests
+                0x80047fb8                _cmd_block_mem_tests
+                0x80047fc4                _cmd_block_tests
+ .commands      0x80047fd0        0xc ./build-qemu-virt-a15-test/kernel.mod.o
+                0x80047fd0                _cmd_block_kernel
+ .commands      0x80047fdc        0xc ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+                0x80047fdc                _cmd_block_aes_test
+ .commands      0x80047fe8        0xc ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+                0x80047fe8                _cmd_block_crc
+ .commands      0x80047ff4        0xc ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+                0x80047ff4                _cmd_block_mem
+ .commands      0x80048000       0x18 ./build-qemu-virt-a15-test/lib/fs.mod.o
+                0x80048000                _cmd_block_fs
+                0x8004800c                _cmd_block_fs_shell
+ .commands      0x80048018        0xc ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+                0x80048018                _cmd_block_spifs
+ .commands      0x80048024       0x18 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                0x80048024                _cmd_block_minip
+                0x80048030                _cmd_block_tcp
+ .commands      0x8004803c        0xc ./build-qemu-virt-a15-test/lib/version.mod.o
+                0x8004803c                _cmd_block_version
+ .commands      0x80048048        0xc ./build-qemu-virt-a15-test/platform.mod.o
+                0x80048048                _cmd_block_platform_power
+ .commands      0x80048054       0x24 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                0x80048054                _cmd_block_pmm
+                0x80048060                _cmd_block_vm
+                0x8004806c                _cmd_block_vmm
+ .commands      0x80048078        0xc ./build-qemu-virt-a15-test/lib/bio.mod.o
+                0x80048078                _cmd_block_bio
+ .commands      0x80048084        0xc ./build-qemu-virt-a15-test/lib/console.mod.o
+                0x80048084                _cmd_block_help
+ .commands      0x80048090        0xc ./build-qemu-virt-a15-test/lib/gfx.mod.o
+                0x80048090                _cmd_block_gfx
+ .commands      0x8004809c       0x18 ./build-qemu-virt-a15-test/lib/heap.mod.o
+                0x8004809c                _cmd_block_heap
+                0x800480a8                _cmd_block_page_alloc
+                0x800480b4                __commands_end = .
+
+.devices        0x800480b4        0x0
+                0x800480b4                __devices = .
+ *(.devices)
+                0x800480b4                __devices_end = .
+
+.ctors          0x800480b4        0x0
+                0x800480b4                __ctor_list = .
+ *(.ctors .init_array)
+                0x800480b4                __ctor_end = .
+
+.dtors          0x800480b4        0x0
+                0x800480b4                __dtor_list = .
+ *(.dtors .fini_array)
+                0x800480b4                __dtor_end = .
+
+.got
+ *(.got.plt)
+ *(.got)
+
+.dynamic
+ *(.dynamic)
+
+.dummy_post_data
+                0x800480b4        0x0
+                0x800480b4                __data_end = .
+
+.bss            0x8004c000     0xd864 load address 0x4004c000
+ *(.bss.prebss.*)
+ .bss.prebss.translation_table
+                0x8004c000     0x8000 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x8004c000                arm_kernel_translation_table
+                0x80050000                tt_trampoline
+                0x80054000                . = ALIGN (0x4)
+                0x80054000                __bss_start = .
+ *(.bss .bss.*)
+ .bss           0x80054000       0x30 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ *fill*         0x80054030       0x10 
+ .bss           0x80054040     0x4080 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                0x80054080                secondaries_to_init
+                0x800540c0                abort_stack
+ .bss           0x800580c0       0x20 ./build-qemu-virt-a15-test/top.mod.o
+                0x800580c0                lk_boot_args
+ .bss           0x800580e0        0x0 ./build-qemu-virt-a15-test/app.mod.o
+ .bss           0x800580e0        0x0 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .bss           0x800580e0        0x0 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .bss           0x800580e0       0x10 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .bss           0x800580f0       0xbc ./build-qemu-virt-a15-test/app/tests.mod.o
+                0x80058190                group_waiting_sync_evt
+ .bss           0x800581ac        0x0 ./build-qemu-virt-a15-test/dev.mod.o
+ .bss           0x800581ac      0x704 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .bss           0x800588b0       0x2c ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+                0x800588b0                ms_per_cntpct
+                0x800588c4                cntpct_per_ms
+                0x800588d0                us_per_cntpct
+ .bss           0x800588dc        0x1 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ *fill*         0x800588dd        0x3 
+ .bss           0x800588e0        0x4 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .bss           0x800588e4        0x4 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ *fill*         0x800588e8       0x18 
+ .bss           0x80058900      0xb08 ./build-qemu-virt-a15-test/kernel.mod.o
+                0x80058a00                thread_lock
+                0x80058b08                thread_stats
+                0x80059380                timer_lock
+                0x800593c0                mp
+ .bss           0x80059408        0x0 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .bss           0x80059408        0x0 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .bss           0x80059408        0x0 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .bss           0x80059408        0x0 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .bss           0x80059408        0x8 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .bss           0x80059410        0x0 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .bss           0x80059410        0x4 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .bss           0x80059414        0x0 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .bss           0x80059414        0x0 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .bss           0x80059414        0x0 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .bss           0x80059414        0x0 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .bss           0x80059414        0x0 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ *fill*         0x80059414        0x4 
+ .bss           0x80059418        0x8 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .bss           0x80059420       0x75 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                0x80059428                dhcp_udp_handle
+                0x80059444                minip_tx_handler
+                0x8005946c                minip_tx_arg
+ .bss           0x80059495        0x0 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .bss           0x80059495        0x0 ./build-qemu-virt-a15-test/platform.mod.o
+ .bss           0x80059495        0x0 ./build-qemu-virt-a15-test/target.mod.o
+ *fill*         0x80059495        0x3 
+ .bss           0x80059498        0x4 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .bss           0x8005949c       0x58 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                0x8005949c                _kernel_aspace
+ .bss           0x800594f4        0x0 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .bss           0x800594f4        0x0 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .bss           0x800594f4       0x1c ./build-qemu-virt-a15-test/lib/console.mod.o
+                0x8005950c                lastresult
+ .bss           0x80059510        0x0 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .bss           0x80059510        0x0 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .bss           0x80059510        0x0 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .bss           0x80059510        0x8 ./build-qemu-virt-a15-test/lib/heap.mod.o
+                0x80059510                delayed_free_lock
+ .bss           0x80059518        0x0 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .bss           0x80059518        0xc ./build-qemu-virt-a15-test/lib/libc.mod.o
+                0x8005951c                __dso_handle
+ .bss           0x80059524        0x0 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .bss           0x80059524        0x0 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .bss           0x80059524      0x20c ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .bss           0x80059730      0x134 ./build-qemu-virt-a15-test/lib/io.mod.o
+                0x80059730                console_input_cbuf
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .bss           0x80059864        0x0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+ *(.gnu.linkonce.b.*)
+ *(COMMON)
+                0x80059864                . = ALIGN (0x4)
+                0x80059864                __bss_end = .
+                0x80059864                _end = .
+                0x88000000                . = 0x88000000
+                0x88000000                _end_of_ram = .
+
+/DISCARD/
+ *(.comment .note .eh_frame)
+OUTPUT(build-qemu-virt-a15-test/lk.elf elf32-littlearm)
+
+.ARM.attributes
+                0x00000000       0x40
+ .ARM.attributes
+                0x00000000       0x3e ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .ARM.attributes
+                0x0000003e       0x3e ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .ARM.attributes
+                0x0000007c       0x40 ./build-qemu-virt-a15-test/top.mod.o
+ .ARM.attributes
+                0x000000bc       0x40 ./build-qemu-virt-a15-test/app.mod.o
+ .ARM.attributes
+                0x000000fc       0x40 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .ARM.attributes
+                0x0000013c       0x40 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .ARM.attributes
+                0x0000017c       0x40 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .ARM.attributes
+                0x000001bc       0x40 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .ARM.attributes
+                0x000001fc       0x40 ./build-qemu-virt-a15-test/dev.mod.o
+ .ARM.attributes
+                0x0000023c       0x40 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .ARM.attributes
+                0x0000027c       0x40 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .ARM.attributes
+                0x000002bc       0x40 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .ARM.attributes
+                0x000002fc       0x40 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .ARM.attributes
+                0x0000033c       0x40 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .ARM.attributes
+                0x0000037c       0x40 ./build-qemu-virt-a15-test/kernel.mod.o
+ .ARM.attributes
+                0x000003bc       0x40 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .ARM.attributes
+                0x000003fc       0x40 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .ARM.attributes
+                0x0000043c       0x40 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .ARM.attributes
+                0x0000047c       0x40 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .ARM.attributes
+                0x000004bc       0x40 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .ARM.attributes
+                0x000004fc       0x40 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .ARM.attributes
+                0x0000053c       0x40 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .ARM.attributes
+                0x0000057c       0x40 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .ARM.attributes
+                0x000005bc       0x40 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .ARM.attributes
+                0x000005fc       0x40 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .ARM.attributes
+                0x0000063c       0x40 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .ARM.attributes
+                0x0000067c       0x40 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .ARM.attributes
+                0x000006bc       0x40 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .ARM.attributes
+                0x000006fc       0x40 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .ARM.attributes
+                0x0000073c       0x40 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .ARM.attributes
+                0x0000077c       0x40 ./build-qemu-virt-a15-test/platform.mod.o
+ .ARM.attributes
+                0x000007bc       0x40 ./build-qemu-virt-a15-test/target.mod.o
+ .ARM.attributes
+                0x000007fc       0x40 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .ARM.attributes
+                0x0000083c       0x40 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .ARM.attributes
+                0x0000087c       0x40 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .ARM.attributes
+                0x000008bc       0x40 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .ARM.attributes
+                0x000008fc       0x40 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .ARM.attributes
+                0x0000093c       0x40 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .ARM.attributes
+                0x0000097c       0x40 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .ARM.attributes
+                0x000009bc       0x40 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .ARM.attributes
+                0x000009fc       0x40 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .ARM.attributes
+                0x00000a3c       0x40 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .ARM.attributes
+                0x00000a7c       0x3e ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .ARM.attributes
+                0x00000aba       0x40 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .ARM.attributes
+                0x00000afa       0x40 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .ARM.attributes
+                0x00000b3a       0x40 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .ARM.attributes
+                0x00000b7a       0x40 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .ARM.attributes
+                0x00000bba       0x1b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .ARM.attributes
+                0x00000bd5       0x1b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .ARM.attributes
+                0x00000bf0       0x1b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .ARM.attributes
+                0x00000c0b       0x2d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .ARM.attributes
+                0x00000c38       0x1b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .ARM.attributes
+                0x00000c53       0x2d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .ARM.attributes
+                0x00000c80       0x2d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .ARM.attributes
+                0x00000cad       0x1b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_aranges  0x00000000     0x1960
+ .debug_aranges
+                0x00000000       0x80 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_aranges
+                0x00000080      0x180 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_aranges
+                0x00000200       0x40 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_aranges
+                0x00000240       0x20 ./build-qemu-virt-a15-test/app.mod.o
+ .debug_aranges
+                0x00000260       0x20 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_aranges
+                0x00000280       0x20 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_aranges
+                0x000002a0       0x20 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_aranges
+                0x000002c0      0x198 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_aranges
+                0x00000458      0x100 ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_aranges
+                0x00000558       0x20 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_aranges
+                0x00000578       0x20 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_aranges
+                0x00000598       0x20 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_aranges
+                0x000005b8       0x20 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_aranges
+                0x000005d8       0x20 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_aranges
+                0x000005f8      0x120 ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_aranges
+                0x00000718       0x20 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_aranges
+                0x00000738       0x20 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_aranges
+                0x00000758       0x20 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_aranges
+                0x00000778       0x80 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_aranges
+                0x000007f8       0x20 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_aranges
+                0x00000818      0x100 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_aranges
+                0x00000918       0x60 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_aranges
+                0x00000978       0x80 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_aranges
+                0x000009f8       0x40 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_aranges
+                0x00000a38       0x20 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_aranges
+                0x00000a58       0x20 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_aranges
+                0x00000a78       0x20 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_aranges
+                0x00000a98      0x460 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_aranges
+                0x00000ef8      0x128 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_aranges
+                0x00001020       0x20 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_aranges
+                0x00001040       0x60 ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_aranges
+                0x000010a0       0x20 ./build-qemu-virt-a15-test/target.mod.o
+ .debug_aranges
+                0x000010c0       0x20 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_aranges
+                0x000010e0       0x88 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_aranges
+                0x00001168       0x20 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_aranges
+                0x00001188       0x80 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_aranges
+                0x00001208       0x20 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_aranges
+                0x00001228       0x20 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_aranges
+                0x00001248       0x20 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_aranges
+                0x00001268       0x68 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_aranges
+                0x000012d0       0x20 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_aranges
+                0x000012f0      0x4c0 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_aranges
+                0x000017b0       0x20 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_aranges
+                0x000017d0       0x20 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_aranges
+                0x000017f0       0x30 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_aranges
+                0x00001820       0x40 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_aranges
+                0x00001860       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .debug_aranges
+                0x00001880       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .debug_aranges
+                0x000018a0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_aranges
+                0x000018c0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_aranges
+                0x000018e0       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .debug_aranges
+                0x00001900       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_aranges
+                0x00001920       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .debug_aranges
+                0x00001940       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_info     0x00000000    0x78803
+ .debug_info    0x00000000     0x12b6 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_info    0x000012b6     0x5cf0 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_info    0x00006fa6     0x1033 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_info    0x00007fd9      0x5a4 ./build-qemu-virt-a15-test/app.mod.o
+ .debug_info    0x0000857d     0x102b ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_info    0x000095a8      0x1b8 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_info    0x00009760     0x11ff ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_info    0x0000a95f     0xa1d3 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_info    0x00014b32     0x208a ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_info    0x00016bbc      0xff0 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_info    0x00017bac     0x1b4d ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_info    0x000196f9     0x164d ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_info    0x0001ad46     0x23ee ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_info    0x0001d134     0x2073 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_info    0x0001f1a7     0xbd5b ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_info    0x0002af02      0x4fb ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_info    0x0002b3fd      0x7c7 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_info    0x0002bbc4     0x167d ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_info    0x0002d241     0x1036 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_info    0x0002e277      0xdc0 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_info    0x0002f037     0x6970 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_info    0x000359a7     0x3a14 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_info    0x000393bb     0x41e8 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_info    0x0003d5a3     0x19fa ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_info    0x0003ef9d     0x17b9 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_info    0x00040756     0x3788 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_info    0x00043ede     0x2235 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_info    0x00046113     0x6c2a ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_info    0x0004cd3d     0xa5e3 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_info    0x00057320      0x492 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_info    0x000577b2      0x5d2 ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_info    0x00057d84       0xe3 ./build-qemu-virt-a15-test/target.mod.o
+ .debug_info    0x00057e67     0x12ec ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_info    0x00059153     0x644a ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_info    0x0005f59d     0x101f ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_info    0x000605bc     0x4c09 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_info    0x000651c5     0x1f2d ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_info    0x000670f2      0x82b ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_info    0x0006791d     0x1ddb ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_info    0x000696f8     0x2436 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_info    0x0006bb2e      0x21e ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_info    0x0006bd4c     0x4f51 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_info    0x00070c9d      0x2f2 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_info    0x00070f8f      0x9ef ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_info    0x0007197e     0x4d63 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_info    0x000766e1     0x1115 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_info    0x000777f6       0xb4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .debug_info    0x000778aa       0xaf /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .debug_info    0x00077959       0xaf /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_info    0x00077a08      0x164 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_info    0x00077b6c       0xb3 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .debug_info    0x00077c1f      0x5b9 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_info    0x000781d8      0x578 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .debug_info    0x00078750       0xb3 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_abbrev   0x00000000    0x1741d
+ .debug_abbrev  0x00000000      0x5d6 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_abbrev  0x000005d6     0x1641 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_abbrev  0x00001c17      0x4b3 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_abbrev  0x000020ca      0x21c ./build-qemu-virt-a15-test/app.mod.o
+ .debug_abbrev  0x000022e6      0x2ff ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_abbrev  0x000025e5       0xf5 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_abbrev  0x000026da      0x3b0 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_abbrev  0x00002a8a     0x1b1b ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_abbrev  0x000045a5      0x88d ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_abbrev  0x00004e32      0x402 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_abbrev  0x00005234      0x458 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_abbrev  0x0000568c      0x355 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_abbrev  0x000059e1      0x43a ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_abbrev  0x00005e1b      0x466 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_abbrev  0x00006281     0x1a73 ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_abbrev  0x00007cf4      0x13a ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_abbrev  0x00007e2e      0x264 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_abbrev  0x00008092      0x321 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_abbrev  0x000083b3      0x65d ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_abbrev  0x00008a10      0x300 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_abbrev  0x00008d10     0x1070 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_abbrev  0x00009d80      0x9d4 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_abbrev  0x0000a754      0xbea ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_abbrev  0x0000b33e      0x4b5 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_abbrev  0x0000b7f3      0x37c ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_abbrev  0x0000bb6f      0x49f ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_abbrev  0x0000c00e      0x3ee ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_abbrev  0x0000c3fc     0x26f7 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_abbrev  0x0000eaf3     0x1dfb ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_abbrev  0x000108ee      0x187 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_abbrev  0x00010a75      0x2e8 ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_abbrev  0x00010d5d       0x6b ./build-qemu-virt-a15-test/target.mod.o
+ .debug_abbrev  0x00010dc8      0x3ed ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_abbrev  0x000111b5      0xefa ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_abbrev  0x000120af      0x35a ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_abbrev  0x00012409      0xb90 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_abbrev  0x00012f99      0x55f ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_abbrev  0x000134f8      0x2b6 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_abbrev  0x000137ae      0x418 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_abbrev  0x00013bc6      0x7ef ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_abbrev  0x000143b5      0x119 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_abbrev  0x000144ce     0x1efd ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_abbrev  0x000163cb      0x119 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_abbrev  0x000164e4      0x327 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_abbrev  0x0001680b      0x459 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_abbrev  0x00016c64      0x3f7 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_abbrev  0x0001705b       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .debug_abbrev  0x0001706f       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .debug_abbrev  0x00017083       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_abbrev  0x00017097       0xb7 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_abbrev  0x0001714e       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .debug_abbrev  0x00017162      0x15c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_abbrev  0x000172be      0x14b /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .debug_abbrev  0x00017409       0x14 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_line     0x00000000    0x19edc
+ .debug_line    0x00000000      0x64e ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_line    0x0000064e     0x1763 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_line    0x00001db1      0x414 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_line    0x000021c5      0x17e ./build-qemu-virt-a15-test/app.mod.o
+ .debug_line    0x00002343      0x2da ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_line    0x0000261d       0xa9 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_line    0x000026c6      0x34b ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_line    0x00002a11     0x1dae ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_line    0x000047bf      0x80d ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_line    0x00004fcc      0x345 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_line    0x00005311      0x42f ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_line    0x00005740      0x3f8 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_line    0x00005b38      0x527 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_line    0x0000605f      0x5d1 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_line    0x00006630     0x279a ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_line    0x00008dca      0x869 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_line    0x00009633      0x1de ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_line    0x00009811      0x593 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_line    0x00009da4      0x504 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_line    0x0000a2a8      0x316 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_line    0x0000a5be     0x1374 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_line    0x0000b932      0x838 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_line    0x0000c16a      0x81b ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_line    0x0000c985      0x51b ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_line    0x0000cea0      0x42b ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_line    0x0000d2cb      0x937 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_line    0x0000dc02      0x4a7 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_line    0x0000e0a9     0x2481 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_line    0x0001052a     0x1e45 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_line    0x0001236f      0x124 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_line    0x00012493      0x202 ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_line    0x00012695       0x40 ./build-qemu-virt-a15-test/target.mod.o
+ .debug_line    0x000126d5      0x4fc ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_line    0x00012bd1     0x1327 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_line    0x00013ef8      0x357 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_line    0x0001424f      0xccc ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_line    0x00014f1b      0x5df ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_line    0x000154fa      0x23d ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_line    0x00015737        0x0 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .debug_line    0x00015737      0x6b4 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_line    0x00015deb      0x6b3 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_line    0x0001649e      0x10e ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_line    0x000165ac     0x1c69 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_line    0x00018215      0x129 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_line    0x0001833e      0x229 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_line    0x00018567      0xfca ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_line    0x00019531      0x3aa ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_line    0x000198db      0x202 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_arm_addsubdf3.o)
+ .debug_line    0x00019add       0x6e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_ldivmod.o)
+ .debug_line    0x00019b4b       0x6e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_aeabi_uldivmod.o)
+ .debug_line    0x00019bb9       0x6e /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_line    0x00019c27       0x6a /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_dvmd_tls.o)
+ .debug_line    0x00019c91       0xe4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_line    0x00019d75       0xda /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .debug_line    0x00019e4f       0x8d /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_frame    0x00000000     0x7780
+ .debug_frame   0x00000000      0x19c ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_frame   0x0000019c      0x4b8 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_frame   0x00000654       0xd0 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_frame   0x00000724       0x48 ./build-qemu-virt-a15-test/app.mod.o
+ .debug_frame   0x0000076c       0xf8 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_frame   0x00000864       0x30 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_frame   0x00000894       0xfc ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_frame   0x00000990      0x770 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_frame   0x00001100      0x364 ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_frame   0x00001464       0xe0 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_frame   0x00001544      0x184 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_frame   0x000016c8       0xe0 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_frame   0x000017a8      0x138 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_frame   0x000018e0      0x104 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_frame   0x000019e4      0x974 ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_frame   0x00002358       0xb0 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_frame   0x00002408       0x54 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_frame   0x0000245c      0x138 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_frame   0x00002594      0x1d8 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_frame   0x0000276c      0x114 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_frame   0x00002880      0x9b0 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_frame   0x00003230      0x404 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_frame   0x00003634      0x238 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_frame   0x0000386c      0x138 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_frame   0x000039a4      0x1b8 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_frame   0x00003b5c      0x340 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_frame   0x00003e9c      0x210 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_frame   0x000040ac      0x5ec ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_frame   0x00004698      0xa60 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_frame   0x000050f8       0x40 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_frame   0x00005138       0xd8 ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_frame   0x00005210       0x50 ./build-qemu-virt-a15-test/target.mod.o
+ .debug_frame   0x00005260      0x15c ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_frame   0x000053bc      0x478 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_frame   0x00005834      0x198 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_frame   0x000059cc      0x428 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_frame   0x00005df4      0x24c ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_frame   0x00006040       0xe8 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_frame   0x00006128      0x338 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_frame   0x00006460      0x238 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_frame   0x00006698       0x50 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_frame   0x000066e8      0xa10 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_frame   0x000070f8       0x68 ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_frame   0x00007160       0xc4 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_frame   0x00007224      0x3a4 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_frame   0x000075c8       0xd0 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_frame   0x00007698       0x58 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_frame   0x000076f0       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_frame   0x00007728       0x38 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+ .debug_frame   0x00007760       0x20 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivsi3.o)
+
+.debug_str      0x00000000     0xb09c
+ .debug_str     0x00000000      0x5de ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+                                0xa73 (size before relaxing)
+ .debug_str     0x000005de     0x1236 ./build-qemu-virt-a15-test/arch/arm.mod.o
+                               0x29bc (size before relaxing)
+ .debug_str     0x00001814      0x210 ./build-qemu-virt-a15-test/top.mod.o
+                                0xb88 (size before relaxing)
+ .debug_str     0x00001a24       0x5f ./build-qemu-virt-a15-test/app.mod.o
+                                0x3e9 (size before relaxing)
+ .debug_str     0x00001a83      0x130 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+                                0x54a (size before relaxing)
+ .debug_str     0x00001bb3       0x4f ./build-qemu-virt-a15-test/app/shell.mod.o
+                                0x1c7 (size before relaxing)
+ .debug_str     0x00001c02      0x135 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+                                0x419 (size before relaxing)
+ .debug_str     0x00001d37      0xba8 ./build-qemu-virt-a15-test/app/tests.mod.o
+                               0x2e44 (size before relaxing)
+ .debug_str     0x000028df      0x39e ./build-qemu-virt-a15-test/dev.mod.o
+                               0x10b8 (size before relaxing)
+ .debug_str     0x00002c7d      0x345 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+                                0x9ba (size before relaxing)
+ .debug_str     0x00002fc2      0x343 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+                                0x8a1 (size before relaxing)
+ .debug_str     0x00003305      0x3af ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+                                0x9db (size before relaxing)
+ .debug_str     0x000036b4      0x897 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+                               0x109b (size before relaxing)
+ .debug_str     0x00003f4b      0x218 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+                                0xb18 (size before relaxing)
+ .debug_str     0x00004163      0x69f ./build-qemu-virt-a15-test/kernel.mod.o
+                               0x3342 (size before relaxing)
+ .debug_str     0x00004802       0x91 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+                                0x1bd (size before relaxing)
+ .debug_str     0x00004893       0x83 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+                                0x338 (size before relaxing)
+ .debug_str     0x00004916       0x96 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+                                0x54e (size before relaxing)
+ .debug_str     0x000049ac      0x1b5 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+                                0x7bc (size before relaxing)
+ .debug_str     0x00004b61       0xcf ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+                                0x410 (size before relaxing)
+ .debug_str     0x00004c30      0x9c4 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+                               0x1cf2 (size before relaxing)
+ .debug_str     0x000055f4      0x3a2 ./build-qemu-virt-a15-test/lib/fs.mod.o
+                                0xfe0 (size before relaxing)
+ .debug_str     0x00005996      0x926 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+                               0x269f (size before relaxing)
+ .debug_str     0x000062bc      0x337 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+                                0xb6e (size before relaxing)
+ .debug_str     0x000065f3      0x124 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+                                0x70b (size before relaxing)
+ .debug_str     0x00006717      0x5a4 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+                                0xdbd (size before relaxing)
+ .debug_str     0x00006cbb      0x2b5 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+                                0x819 (size before relaxing)
+ .debug_str     0x00006f70      0x711 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+                               0x3dfc (size before relaxing)
+ .debug_str     0x00007681      0xe74 ./build-qemu-virt-a15-test/lib/minip.mod.o
+                               0x3ad9 (size before relaxing)
+ .debug_str     0x000084f5       0x7e ./build-qemu-virt-a15-test/lib/version.mod.o
+                                0x455 (size before relaxing)
+ .debug_str     0x00008573       0x87 ./build-qemu-virt-a15-test/platform.mod.o
+                                0x6ed (size before relaxing)
+ .debug_str     0x000085fa       0x1d ./build-qemu-virt-a15-test/target.mod.o
+                                0x173 (size before relaxing)
+ .debug_str     0x00008617      0x1a3 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+                                0x943 (size before relaxing)
+ .debug_str     0x000087ba      0x484 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+                               0x1d58 (size before relaxing)
+ .debug_str     0x00008c3e       0xed ./build-qemu-virt-a15-test/lib/bcache.mod.o
+                                0x4b3 (size before relaxing)
+ .debug_str     0x00008d2b      0x447 ./build-qemu-virt-a15-test/lib/bio.mod.o
+                               0x15e1 (size before relaxing)
+ .debug_str     0x00009172      0x3e4 ./build-qemu-virt-a15-test/lib/console.mod.o
+                                0x9bb (size before relaxing)
+ .debug_str     0x00009556       0x9d ./build-qemu-virt-a15-test/lib/debug.mod.o
+                                0x468 (size before relaxing)
+ .debug_str     0x000095f3        0x0 ./build-qemu-virt-a15-test/lib/fixed_point.mod.o
+ .debug_str     0x000095f3      0x33f ./build-qemu-virt-a15-test/lib/gfx.mod.o
+                                0x7d0 (size before relaxing)
+ .debug_str     0x00009932      0x33c ./build-qemu-virt-a15-test/lib/heap.mod.o
+                                0xc16 (size before relaxing)
+ .debug_str     0x00009c6e       0x2a ./build-qemu-virt-a15-test/lib/iovec.mod.o
+                                0x1c3 (size before relaxing)
+ .debug_str     0x00009c98      0x8eb ./build-qemu-virt-a15-test/lib/libc.mod.o
+                               0x34f7 (size before relaxing)
+ .debug_str     0x0000a583       0x3e ./build-qemu-virt-a15-test/lib/pool.mod.o
+                                0x1ca (size before relaxing)
+ .debug_str     0x0000a5c1       0xd6 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+                                0x35d (size before relaxing)
+ .debug_str     0x0000a697      0x5f2 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+                                0xc45 (size before relaxing)
+ .debug_str     0x0000ac89       0xf3 ./build-qemu-virt-a15-test/lib/io.mod.o
+                                0x904 (size before relaxing)
+ .debug_str     0x0000ad7c      0x1a4 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+                                0x1d3 (size before relaxing)
+ .debug_str     0x0000af20      0x17c /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+                                0x281 (size before relaxing)
+ .debug_str     0x00000000      0x282 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+
+.debug_loc      0x00000000    0x59dc3
+ .debug_loc     0x00000000      0x4c0 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_loc     0x000004c0     0x25d1 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_loc     0x00002a91      0x376 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_loc     0x00002e07       0xe1 ./build-qemu-virt-a15-test/app.mod.o
+ .debug_loc     0x00002ee8      0x5fc ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_loc     0x000034e4       0x63 ./build-qemu-virt-a15-test/app/shell.mod.o
+ .debug_loc     0x00003547      0xd93 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_loc     0x000042da     0x484b ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_loc     0x00008b25     0x1e82 ./build-qemu-virt-a15-test/dev.mod.o
+ .debug_loc     0x0000a9a7      0x6b6 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_loc     0x0000b05d      0xfa1 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_loc     0x0000bffe      0x771 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_loc     0x0000c76f      0xce4 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_loc     0x0000d453      0xca1 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_loc     0x0000e0f4     0x7353 ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_loc     0x00015447      0x881 ./build-qemu-virt-a15-test/external/lib/aes.mod.o
+ .debug_loc     0x00015cc8      0x1d0 ./build-qemu-virt-a15-test/external/lib/aes/test.mod.o
+ .debug_loc     0x00015e98     0x1699 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_loc     0x00017531     0x10b8 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_loc     0x000185e9      0x953 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_loc     0x00018f3c     0x65fe ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_loc     0x0001f53a     0x1d7a ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_loc     0x000212b4     0x1682 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_loc     0x00022936      0xfb6 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_loc     0x000238ec      0xb67 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_loc     0x00024453     0x2ab3 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_loc     0x00026f06     0x10ac ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_loc     0x00027fb2     0xdbd0 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_loc     0x00035b82     0x51be ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_loc     0x0003ad40       0x42 ./build-qemu-virt-a15-test/lib/version.mod.o
+ .debug_loc     0x0003ad82      0x15b ./build-qemu-virt-a15-test/platform.mod.o
+ .debug_loc     0x0003aedd      0xa2b ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_loc     0x0003b908     0x3bb4 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_loc     0x0003f4bc      0xab3 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_loc     0x0003ff6f     0x362f ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_loc     0x0004359e     0x1207 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_loc     0x000447a5      0x553 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_loc     0x00044cf8     0x2b44 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_loc     0x0004783c      0xb3c ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_loc     0x00048378      0x287 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_loc     0x000485ff     0x5dc6 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_loc     0x0004e3c5      0x26b ./build-qemu-virt-a15-test/lib/pool.mod.o
+ .debug_loc     0x0004e630      0x646 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_loc     0x0004ec76     0x9288 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_loc     0x00057efe      0x82d ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_loc     0x0005872b       0xa0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(bpabi.o)
+ .debug_loc     0x000587cb      0xab0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_loc     0x0005927b      0xb48 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)
+
+.debug_ranges   0x00000000     0xa0e8
+ .debug_ranges  0x00000000      0x148 ./build-qemu-virt-a15-test/platform/qemu-virt.mod.o
+ .debug_ranges  0x00000148      0x428 ./build-qemu-virt-a15-test/arch/arm.mod.o
+ .debug_ranges  0x00000570       0xc8 ./build-qemu-virt-a15-test/top.mod.o
+ .debug_ranges  0x00000638       0x18 ./build-qemu-virt-a15-test/app.mod.o
+ .debug_ranges  0x00000650       0x48 ./build-qemu-virt-a15-test/app/inetsrv.mod.o
+ .debug_ranges  0x00000698      0x128 ./build-qemu-virt-a15-test/app/stringtests.mod.o
+ .debug_ranges  0x000007c0      0x700 ./build-qemu-virt-a15-test/app/tests.mod.o
+ .debug_ranges  0x00000ec0      0x148 ./build-qemu-virt-a15-test/dev/interrupt/arm_gic.mod.o
+ .debug_ranges  0x00001008      0x308 ./build-qemu-virt-a15-test/dev/timer/arm_generic.mod.o
+ .debug_ranges  0x00001310      0x120 ./build-qemu-virt-a15-test/dev/virtio/block.mod.o
+ .debug_ranges  0x00001430      0x1e0 ./build-qemu-virt-a15-test/dev/virtio/gpu.mod.o
+ .debug_ranges  0x00001610      0x2f0 ./build-qemu-virt-a15-test/dev/virtio/net.mod.o
+ .debug_ranges  0x00001900     0x1478 ./build-qemu-virt-a15-test/kernel.mod.o
+ .debug_ranges  0x00002d78      0x300 ./build-qemu-virt-a15-test/lib/cbuf.mod.o
+ .debug_ranges  0x00003078       0x70 ./build-qemu-virt-a15-test/external/lib/cksum.mod.o
+ .debug_ranges  0x000030e8       0x40 ./build-qemu-virt-a15-test/lib/debugcommands.mod.o
+ .debug_ranges  0x00003128     0x1798 ./build-qemu-virt-a15-test/external/lib/fdt.mod.o
+ .debug_ranges  0x000048c0      0x228 ./build-qemu-virt-a15-test/lib/fs.mod.o
+ .debug_ranges  0x00004ae8      0x250 ./build-qemu-virt-a15-test/lib/fs/ext2.mod.o
+ .debug_ranges  0x00004d38      0x128 ./build-qemu-virt-a15-test/lib/fs/fat32.mod.o
+ .debug_ranges  0x00004e60      0x1c0 ./build-qemu-virt-a15-test/lib/fs/memfs.mod.o
+ .debug_ranges  0x00005020      0x4d8 ./build-qemu-virt-a15-test/lib/fs/spifs.mod.o
+ .debug_ranges  0x000054f8      0x158 ./build-qemu-virt-a15-test/lib/fs/spifs/test.mod.o
+ .debug_ranges  0x00005650      0x6a8 ./build-qemu-virt-a15-test/external/lib/libm.mod.o
+ .debug_ranges  0x00005cf8      0x988 ./build-qemu-virt-a15-test/lib/minip.mod.o
+ .debug_ranges  0x00006680      0x198 ./build-qemu-virt-a15-test/dev/virtio.mod.o
+ .debug_ranges  0x00006818      0xba0 ./build-qemu-virt-a15-test/kernel/vm.mod.o
+ .debug_ranges  0x000073b8      0x120 ./build-qemu-virt-a15-test/lib/bcache.mod.o
+ .debug_ranges  0x000074d8      0x550 ./build-qemu-virt-a15-test/lib/bio.mod.o
+ .debug_ranges  0x00007a28      0x2a8 ./build-qemu-virt-a15-test/lib/console.mod.o
+ .debug_ranges  0x00007cd0       0x58 ./build-qemu-virt-a15-test/lib/debug.mod.o
+ .debug_ranges  0x00007d28       0x90 ./build-qemu-virt-a15-test/lib/gfx.mod.o
+ .debug_ranges  0x00007db8      0x230 ./build-qemu-virt-a15-test/lib/heap.mod.o
+ .debug_ranges  0x00007fe8       0x18 ./build-qemu-virt-a15-test/lib/iovec.mod.o
+ .debug_ranges  0x00008000      0x7c0 ./build-qemu-virt-a15-test/lib/libc.mod.o
+ .debug_ranges  0x000087c0       0x70 ./build-qemu-virt-a15-test/lib/tftp.mod.o
+ .debug_ranges  0x00008830     0x1558 ./build-qemu-virt-a15-test/external/lib/heap/dlmalloc.mod.o
+ .debug_ranges  0x00009d88      0x1c0 ./build-qemu-virt-a15-test/lib/io.mod.o
+ .debug_ranges  0x00009f48       0xc0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_divdi3.o)
+ .debug_ranges  0x0000a008       0xe0 /usr/lib/gcc/arm-none-eabi/4.8.2/armv7-ar/thumb/softfp/libgcc.a(_udivdi3.o)

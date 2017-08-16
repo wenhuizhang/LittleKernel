@@ -1,0 +1,13 @@
+#ifndef __build_qemu_virt_a15_test_platform_qemu_virt_module_config_h_H
+#define __build_qemu_virt_a15_test_platform_qemu_virt_module_config_h_H
+#define MODULE_COMPILEFLAGS ""
+#define MODULE_CFLAGS ""
+#define MODULE_CPPFLAGS ""
+#define MODULE_ASMFLAGS ""
+#define MODULE_LDFLAGS ""
+#define MODULE_OPTFLAGS ""
+#define MODULE_INCLUDES ""
+#define MODULE_SRCDEPS ""
+#define MODULE_DEPS "LIB_CBUF_LIB_FDT_DEV_INTERRUPT_ARM_GIC_DEV_TIMER_ARM_GENERIC_DEV_VIRTIO_BLOCK_DEV_VIRTIO_GPU_DEV_VIRTIO_NET_"
+#define MODULE_SRCS "PLATFORM_QEMU_VIRT_DEBUG_C_PLATFORM_QEMU_VIRT_PLATFORM_C_PLATFORM_QEMU_VIRT_SECONDARY_BOOT_S_PLATFORM_QEMU_VIRT_UART_C"
+#endif

@@ -1,0 +1,1728 @@
+
+
+
+
+00000000 l       *ABS*	00000000 shift
+00000000 l    d  .ARM.attributes	00000000 .ARM.attributes
+00000000 l    d  .debug_abbrev	00000000 .debug_abbrev
+00000000 l    d  .debug_aranges	00000000 .debug_aranges
+00000000 l    d  .debug_frame	00000000 .debug_frame
+00000000 l    d  .debug_info	00000000 .debug_info
+00000000 l    d  .debug_line	00000000 .debug_line
+00000000 l    d  .debug_loc	00000000 .debug_loc
+00000000 l    d  .debug_ranges	00000000 .debug_ranges
+00000000 l    d  .debug_str	00000000 .debug_str
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 
+00000000 l    df *ABS*	00000000 adler32.c
+00000000 l    df *ABS*	00000000 _aeabi_ldivmod.o
+00000000 l    df *ABS*	00000000 _aeabi_uldivmod.o
+00000000 l    df *ABS*	00000000 aes_core.c
+00000000 l    df *ABS*	00000000 aes_test.c
+00000000 l    df *ABS*	00000000 app.c
+00000000 l    df *ABS*	00000000 arch.c
+00000000 l    df *ABS*	00000000 _arm_addsubdf3.o
+00000000 l    df *ABS*	00000000 arm_generic_timer.c
+00000000 l    df *ABS*	00000000 arm_gic.c
+00000000 l    df *ABS*	00000000 arp.c
+00000000 l    df *ABS*	00000000 atexit.c
+00000000 l    df *ABS*	00000000 atoi.c
+00000000 l    df *ABS*	00000000 bcache.c
+00000000 l    df *ABS*	00000000 benchmarks.c
+00000000 l    df *ABS*	00000000 bio.c
+00000000 l    df *ABS*	00000000 block_api.c
+00000000 l    df *ABS*	00000000 bootalloc.c
+00000000 l    df *ABS*	00000000 bpabi.c
+00000000 l    df *ABS*	00000000 bsearch.c
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/app/tests/float_instructions.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/arch/arm/arm/asm.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/arch/arm/arm/cache-ops.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/arch/arm/arm/exceptions.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/arch/arm/arm/ops.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/arch/arm/arm/start.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/lib/libc/string/arch/arm/arm/memcpy.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/lib/libc/string/arch/arm/arm/memset.o
+00000000 l    df *ABS*	00000000 build-qemu-virt-a15-test/platform/qemu-virt/secondary_boot.o
+00000000 l    df *ABS*	00000000 cache.c
+00000000 l    df *ABS*	00000000 cache_tests.c
+00000000 l    df *ABS*	00000000 cbuf.c
+00000000 l    df *ABS*	00000000 cbuf_tests.c
+00000000 l    df *ABS*	00000000 chksum.c
+00000000 l    df *ABS*	00000000 clock_tests.c
+00000000 l    df *ABS*	00000000 console.c
+00000000 l    df *ABS*	00000000 console.c
+00000000 l    df *ABS*	00000000 crc16.c
+00000000 l    df *ABS*	00000000 crc32.c
+00000000 l    df *ABS*	00000000 ctype.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debug.c
+00000000 l    df *ABS*	00000000 debugcommands.c
+00000000 l    df *ABS*	00000000 dev.c
+00000000 l    df *ABS*	00000000 dhcp.c
+00000000 l    df *ABS*	00000000 dir.c
+00000000 l    df *ABS*	00000000 dlmalloc.c
+00000000 l    df *ABS*	00000000 driver.c
+00000000 l    df *ABS*	00000000 _dvmd_tls.o
+00000000 l    df *ABS*	00000000 eabi.c
+00000000 l    df *ABS*	00000000 e_acos.c
+00000000 l    df *ABS*	00000000 e_acosf.c
+00000000 l    df *ABS*	00000000 e_asin.c
+00000000 l    df *ABS*	00000000 e_asinf.c
+00000000 l    df *ABS*	00000000 e_atan2.c
+00000000 l    df *ABS*	00000000 e_exp.c
+00000000 l    df *ABS*	00000000 e_fmod.c
+00000000 l    df *ABS*	00000000 e_log.c
+00000000 l    df *ABS*	00000000 e_pow.c
+00000000 l    df *ABS*	00000000 e_powf.c
+00000000 l    df *ABS*	00000000 errno.c
+00000000 l    df *ABS*	00000000 e_sqrt.c
+00000000 l    df *ABS*	00000000 e_sqrtf.c
+00000000 l    df *ABS*	00000000 event.c
+00000000 l    df *ABS*	00000000 ext2.c
+00000000 l    df *ABS*	00000000 fat.c
+00000000 l    df *ABS*	00000000 faults.c
+00000000 l    df *ABS*	00000000 fb_api.c
+00000000 l    df *ABS*	00000000 fdt_addresses.c
+00000000 l    df *ABS*	00000000 fdt.c
+00000000 l    df *ABS*	00000000 fdt_empty_tree.c
+00000000 l    df *ABS*	00000000 fdt_ro.c
+00000000 l    df *ABS*	00000000 fdt_rw.c
+00000000 l    df *ABS*	00000000 fdt_strerror.c
+00000000 l    df *ABS*	00000000 fdt_sw.c
+00000000 l    df *ABS*	00000000 fdt_wip.c
+00000000 l    df *ABS*	00000000 fibo.c
+00000000 l    df *ABS*	00000000 file.c
+00000000 l    df *ABS*	00000000 file.c
+00000000 l    df *ABS*	00000000 fixed_point.c
+00000000 l    df *ABS*	00000000 float.c
+00000000 l    df *ABS*	00000000 float_test_vec.c
+00000000 l    df *ABS*	00000000 fpu.c
+00000000 l    df *ABS*	00000000 fs.c
+00000000 l    df *ABS*	00000000 gfx.c
+00000000 l    df *ABS*	00000000 heap_wrapper.c
+00000000 l    df *ABS*	00000000 i2c_api.c
+00000000 l    df *ABS*	00000000 inetsrv.c
+00000000 l    df *ABS*	00000000 init.c
+00000000 l    df *ABS*	00000000 init.c
+00000000 l    df *ABS*	00000000 init.c
+00000000 l    df *ABS*	00000000 init.c
+00000000 l    df *ABS*	00000000 io.c
+00000000 l    df *ABS*	00000000 io.c
+00000000 l    df *ABS*	00000000 iovec.c
+00000000 l    df *ABS*	00000000 k_cos.c
+00000000 l    df *ABS*	00000000 k_rem_pio2.c
+00000000 l    df *ABS*	00000000 k_sin.c
+00000000 l    df *ABS*	00000000 k_tan.c
+00000000 l    df *ABS*	00000000 libgcc2.c
+00000000 l    df *ABS*	00000000 libgcc2.c
+00000000 l    df *ABS*	00000000 lk_console.c
+00000000 l    df *ABS*	00000000 main.c
+00000000 l    df *ABS*	00000000 mem.c
+00000000 l    df *ABS*	00000000 memchr.c
+00000000 l    df *ABS*	00000000 memcmp.c
+00000000 l    df *ABS*	00000000 memfs.c
+00000000 l    df *ABS*	00000000 mem_tests.c
+00000000 l    df *ABS*	00000000 minip.c
+00000000 l    df *ABS*	00000000 mmu.c
+00000000 l    df *ABS*	00000000 mp.c
+00000000 l    df *ABS*	00000000 mp.c
+00000000 l    df *ABS*	00000000 mutex.c
+00000000 l    df *ABS*	00000000 netif_api.c
+00000000 l    df *ABS*	00000000 net_timer.c
+00000000 l    df *ABS*	00000000 new.cpp
+00000000 l    df *ABS*	00000000 page_alloc.c
+00000000 l    df *ABS*	00000000 pktbuf.c
+00000000 l    df *ABS*	00000000 platform.c
+00000000 l    df *ABS*	00000000 pmm.c
+00000000 l    df *ABS*	00000000 pool.c
+00000000 l    df *ABS*	00000000 port.c
+00000000 l    df *ABS*	00000000 port_tests.c
+00000000 l    df *ABS*	00000000 power.c
+00000000 l    df *ABS*	00000000 printf.c
+00000000 l    df *ABS*	00000000 printf_tests.c
+00000000 l    df *ABS*	00000000 pure_virtual.cpp
+00000000 l    df *ABS*	00000000 qsort.c
+00000000 l    df *ABS*	00000000 rand.c
+00000000 l    df *ABS*	00000000 s_atan.c
+00000000 l    df *ABS*	00000000 s_ceil.c
+00000000 l    df *ABS*	00000000 s_ceilf.c
+00000000 l    df *ABS*	00000000 s_copysign.c
+00000000 l    df *ABS*	00000000 s_copysignf.c
+00000000 l    df *ABS*	00000000 s_cos.c
+00000000 l    df *ABS*	00000000 s_cosf.c
+00000000 l    df *ABS*	00000000 semaphore.c
+00000000 l    df *ABS*	00000000 s_fabs.c
+00000000 l    df *ABS*	00000000 s_fabsf.c
+00000000 l    df *ABS*	00000000 s_floor.c
+00000000 l    df *ABS*	00000000 s_floorf.c
+00000000 l    df *ABS*	00000000 shell.c
+00000000 l    df *ABS*	00000000 shell.c
+00000000 l    df *ABS*	00000000 spi_api.c
+00000000 l    df *ABS*	00000000 spifs.c
+00000000 l    df *ABS*	00000000 spifstest.c
+00000000 l    df *ABS*	00000000 s_round.c
+00000000 l    df *ABS*	00000000 s_scalbn.c
+00000000 l    df *ABS*	00000000 s_scalbnf.c
+00000000 l    df *ABS*	00000000 s_sin.c
+00000000 l    df *ABS*	00000000 s_sinf.c
+00000000 l    df *ABS*	00000000 s_tan.c
+00000000 l    df *ABS*	00000000 s_tanf.c
+00000000 l    df *ABS*	00000000 stdio.c
+00000000 l    df *ABS*	00000000 strcat.c
+00000000 l    df *ABS*	00000000 strchr.c
+00000000 l    df *ABS*	00000000 strcmp.c
+00000000 l    df *ABS*	00000000 strcoll.c
+00000000 l    df *ABS*	00000000 strcpy.c
+00000000 l    df *ABS*	00000000 strdup.c
+00000000 l    df *ABS*	00000000 strerror.c
+00000000 l    df *ABS*	00000000 string_tests.c
+00000000 l    df *ABS*	00000000 strlcat.c
+00000000 l    df *ABS*	00000000 strlcpy.c
+00000000 l    df *ABS*	00000000 strlen.c
+00000000 l    df *ABS*	00000000 strncat.c
+00000000 l    df *ABS*	00000000 strncmp.c
+00000000 l    df *ABS*	00000000 strncpy.c
+00000000 l    df *ABS*	00000000 strnicmp.c
+00000000 l    df *ABS*	00000000 strnlen.c
+00000000 l    df *ABS*	00000000 strpbrk.c
+00000000 l    df *ABS*	00000000 strrchr.c
+00000000 l    df *ABS*	00000000 strspn.c
+00000000 l    df *ABS*	00000000 strstr.c
+00000000 l    df *ABS*	00000000 strtok.c
+00000000 l    df *ABS*	00000000 strtol.c
+00000000 l    df *ABS*	00000000 strtoll.c
+00000000 l    df *ABS*	00000000 s_trunc.c
+00000000 l    df *ABS*	00000000 strxfrm.c
+00000000 l    df *ABS*	00000000 subdev.c
+00000000 l    df *ABS*	00000000 tcp.c
+00000000 l    df *ABS*	00000000 tests.c
+00000000 l    df *ABS*	00000000 tftp.c
+00000000 l    df *ABS*	00000000 thread.c
+00000000 l    df *ABS*	00000000 thread.c
+00000000 l    df *ABS*	00000000 thread_tests.c
+00000000 l    df *ABS*	00000000 timer.c
+00000000 l    df *ABS*	00000000 uart_api.c
+00000000 l    df *ABS*	00000000 uart.c
+00000000 l    df *ABS*	00000000 _udivsi3.o
+00000000 l    df *ABS*	00000000 udp.c
+00000000 l    df *ABS*	00000000 version.c
+00000000 l    df *ABS*	00000000 virtio-block.c
+00000000 l    df *ABS*	00000000 virtio.c
+00000000 l    df *ABS*	00000000 virtio-gpu.c
+00000000 l    df *ABS*	00000000 virtio-net.c
+00000000 l    df *ABS*	00000000 vm.c
+00000000 l    df *ABS*	00000000 vmm.c
+80010000 g       .text	00000000 _start
+80010000 l    d  .text	00000000 .text
+80010024 g       .text	00000000 arm_reset
+80010024  w      .text	00000000 platform_reset
+8001023c g     F .text	00000000 arm_secondary_setup
+800102dc l       .text	00000000 unsupported_cpu_trap
+80010324 g     F .text	00000024 platform_dputc
+80010348 g     F .text	00000018 platform_dgetc
+80010360 g     F .text	00000024 platform_pputc
+80010384 g     F .text	00000018 platform_pgetc
+8001039c g     F .text	000001c8 platform_early_init
+80010564 g     F .text	00000068 platform_init
+800105cc l     F .text	00000094 uart_irq
+80010660 g     F .text	00000066 uart_init
+800106c8 g     F .text	0000000e uart_init_early
+800106d8 g     F .text	00000016 uart_putc
+800106f0 g     F .text	00000040 uart_getc
+80010730 g     F .text	00000016 uart_pputc
+80010748 g     F .text	00000018 uart_pgetc
+80010760 g     F .text	00000002 uart_flush_tx
+80010764 g     F .text	00000002 uart_flush_rx
+80010768 g     F .text	00000002 uart_init_port
+8001076c g     F .text	00000000 psci_call
+80010774 l     F .text	0000004a dcc_worker_entry
+800107c0 l     F .text	0000004a dcc_rx_callback
+8001080c g     F .text	00000056 arm_dcc_enable
+80010864 g     F .text	0000000a arm_dcc_read_available
+80010870 g     F .text	00000058 arm_dcc_read
+800108c8 g     F .text	0000005c arm_dcc_write
+80010924 l     F .text	0000013a cmd_dcc
+80010a60 l     F .text	000002ca dump_mode_regs
+80010d2c l     F .text	000000ac exception_die
+80010dd8  w    F .text	00000012 arm_syscall_handler
+80010dec g     F .text	000000f8 arm_undefined_handler
+80010ee4 g     F .text	000001da arm_data_abort_handler
+800110c0 g     F .text	00000106 arm_prefetch_abort_handler
+800111c8 g     F .text	00000010 arm_fpu_set_enable
+800111d8 g     F .text	00000024 arm_fpu_thread_initialize
+800111fc g     F .text	0000007c arm_fpu_thread_swap
+80011278 g     F .text	0000003e arm_fpu_undefined_instruction
+800112b8 l     F .text	0000006c arm_mmu_unmap_l1_entry
+80011324 g     F .text	00000002 arm_mmu_early_init
+80011328 g     F .text	000000c2 arm_mmu_init
+800113ec g     F .text	00000012 arch_disable_mmu
+80011400 g     F .text	00000028 arch_mmu_context_switch
+80011428 g     F .text	000001e2 arch_mmu_query
+8001160c g     F .text	0000045c arch_mmu_map
+80011a68 g     F .text	0000027c arch_mmu_unmap
+80011ce4 g     F .text	000000e4 arch_mmu_init_aspace
+80011dc8 g     F .text	00000036 arch_mmu_destroy_aspace
+80011e00 l     F .text	00000026 initial_thread_func
+80011e28 g     F .text	00000052 arch_thread_initialize
+80011e7c g     F .text	00000026 arch_context_switch
+80011ea4 g     F .text	00000030 arch_dump_thread
+80011ed4 g     F .text	00000004 arm_ipi_generic_handler
+80011ed8 g     F .text	00000004 arm_ipi_reschedule_handler
+80011edc g     F .text	0000001a arch_mp_send_ipi
+80011ef8 g     F .text	0000002c arch_mp_init_percpu
+80011f24 g     F .text	00000000 arm_context_switch
+80011f3c g     F .text	00000000 arm_save_mode_regs
+80011f98 g     F .text	00000000 arm_chain_load
+80011fc0 g     F .text	00000000 arch_disable_cache
+80012028 g     F .text	00000000 arch_enable_cache
+80012090 l       .text	00000000 flush_invalidate_cache_v7
+80012124 l       .text	00000000 invalidate_cache_v7
+800121b8 g     F .text	00000000 arch_clean_cache_range
+800121dc g     F .text	00000000 arch_clean_invalidate_cache_range
+80012200 g     F .text	00000000 arch_invalidate_cache_range
+80012224 g     F .text	00000000 arch_sync_cache_range
+80012240 g     F .text	00000000 _arch_enable_ints
+80012250 g     F .text	00000000 _arch_disable_ints
+80012260 g     F .text	00000000 _atomic_swap
+80012278 g     F .text	00000000 _atomic_add
+80012294 g     F .text	00000000 _atomic_and
+800122b0 g     F .text	00000000 _atomic_or
+800122cc g     F .text	00000000 arch_spin_trylock
+800122e8 g     F .text	00000000 arch_spin_lock
+8001230c g     F .text	00000000 arch_spin_unlock
+80012324 g     F .text	00000000 arch_idle
+8001232c g     F .text	00000000 arm_invalidate_tlb
+80012338 g     F .text	00000000 arm_undefined
+80012390 g     F .text	00000000 arm_syscall
+800123e8 g     F .text	00000000 arm_prefetch_abort
+80012444 g     F .text	00000000 arm_data_abort
+800124a0 g     F .text	00000000 arm_reserved
+800124a4 g     F .text	00000000 arm_irq
+80012528 g     F .text	00000000 arm_fiq
+80012584 l     F .text	00000080 arm_basic_setup
+80012604 g     F .text	00000024 arch_early_init
+80012628 g     F .text	00000068 arch_init
+80012690 g     F .text	00000074 arm_secondary_entry
+80012704 g     F .text	00000024 arch_quiesce
+80012728 g     F .text	00000074 arm_vtop
+8001279c g     F .text	00000104 arch_chain_load
+800128a0 g     F .text	00000078 arch_enter_uspace
+80012918 g     F .text	00000120 lk_init_level
+80012a38 l     F .text	000000a0 bootstrap2
+80012ad8 l     F .text	00000018 secondary_cpu_bootstrap2
+80012af0 g     F .text	00000128 lk_main
+80012c18 g     F .text	00000058 lk_secondary_cpu_entry
+80012c70 g     F .text	00000090 lk_init_secondary_cpus
+80012d00 l     F .text	00000010 app_thread_entry
+80012d10 g     F .text	000000ac apps_init
+80012dbc l     F .text	00000002 inetsrv_init
+80012dc0 l     F .text	00000080 inetsrv_entry
+80012e40 l     F .text	000000be echo_server
+80012f00 l     F .text	000000a8 discard_server
+80012fa8 l     F .text	000000a8 chargen_server
+80013050 l     F .text	000000c4 chargen_worker
+80013114 l     F .text	000000cc discard_worker
+800131e0 l     F .text	0000006c echo_worker
+8001324c l     F .text	00000004 shell_entry
+80013250 l     F .text	00000004 shell_init
+80013254 l     F .text	00000068 c_memset
+800132bc l     F .text	00000002 null_memcpy
+800132c0 l     F .text	00000004 mymemcpy
+800132c4 l     F .text	00000004 mymemset
+800132c8 l     F .text	00000046 bench_memcpy_routine
+80013310 l     F .text	000000fe c_memmove.part.0
+80013410 l     F .text	00000018 c_memmove
+80013428 l     F .text	0000003e bench_memset_routine.constprop.1
+80013468 l     F .text	00000554 string_tests
+800139c0 l     F .text	00000052 bench_set_overhead
+80013a14 l     F .text	00000090 bench_cset_uint8_t
+80013aa4 l     F .text	00000090 bench_cset_uint16_t
+80013b34 l     F .text	00000090 bench_cset_uint32_t
+80013bc4 l     F .text	000000b0 bench_cset_uint64_t
+80013c74 l     F .text	000000bc bench_cset_wide
+80013d30 l     F .text	00000090 arm_bench_cset_stm
+80013dc0 l     F .text	00000098 bench_memset
+80013e58 l     F .text	000000a8 bench_memcpy
+80013f00 l     F .text	000000f0 bench_sincos
+80013ff0 g     F .text	00000032 benchmarks
+80014028 l     F .text	0000011a bench_cache
+80014144 l     F .text	00000050 cache_tests
+80014194 g     F .text	0000044c cbuf_tests
+800145e0 g     F .text	00000208 clock_tests
+800147e8 l     F .text	000000ea fibo_thread
+800148d4 g     F .text	00000088 fibo
+8001495c l     F .text	000000b8 float_thread
+80014a14 l     F .text	000000ee float_tests
+80014b04 l     F .text	0000002a mem_test_fail
+80014b30 l     F .text	00000062 do_pattern_test
+80014b94 l     F .text	000000e2 do_moving_inversion_test
+80014c78 l     F .text	00000130 do_mem_tests
+80014da8 l     F .text	000000fe mem_test
+80014ea8 g     F .text	00000508 printf_tests
+800153b0 g     F .text	00000066 printf_tests_float
+80015418 l     F .text	00000002 tests_init
+8001541c l     F .text	00000002 spinner_thread
+80015420 l     F .text	0000001e quantum_tester
+80015440 l     F .text	00000088 atomic_tester
+800154c8 l     F .text	0000003a sleep_thread
+80015504 l     F .text	0000002e join_tester
+80015534 l     F .text	00000048 mutex_zerotimeout_thread
+8001557c l     F .text	0000004a mutex_timeout_thread
+800155c8 l     F .text	00000048 event_signaler
+80015610 l     F .text	00000084 context_switch_tester
+80015694 l     F .text	00000030 semaphore_producer
+800156c4 l     F .text	000000ac semaphore_consumer
+80015770 l     F .text	00000040 preempt_tester
+800157b0 l     F .text	000001b4 join_tester_server
+80015964 l     F .text	0000007c mutex_thread
+800159e0 l     F .text	00000070 event_waiter
+80015a50 g     F .text	00000040 sleep_test
+80015a90 g     F .text	0000015c mutex_test
+80015bec g     F .text	0000021c event_test
+80015e08 g     F .text	00000082 quantum_test
+80015e8c g     F .text	00000166 context_switch_test
+80015ff4 g     F .text	0000059a thread_tests
+80016590 g     F .text	0000008c spinner
+8001661c l     F .text	00000030 make_port_pair
+8001664c l     F .text	000000fe ping_pong_thread
+8001674c l     F .text	0000014e group_watcher_thread
+8001689c l     F .text	00000032 receive_thread
+800168d0 g     F .text	00000270 two_threads_basic
+80016b40 g     F .text	0000001c send_watcher_cmd
+80016b5c g     F .text	000001b2 group_basic
+80016d10 g     F .text	0000012a group_dynamic
+80016e3c g     F .text	000000d2 group_waiting
+80016f10 g     F .text	000003b8 port_tests
+800172c8 g     F .text	00000000 float_vfp_arm_instruction_test
+80017300 g     F .text	00000000 float_neon_arm_instruction_test
+80017338 g     F .text	00000000 float_vfp_thumb_instruction_test
+8001736c g     F .text	00000000 float_neon_thumb_instruction_test
+800173a4 g     F .text	00000002 dev_init
+800173a8 g     F .text	0000004a device_init
+800173f4 g     F .text	00000086 device_init_all
+8001747c g     F .text	0000004a device_fini
+800174c8 g     F .text	00000084 device_fini_all
+8001754c g     F .text	00000044 device_suspend
+80017590 g     F .text	00000044 device_resume
+800175d4 g     F .text	00000024 class_block_get_size
+800175f8 g     F .text	00000024 class_block_get_count
+8001761c g     F .text	00000032 class_block_write
+80017650 g     F .text	00000032 class_block_read
+80017684 g     F .text	00000024 class_block_flush
+800176a8 g     F .text	00000024 class_i2c_write
+800176cc g     F .text	00000024 class_i2c_read
+800176f0 g     F .text	00000024 class_i2c_write_reg
+80017714 g     F .text	00000024 class_i2c_read_reg
+80017738 g     F .text	00000024 class_spi_transaction
+8001775c g     F .text	00000024 class_uart_read
+80017780 g     F .text	00000024 class_uart_write
+800177a4 g     F .text	00000024 class_fb_set_mode
+800177c8 g     F .text	00000024 class_fb_get_info
+800177ec g     F .text	00000024 class_fb_update
+80017810 g     F .text	00000040 class_fb_update_region
+80017850 g     F .text	00000024 class_netif_set_state
+80017874 g     F .text	00000024 class_netif_get_hwaddr
+80017898 g     F .text	00000024 class_netif_get_mtu
+800178bc g     F .text	00000024 class_netif_set_status
+800178e0 g     F .text	00000024 class_netif_output
+80017904 g     F .text	00000024 class_netif_mcast_filter
+80017928 l     F .text	00000016 arm_gic_init_percpu
+80017940 l     F .text	00000002 arm_gic_suspend_cpu
+80017944 g     F .text	00000084 register_int_handler
+800179c8 g     F .text	0000007e arm_gic_init
+80017a48 l     F .text	0000006c arm_gic_resume_cpu
+80017ab4 g     F .text	0000003a arm_gic_sgi
+80017af0 g     F .text	00000022 mask_interrupt
+80017b14 g     F .text	00000022 unmask_interrupt
+80017b38 g     F .text	00000078 platform_irq
+80017bb0 g     F .text	0000001c platform_fiq
+80017bd0 l     F .text	0000007c cntpct_to_lk_time
+80017c4c l     F .text	00000036 platform_tick
+80017c84 l     F .text	00000016 arm_generic_timer_resume_cpu
+80017c9c l     F .text	000000d2 test_cntpct_to_lk_time
+80017d70 l     F .text	0000002a arm_generic_timer_init_secondary_cpu
+80017d9c l     F .text	000000da test_lk_time_to_cntpct
+80017e78 l     F .text	00000154 test_cntpct_to_lk_bigtime
+80017fcc g     F .text	000000d4 platform_set_oneshot_timer
+800180a0 g     F .text	0000000c platform_stop_timer
+800180ac g     F .text	000000ca current_time_hires
+80018178 g     F .text	00000006 current_time
+80018180 g     F .text	000001f4 arm_generic_timer_init
+80018378 l     F .text	0000002a virtio_desc_index_to_desc.part.0
+800183a4 l     F .text	00000098 virtio_block_irq_driver_callback
+8001843c g     F .text	00000122 virtio_block_init
+80018560 g     F .text	0000022e virtio_block_read_write
+80018790 l     F .text	0000004a virtio_bdev_write_block
+800187dc l     F .text	0000004a virtio_bdev_read_block
+80018828 l     F .text	00000004 virtio_gpu_config_change_callback
+8001882c g     F .text	0000001c virtio_gpu_gfx_flush
+80018848 l     F .text	000001e0 send_command_response
+80018a28 l     F .text	0000012e virtio_gpu_flush_thread
+80018b58 l     F .text	00000098 virtio_gpu_irq_driver_callback
+80018bf0 g     F .text	00000390 virtio_gpu_start
+80018f80 g     F .text	000000a4 virtio_gpu_init
+80019024 g     F .text	00000050 display_get_framebuffer
+80019074 g     F .text	00000060 display_get_info
+800190d4 g     F .text	00000044 display_present
+80019118 l     F .text	00000162 virtio_net_queue_rx
+8001927c l     F .text	0000008e virtio_net_rx_worker
+8001930c l     F .text	00000192 virtio_net_irq_driver_callback
+800194a0 g     F .text	00000226 virtio_net_init
+800196c8 g     F .text	00000064 virtio_net_start
+8001972c g     F .text	00000012 virtio_net_found
+80019740 g     F .text	00000022 virtio_net_get_mac_addr
+80019764 g     F .text	0000022c virtio_net_send_minip_pkt
+80019990 l     F .text	0000017c threadload
+80019b0c l     F .text	000000dc cmd_threadstats
+80019be8 l     F .text	0000001a cmd_threads
+80019c04 l     F .text	0000004e cmd_threadload
+80019c54 g     F .text	00000032 event_init
+80019c88 g     F .text	000000a6 event_destroy
+80019d30 g     F .text	0000009c event_wait_timeout
+80019dcc g     F .text	000000aa event_signal
+80019e78 g     F .text	00000046 event_unsignal
+80019ec0 g     F .text	0000004c kernel_init
+80019f0c g     F .text	0000002e mutex_init
+80019f3c g     F .text	000000e2 mutex_destroy
+8001a020 g     F .text	000000d0 mutex_acquire_timeout
+8001a0f0 g     F .text	000000cc mutex_release
+8001a1bc g     F .text	00000020 thread_timer_tick
+8001a1dc l     F .text	0000003e init_thread_struct
+8001a21c l     F .text	0000011e insert_in_run_queue_head
+8001a33c l     F .text	00000130 insert_in_run_queue_tail
+8001a46c l     F .text	0000030c thread_resched
+8001a778 l     F .text	000000c2 thread_sleep_handler
+8001a83c g     F .text	0000015c thread_create_etc
+8001a998 g     F .text	00000038 thread_create
+8001a9d0 g     F .text	000000b0 thread_set_real_time
+8001aa80 g     F .text	000000de thread_yield
+8001ab60 g     F .text	000000d2 thread_resume
+8001ac34 g     F .text	000000ec thread_preempt
+8001ad20 g     F .text	000000c6 thread_block
+8001ade8 g     F .text	000000f4 thread_unblock
+8001aedc g     F .text	00000124 thread_sleep
+8001b000 g     F .text	000000e4 thread_init_early
+8001b0e4 g     F .text	00000034 thread_init
+8001b118 g     F .text	00000010 thread_set_name
+8001b128 g     F .text	0000005c thread_set_priority
+8001b184 g     F .text	000000a4 thread_become_idle
+8001b228 g     F .text	000000ec thread_secondary_cpu_init_early
+8001b314 g     F .text	0000003c thread_secondary_cpu_entry
+8001b350 g     F .text	000000d4 dump_thread
+8001b424 g     F .text	00000092 dump_all_threads
+8001b4b8 g     F .text	00000016 wait_queue_init
+8001b4d0 g     F .text	0000013e wait_queue_block
+8001b610 g     F .text	000001ca thread_join
+8001b7dc g     F .text	00000146 wait_queue_wake_one
+8001b924 g     F .text	000001c8 wait_queue_wake_all
+8001baec g     F .text	000000ba thread_detach
+8001bba8 g     F .text	0000001e thread_detach_and_resume
+8001bbc8 g     F .text	00000110 thread_exit
+8001bcd8 g     F .text	000000aa wait_queue_destroy
+8001bd84 g     F .text	00000170 thread_unblock_from_wait_queue
+8001bef4 l     F .text	00000068 wait_queue_timeout_handler
+8001bf5c l     F .text	0000009a insert_timer_in_queue
+8001bff8 l     F .text	000001c8 timer_tick
+8001c1c0 l     F .text	000000e4 timer_set
+8001c2a4 g     F .text	0000001a timer_initialize
+8001c2c0 g     F .text	0000001e timer_set_oneshot
+8001c2e0 g     F .text	0000001e timer_set_periodic
+8001c300 g     F .text	000000f0 timer_cancel
+8001c3f0 g     F .text	0000003c timer_init
+8001c42c g     F .text	0000002c sem_init
+8001c458 g     F .text	00000068 sem_destroy
+8001c4c0 g     F .text	0000005c sem_post
+8001c51c g     F .text	0000005a sem_wait
+8001c578 g     F .text	0000004e sem_trywait
+8001c5c8 g     F .text	00000066 sem_timedwait
+8001c630 g     F .text	00000002 mp_init
+8001c634 g     F .text	00000038 mp_reschedule
+8001c66c g     F .text	00000030 mp_set_curr_cpu_active
+8001c69c g     F .text	0000003a mp_mbx_reschedule_irq
+8001c6d8 l     F .text	00000074 buf_write
+8001c74c l     F .text	0000002c make_buf
+8001c778 g     F .text	0000000e port_init
+8001c788 g     F .text	0000018c port_create
+8001c914 g     F .text	00000140 port_open
+8001ca54 g     F .text	00000140 port_group
+8001cb94 g     F .text	000000d0 port_group_add
+8001cc64 g     F .text	000000a8 port_group_remove
+8001cd0c g     F .text	0000010a port_write
+8001ce18 g     F .text	00000172 port_read
+8001cf8c g     F .text	000000e4 port_destroy
+8001d070 g     F .text	00000134 port_close
+8001d1a4 g     F .text	000003ac AES_set_encrypt_key
+8001d550 g     F .text	00000288 AES_set_decrypt_key
+8001d7d8 g     F .text	000004a2 AES_encrypt
+8001dc7c g     F .text	000004ea AES_decrypt
+8001e168 l     F .text	00000098 aes_bench
+8001e200 l     F .text	00000120 aes_command
+8001e320 g     F .text	000000a6 cbuf_initialize_etc
+8001e3c8 g     F .text	00000028 cbuf_initialize
+8001e3f0 g     F .text	0000001c cbuf_space_avail
+8001e40c g     F .text	0000001c cbuf_space_used
+8001e428 g     F .text	00000190 cbuf_write
+8001e5b8 g     F .text	0000016c cbuf_read
+8001e724 g     F .text	00000118 cbuf_peek
+8001e83c g     F .text	000000ba cbuf_write_char
+8001e8f8 g     F .text	00000112 cbuf_read_char
+8001ea0c l     F .text	0000008e adler32_combine_.part.0
+8001ea9c g     F .text	00000278 adler32
+8001ed14 g     F .text	0000001c adler32_combine
+8001ed30 g     F .text	0000001c adler32_combine64
+8001ed4c g     F .text	00000028 update_crc16
+8001ed74 g     F .text	00000036 crc16
+8001edac l     F .text	00000044 gf2_matrix_square
+8001edf0 l     F .text	000000fe crc32_combine_
+8001eef0 g     F .text	0000000a get_crc_table
+8001eefc g     F .text	00000120 crc32
+8001f01c g     F .text	00000002 crc32_combine
+8001f020 g     F .text	00000002 crc32_combine64
+8001f024 l     F .text	00000114 cmd_cksum_bench
+8001f138 l     F .text	00000048 cmd_crc32
+8001f180 l     F .text	00000048 cmd_adler32
+8001f1c8 l     F .text	0000004e cmd_crc16
+8001f218 l     F .text	00000036 cmd_sleep
+8001f250 l     F .text	000000aa cmd_fill_mem
+8001f2fc l     F .text	0000004c cmd_stackstomp
+8001f348 l     F .text	00000018 cmd_crash
+8001f360 l     F .text	000001ec cmd_display_mem
+8001f54c l     F .text	000000c0 cmd_memtest
+8001f60c l     F .text	00000086 cmd_modify_mem
+8001f694 l     F .text	0000003e cmd_chain
+8001f6d4 l     F .text	0000003a cmd_copy_mem
+8001f710 g     F .text	000000ba fdt_check_header
+8001f7cc g     F .text	0000007a fdt_offset_ptr
+8001f848 g     F .text	000000e6 fdt_next_tag
+8001f930 g     F .text	0000002e _fdt_check_node_offset
+8001f960 g     F .text	0000002e _fdt_check_prop_offset
+8001f990 g     F .text	0000007a fdt_next_node
+8001fa0c g     F .text	0000002e fdt_first_subnode
+8001fa3c g     F .text	0000004a fdt_next_subnode
+8001fa88 g     F .text	00000040 _fdt_find_string
+8001fac8 g     F .text	00000070 fdt_move
+8001fb38 g     F .text	00000050 fdt_address_cells
+8001fb88 g     F .text	0000004e fdt_size_cells
+8001fbd8 g     F .text	0000005a fdt_create_empty_tree
+8001fc34 l     F .text	00000050 _nextprop
+8001fc84 g     F .text	0000002a fdt_string
+8001fcb0 g     F .text	0000017c fdt_get_mem_rsv
+8001fe2c g     F .text	00000110 fdt_num_mem_rsv
+8001ff3c g     F .text	00000098 fdt_subnode_offset_namelen
+8001ffd4 g     F .text	0000002c fdt_subnode_offset
+80020000 g     F .text	00000082 fdt_get_name
+80020084 g     F .text	0000001c fdt_first_property_offset
+800200a0 g     F .text	0000001c fdt_next_property_offset
+800200bc g     F .text	00000070 fdt_get_property_by_offset
+8002012c g     F .text	000000c6 fdt_get_property_namelen
+800201f4 g     F .text	0000003a fdt_get_property
+80020230 g     F .text	00000018 fdt_getprop_namelen
+80020248 g     F .text	00000064 fdt_getprop_by_offset
+800202ac g     F .text	0000003e fdt_getprop
+800202ec g     F .text	00000072 fdt_get_phandle
+80020360 g     F .text	0000004a fdt_get_alias_namelen
+800203ac g     F .text	000000be fdt_path_offset_namelen
+8002046c g     F .text	00000028 fdt_path_offset
+80020494 g     F .text	00000028 fdt_get_alias
+800204bc g     F .text	000000f6 fdt_get_path
+800205b4 g     F .text	0000009c fdt_supernode_atdepth_offset
+80020650 g     F .text	00000028 fdt_node_depth
+80020678 g     F .text	0000002e fdt_parent_offset
+800206a8 g     F .text	0000007a fdt_node_offset_by_prop_value
+80020724 g     F .text	0000004c fdt_node_offset_by_phandle
+80020770 g     F .text	00000058 fdt_stringlist_contains
+800207c8 g     F .text	00000034 fdt_node_check_compatible
+800207fc g     F .text	0000004c fdt_node_offset_by_compatible
+80020848 l     F .text	000000ea _fdt_blocks_misordered
+80020934 l     F .text	0000013e _fdt_packblocks
+80020a74 l     F .text	0000008c _fdt_rw_check_header
+80020b00 l     F .text	000000a6 _fdt_splice
+80020ba8 l     F .text	00000096 _fdt_splice_mem_rsv
+80020c40 l     F .text	00000090 _fdt_splice_struct
+80020cd0 l     F .text	000001e2 _fdt_add_property
+80020eb4 g     F .text	000001ba fdt_add_mem_rsv
+80021070 g     F .text	0000008a fdt_del_mem_rsv
+800210fc g     F .text	0000006e fdt_set_name
+8002116c g     F .text	000000a8 fdt_setprop
+80021214 g     F .text	000000b4 fdt_appendprop
+800212c8 g     F .text	00000054 fdt_delprop
+8002131c g     F .text	000000d8 fdt_add_subnode_namelen
+800213f4 g     F .text	0000002c fdt_add_subnode
+80021420 g     F .text	0000006e fdt_del_node
+80021490 g     F .text	000001e8 fdt_open_into
+80021678 g     F .text	000000a2 fdt_pack
+8002171c g     F .text	00000048 fdt_strerror
+80021764 l     F .text	000000b8 _fdt_grab_space
+8002181c g     F .text	00000070 fdt_create
+8002188c g     F .text	00000112 fdt_resize
+800219a0 g     F .text	00000204 fdt_add_reservemap_entry
+80021ba4 g     F .text	00000026 fdt_finish_reservemap
+80021bcc g     F .text	00000086 fdt_begin_node
+80021c54 g     F .text	00000054 fdt_end_node
+80021ca8 g     F .text	000001ba fdt_property
+80021e64 g     F .text	000001da fdt_finish
+80022040 g     F .text	00000044 fdt_setprop_inplace
+80022084 g     F .text	00000038 fdt_nop_property
+800220bc g     F .text	0000002a _fdt_node_end_offset
+800220e8 g     F .text	0000003e fdt_nop_node
+80022128 l     F .text	0000003c find_fs
+80022164 l     F .text	0000008e find_mount
+800221f4 l     F .text	00000066 put_mount
+8002225c g     F .text	0000004a fs_format_device
+800222a8 g     F .text	0000001e fs_file_ioctl
+800222c8 g     F .text	00000012 fs_truncate_file
+800222dc g     F .text	00000024 fs_read_file
+80022300 g     F .text	0000002c fs_write_file
+8002232c g     F .text	00000026 fs_close_file
+80022354 g     F .text	00000012 fs_stat_file
+80022368 g     F .text	0000001a fs_read_dir
+80022384 g     F .text	0000002e fs_close_dir
+800223b4 g     F .text	00000048 fs_stat_fs
+800223fc g     F .text	00000024 trim_name
+80022420 g     F .text	00000106 fs_normalize_path
+80022528 g     F .text	000000ce fs_mount
+800225f8 g     F .text	0000003a fs_unmount
+80022634 g     F .text	00000070 fs_open_file
+800226a4 g     F .text	00000070 fs_load_file
+80022714 g     F .text	00000082 fs_create_file
+80022798 g     F .text	00000058 fs_remove_file
+800227f0 g     F .text	00000058 fs_make_dir
+80022848 g     F .text	0000007c fs_open_dir
+800228c4 l     F .text	00000386 cmd_fs
+80022c4c l     F .text	00000026 cmd_pwd
+80022c74 l     F .text	0000001a set_cwd.part.3
+80022c90 l     F .text	00000064 prepend_cwd.constprop.4
+80022cf4 l     F .text	000000fe cmd_ls
+80022df4 l     F .text	0000006a cmd_mkdir
+80022e60 l     F .text	0000007a cmd_mkfile
+80022edc l     F .text	00000060 cmd_rm
+80022f3c l     F .text	000000c0 cmd_stat
+80022ffc l     F .text	000000cc cmd_cat
+800230c8 l     F .text	00000098 cmd_cd
+80023160 g     F .text	00000020 ext2_unmount
+80023180 g     F .text	00000088 ext2_load_inode
+80023208 g     F .text	000000ee ext2_mount
+800232f8 l     F .text	00000206 ext2_walk
+80023500 g     F .text	0000003a ext2_lookup
+8002353c g     F .text	00000006 ext2_read_block
+80023544 g     F .text	00000006 ext2_get_block
+8002354c g     F .text	00000006 ext2_put_block
+80023554 g     F .text	000000a0 ext2_get_indirect_block_pointer_cache_block
+800235f4 l     F .text	000000c0 file_block_to_fs_block
+800236b4 g     F .text	000001bc ext2_read_inode
+80023870 g     F .text	0000005e ext2_open_file
+800238d0 g     F .text	00000040 ext2_read_file
+80023910 g     F .text	0000002c ext2_close_file
+8002393c g     F .text	0000002a ext2_file_len
+80023968 g     F .text	00000052 ext2_stat_file
+800239bc g     F .text	0000008c ext2_read_link
+80023a48 g     F .text	000002fe fat32_mount
+80023d48 g     F .text	00000018 fat32_unmount
+80023d60 g     F .text	000000d2 fat32_dump
+80023e34 g     F .text	00000090 fat32_next_cluster_in_chain
+80023ec4 g     F .text	000000e2 fat32_dir_get_filename
+80023fa8 g     F .text	000001aa fat32_open_file
+80024154 g     F .text	0000010e fat32_read_file
+80024264 g     F .text	0000000e fat32_close_file
+80024274 g     F .text	00000022 fat32_stat_file
+80024298 l     F .text	00000004 memfs_close
+8002429c l     F .text	0000003a memfs_closedir
+800242d8 l     F .text	00000032 memfs_stat
+8002430c l     F .text	0000005a memfs_readdir
+80024368 l     F .text	0000006e memfs_opendir
+800243d8 l     F .text	00000096 memfs_write
+80024470 l     F .text	00000084 memfs_read
+800244f4 l     F .text	00000058 memfs_truncate
+8002454c l     F .text	00000030 find_file
+8002457c l     F .text	00000066 memfs_remove
+800245e4 l     F .text	00000046 memfs_open
+8002462c l     F .text	000000c6 memfs_create
+800246f4 l     F .text	00000034 memfs_mount
+80024728 l     F .text	0000005c memfs_unmount
+80024784 l     F .text	0000004e spifs_add_ascending
+800247d4 l     F .text	00000004 spifs_close
+800247d8 l     F .text	00000074 spifs_fs_stat
+8002484c l     F .text	0000006a spifs_file_ioctl
+800248b8 l     F .text	0000003a spifs_closedir
+800248f4 l     F .text	00000038 spifs_stat
+8002492c l     F .text	0000005a spifs_unmount
+80024988 l     F .text	0000005c spifs_readdir
+800249e4 l     F .text	0000007c spifs_opendir
+80024a60 l     F .text	00000024 spifs_read_page
+80024a84 l     F .text	0000005a spifs_write_page
+80024ae0 l     F .text	00000204 spifs_commit_toc
+80024ce4 l     F .text	000001a4 spifs_write
+80024e88 l     F .text	00000044 spifs_truncate
+80024ecc l     F .text	00000058 find_file
+80024f24 l     F .text	0000008c spifs_remove
+80024fb0 l     F .text	00000046 spifs_open
+80024ff8 l     F .text	000001ce spifs_create
+800251c8 l     F .text	00000056 get_device_page_info
+80025220 l     F .text	00000154 spifs_format
+80025374 l     F .text	0000006e cursor_advance
+800253e4 l     F .text	0000002a cursor_get.isra.4.part.5
+80025410 l     F .text	000000b0 spifs_read
+800254c0 l     F .text	00000082 cursor_init.constprop.7
+80025544 l     F .text	00000116 get_toc_generation
+8002565c l     F .text	000001de spifs_mount
+8002583c l     F .text	00000072 test_truncate_file
+800258b0 l     F .text	00000042 test_empty_after_format
+800258f4 l     F .text	0000008c test_double_create_file
+80025980 l     F .text	00000056 test_write_past_end_of_capacity
+800259d8 l     F .text	0000007c test_write_past_eof
+80025a54 l     F .text	000000ce test_read_write_big
+80025b24 l     F .text	000000d0 test_write_with_offset
+80025bf4 l     F .text	00000102 test_corrupt_toc
+80025cf8 l     F .text	00000082 test_full_fs
+80025d7c l     F .text	00000190 test_rm_reclaim
+80025f0c l     F .text	0000012a test_full_toc
+80026038 l     F .text	000000c6 test_write_read_normal
+80026100 l     F .text	00000092 test_rm_active_dirent
+80026194 g     F .text	00000098 test_setup
+8002622c g     F .text	00000028 test_teardown
+80026254 l     F .text	000003ac cmd_spifs
+80026600 g     F .text	000000b0 __kernel_sin
+800266b0 g     F .text	000003a8 sin
+80026a58 g     F .text	000003a8 sinf
+80026e00 g     F .text	000000a8 __kernel_cos
+80026ea8 g     F .text	000003b0 cos
+80027258 g     F .text	000003c8 cosf
+80027620 g     F .text	000001d8 __kernel_tan
+800277f8 g     F .text	00000328 tan
+80027b20 g     F .text	00000308 tanf
+80027e28 g     F .text	0000000e sqrt
+80027e38 g     F .text	0000000e sqrtf
+80027e48 g     F .text	0000064c __kernel_rem_pio2
+80028498 g     F .text	00000118 floor
+800285b0 g     F .text	0000009c floorf
+80028650 g     F .text	00000130 scalbn
+80028780 g     F .text	000000ec scalbnf
+8002886c g     F .text	00000016 copysign
+80028884 g     F .text	0000000c copysignf
+80028890 g     F .text	000002c0 acos
+80028b50 g     F .text	00000274 acosf
+80028dc8 g     F .text	00000268 asin
+80029030 g     F .text	0000021c asinf
+80029250 g     F .text	00000710 pow
+80029960 g     F .text	000005ca powf
+80029f2c g     F .text	00000006 fabs
+80029f34 g     F .text	00000006 fabsf
+80029f3c g     F .text	000002d6 fmod
+8002a218 g     F .text	00000268 log
+8002a480 g     F .text	000002f8 exp
+8002a778 g     F .text	00000094 round
+8002a810 g     F .text	00000118 ceil
+8002a928 g     F .text	0000008c ceilf
+8002a9b8 g     F .text	000000c8 trunc
+8002aa80 g     F .text	00000250 atan
+8002acd0 g     F .text	00000280 atan2
+8002af50 l     F .text	00000006 handle_arp_timeout_cb
+8002af58 g     F .text	0000000e arp_cache_init
+8002af68 g     F .text	000000b2 arp_cache_update
+8002b01c g     F .text	0000007e arp_cache_lookup
+8002b09c g     F .text	0000008e arp_cache_dump
+8002b12c g     F .text	00000094 arp_send_request
+8002b1c0 g     F .text	0000007a arp_get_dest_mac
+8002b23c g     F .text	0000004a ones_sum16
+8002b288 g     F .text	00000024 rfc1701_chksum
+8002b2ac l     F .text	0000002c printip
+8002b2d8 l     F .text	000000ee dhcp_request.constprop.0
+8002b3c8 l     F .text	0000013a dhcp_cb
+8002b504 l     F .text	000000ca dhcp_discover.constprop.1
+8002b5d0 l     F .text	00000034 dhcp_thread
+8002b604 g     F .text	00000090 minip_init_dhcp
+8002b694 g     F .text	00000080 str_ip_to_int
+8002b714 l     F .text	00000202 cmd_minip
+8002b918 l     F .text	0000008a cmd_arp
+8002b9a4 g     F .text	00000024 arp_usage
+8002b9c8 l     F .text	00000006 handle_arp_timeout_cb
+8002b9d0 l     F .text	0000011c handle_arp_pkt
+8002baec g     F .text	00000010 minip_set_hostname
+8002bafc g     F .text	00000008 minip_get_hostname
+8002bb04 g     F .text	00000012 minip_get_macaddr
+8002bb18 g     F .text	00000012 minip_set_macaddr
+8002bb2c g     F .text	0000000c minip_get_ipaddr
+8002bb38 g     F .text	0000001e minip_set_ipaddr
+8002bb58 g     F .text	00000028 gen_random_mac_address
+8002bb80 g     F .text	0000004a minip_init
+8002bbcc g     F .text	00000014 ipv4_payload_len
+8002bbe0 g     F .text	00000028 minip_build_mac_hdr
+8002bc08 g     F .text	00000048 minip_build_ipv4_hdr
+8002bc50 g     F .text	000000ce send_arp_request
+8002bd20 g     F .text	0000007a get_dest_mac
+8002bd9c g     F .text	000000c0 minip_ipv4_send
+8002be5c g     F .text	000000da send_ping_reply
+8002bf38 l     F .text	000000f2 handle_ipv4_packet
+8002c02c g     F .text	00000070 minip_rx_driver_callback
+8002c09c g     F .text	00000080 minip_parse_ipaddr
+8002c11c g     F .text	0000009c net_timer_work_thread
+8002c1b8 g     F .text	000000b4 net_timer_set
+8002c26c g     F .text	00000040 net_timer_cancel
+8002c2ac g     F .text	00000030 net_timer_init
+8002c2dc l     F .text	00000084 pktbuf_init
+8002c360 l     F .text	00000090 free_pool_object
+8002c3f0 l     F .text	00000004 free_pktbuf_buf_cb
+8002c3f4 l     F .text	0000005c get_pool_object
+8002c450 g     F .text	000000b4 pktbuf_add_buffer
+8002c504 g     F .text	0000005a pktbuf_alloc
+8002c560 g     F .text	00000010 pktbuf_alloc_empty
+8002c570 g     F .text	00000046 pktbuf_free
+8002c5b8 g     F .text	00000040 pktbuf_append_data
+8002c5f8 g     F .text	00000034 pktbuf_append
+8002c62c g     F .text	0000002e pktbuf_prepend
+8002c65c g     F .text	0000001a pktbuf_consume
+8002c678 g     F .text	00000012 pktbuf_consume_tail
+8002c68c g     F .text	00000034 pktbuf_dump
+8002c6c0 l     F .text	000000a2 create_tcp_socket
+8002c764 l     F .text	000000c2 remove_socket_from_list
+8002c828 l     F .text	0000007a inc_socket_ref
+8002c8a4 l     F .text	00000078 tcp_wakeup_waiters
+8002c91c l     F .text	00000090 add_socket_to_list
+8002c9ac l     F .text	00000072 tcp_timer_set
+8002ca20 l     F .text	00000084 dec_socket_ref
+8002caa4 l     F .text	00000092 handle_time_wait_timeout
+8002cb38 l     F .text	0000006e tcp_timer_cancel
+8002cba8 l     F .text	0000013a handle_ack
+8002cce4 l     F .text	000000b6 tcp_remote_close
+8002cd9c l     F .text	000001ea tcp_send
+8002cf88 l     F .text	000001a6 tcp_socket_send
+8002d130 l     F .text	000000e4 handle_retransmit_timeout
+8002d214 l     F .text	0000008a send_ack
+8002d2a0 l     F .text	0000005e handle_delayed_ack_timeout
+8002d300 g     F .text	0000065c tcp_input
+8002d95c g     F .text	00000038 tcp_open_listen
+8002d994 g     F .text	000000a8 tcp_accept_timeout
+8002da3c g     F .text	000000d0 tcp_read
+8002db0c g     F .text	00000274 tcp_write
+8002dd80 g     F .text	000000d4 tcp_close
+8002de54 l     F .text	000002d4 cmd_tcp
+8002e128 g     F .text	0000008a udp_listen
+8002e1b4 g     F .text	0000005c udp_open
+8002e210 g     F .text	00000016 udp_close
+8002e228 g     F .text	000000fa udp_send_iovec
+8002e324 g     F .text	0000002a udp_send
+8002e350 g     F .text	00000062 udp_input
+8002e3b4 l     F .text	000000ba dump_tcp_header
+8002e470 g     F .text	00000078 print_version
+8002e4e8 l     F .text	0000000e cmd_version
+8002e500  w    F .text	00000002 platform_init_mmu_mappings
+8002e50c  w    F .text	00000002 platform_quiesce
+8002e510  w    F .text	00000032 platform_halt
+8002e544 l     F .text	0000000e cmd_poweroff
+8002e554 l     F .text	0000000e cmd_reboot
+8002e564  w    F .text	00000002 target_early_init
+8002e568  w    F .text	00000002 target_init
+8002e56c  w    F .text	00000002 target_set_led
+8002e570  w    F .text	00000002 target_quiesce
+8002e574 g     F .text	00000002 virtio_init
+8002e578 l     F .text	000000ea virtio_mmio_irq
+8002e664 g     F .text	00000056 virtio_dump_desc
+8002e6bc g     F .text	000001e6 virtio_mmio_detect
+8002e8a4 g     F .text	00000024 virtio_free_desc
+8002e8c8 g     F .text	00000074 virtio_alloc_desc
+8002e93c g     F .text	000000a4 virtio_alloc_desc_chain
+8002e9e0 g     F .text	00000022 virtio_submit_chain
+8002ea04 g     F .text	0000000a virtio_kick
+8002ea10 g     F .text	000001c6 virtio_alloc_ring
+8002ebd8 g     F .text	00000008 virtio_reset_device
+8002ebe0 g     F .text	0000000c virtio_status_acknowledge_driver
+8002ebec g     F .text	0000000c virtio_status_driver_ok
+8002ebf8 g     F .text	0000001c boot_alloc_mem
+8002ec14 l     F .text	00000200 pmm_alloc_contiguous.part.0
+8002ee14 g     F .text	00000056 vm_page_to_paddr
+8002ee6c l     F .text	00000024 dump_page
+8002ee90 g     F .text	00000046 paddr_to_vm_page
+8002eed8 g     F .text	00000130 pmm_add_arena
+8002f008 g     F .text	0000009c pmm_alloc_pages
+8002f0a4 g     F .text	0000015c pmm_alloc_range
+8002f200 g     F .text	000000e8 pmm_free
+8002f2e8 g     F .text	00000020 pmm_free_page
+8002f308 g     F .text	0000002c pmm_alloc_kpages
+8002f334 l     F .text	000003dc cmd_pmm
+8002f710 g     F .text	0000004a pmm_free_kpages
+8002f75c g     F .text	00000008 pmm_alloc_contiguous
+8002f764 l     F .text	0000007c mark_pages_in_use
+8002f7e0 l     F .text	00000044 vm_init_preheap
+8002f824 l     F .text	0000004a vm_init_postheap
+8002f870 g     F .text	00000010 kvaddr_get_range
+8002f880 g     F .text	00000052 paddr_to_kvaddr
+8002f8d4 l     F .text	000001ee cmd_vm
+8002fac4 g     F .text	0000004c vaddr_to_paddr
+8002fb10 g     F .text	00000026 vaddr_to_aspace
+8002fb38 g     F .text	00000066 vmm_init_preheap
+8002fba0 g     F .text	00000002 vmm_init
+8002fba4  w    F .text	0000000c arch_mmu_pick_spot
+8002fbb0 l     F .text	000002d8 alloc_region
+8002fe88 g     F .text	00000124 vmm_reserve_space
+8002ffac g     F .text	0000014c vmm_alloc_physical
+800300f8 g     F .text	00000150 vmm_alloc_contiguous
+80030248 g     F .text	00000210 vmm_alloc
+80030458 g     F .text	000000bc vmm_free_region
+80030514 g     F .text	000000b8 vmm_create_aspace
+800305cc g     F .text	00000054 vmm_context_switch
+80030620 g     F .text	00000150 vmm_free_aspace
+80030770 l     F .text	000003a8 cmd_vmm
+80030b18 g     F .text	000000a6 vmm_set_active_aspace
+80030bc0 l     F .text	00000026 check_gap.part.5
+80030be8 l     F .text	0000007c find_block
+80030c64 l     F .text	0000003c flush_block
+80030ca0 l     F .text	00000084 alloc_block
+80030d24 l     F .text	000000b6 find_or_fill_block
+80030ddc g     F .text	000000a2 bcache_create
+80030e80 g     F .text	00000098 bcache_destroy
+80030f18 g     F .text	0000002c bcache_read_block
+80030f44 g     F .text	0000004e bcache_get_block
+80030f94 g     F .text	0000006a bcache_put_block
+80031000 g     F .text	0000001c bcache_mark_block_dirty
+8003101c g     F .text	0000003c bcache_zero_block
+80031058 g     F .text	00000036 bcache_flush
+80031090 g     F .text	00000066 bcache_dump
+800310f8 l     F .text	00000006 bio_default_read_block
+80031100 l     F .text	00000006 bio_default_write_block
+80031108 l     F .text	00000094 bdev_dec_ref
+8003119c g     F .text	00000052 bio_trim_range
+800311f0 g     F .text	0000001a bio_trim_block_range
+8003120c g     F .text	000000a0 bio_open
+800312ac g     F .text	00000038 bio_close
+800312e4 g     F .text	000000b4 bio_read
+80031398 g     F .text	00000092 bio_read_block
+8003142c l     F .text	00000180 bio_default_read
+800315ac g     F .text	000000b4 bio_write
+80031660 l     F .text	000000a4 bio_default_erase
+80031704 g     F .text	00000092 bio_write_block
+80031798 l     F .text	000001ae bio_default_write
+80031948 g     F .text	0000008c bio_erase
+800319d4 g     F .text	00000014 bio_ioctl
+800319e8 g     F .text	00000128 bio_initialize_bdev
+80031b10 g     F .text	0000007c bio_register_device
+80031b8c g     F .text	00000064 bio_unregister_device
+80031bf0 g     F .text	000000d8 bio_dump_devices
+80031cc8 l     F .text	0000006a is_valid_block.constprop.1
+80031d34 l     F .text	0000093c cmd_bio
+80032670 l     F .text	00000018 mem_bdev_write_block
+80032688 l     F .text	00000016 mem_bdev_write
+800326a0 l     F .text	0000001e mem_bdev_read_block
+800326c0 l     F .text	00000018 mem_bdev_read
+800326d8 g     F .text	00000076 create_membdev
+80032750 l     F .text	00000014 subdev_close
+80032764 l     F .text	0000001c subdev_erase
+80032780 l     F .text	00000012 subdev_write_block
+80032794 l     F .text	00000020 subdev_write
+800327b4 l     F .text	00000012 subdev_read_block
+800327c8 l     F .text	00000020 subdev_read
+800327e8 g     F .text	0000029c bio_publish_subdevice
+80032a84 l     F .text	0000006c fetch_next_line
+80032af0 l     F .text	00000018 cmd_echo
+80032b08 l     F .text	0000005c cmd_history
+80032b64 l     F .text	0000005e cmd_test
+80032bc4 l     F .text	00000060 cmd_help_impl
+80032c24 l     F .text	00000004 cmd_help_panic
+80032c28 l     F .text	00000004 cmd_help
+80032c2c l     F .text	0000022c read_debug_line
+80032e58 l     F .text	00000064 match_command
+80032ebc l     F .text	000000b8 convert_args
+80032f74 l     F .text	000003a8 command_loop
+8003331c l     F .text	0000004c console_run_script_etc
+80033368 l     F .text	000000ea cmd_repeat
+80033454 g     F .text	0000000e console_abort_script
+80033464 g     F .text	00000050 console_start
+800334b4 g     F .text	00000004 console_run_script
+800334b8 g     F .text	00000004 console_run_script_locked
+800334bc g     F .text	00000012 console_get_command_handler
+800334d0 g     F .text	00000068 console_register_commands
+80033538 g     F .text	00000054 console_init
+8003358c g     F .text	00000124 panic_shell_start
+800336b0 l     F .text	00000022 __panic_stdio_write
+800336d4 l     F .text	0000001e __panic_stdio_read
+800336f4 g     F .text	0000002e spin
+80033724 g     F .text	00000030 _panic
+80033754 g     F .text	0000000a get_panic_fd
+80033760 g     F .text	00000102 hexdump
+80033864 g     F .text	0000010a hexdump8_ex
+80033970 l     F .text	0000002a ARGB8888_to_Luma
+8003399c l     F .text	00000016 ARGB8888_to_RGB565
+800339b4 l     F .text	00000016 ARGB8888_to_RGB332
+800339cc l     F .text	0000001a ARGB8888_to_RGB2220
+800339e8 l     F .text	00000020 putpixel16
+80033a08 l     F .text	00000016 putpixel32
+80033a20 l     F .text	0000001e putpixel8
+80033a40 l     F .text	000000a2 copyrect8
+80033ae4 l     F .text	0000004e fillrect8
+80033b34 l     F .text	000000be copyrect16
+80033bf4 l     F .text	00000054 fillrect16
+80033c48 l     F .text	000000be copyrect32
+80033d08 l     F .text	0000004c fillrect32
+80033d54 g     F .text	00000080 gfx_copyrect
+80033dd4 g     F .text	00000052 gfx_fillrect
+80033e28 g     F .text	0000001c gfx_putpixel
+80033e44 g     F .text	000000f4 gfx_line
+80033f38 g     F .text	00000072 alpha32_add_ignore_destalpha
+80033fac g     F .text	0000020c gfx_surface_blend
+800341b8 g     F .text	0000001e gfx_flush
+800341d8 g     F .text	00000050 gfx_flush_rows
+80034228 g     F .text	0000024a gfx_create_surface
+80034474 g     F .text	00000086 gfx_create_surface_from_display
+800344fc g     F .text	0000001e gfx_surface_destroy
+8003451c g     F .text	00000086 gfx_draw_pattern
+800345a4 l     F .text	00000334 cmd_gfx
+800348d8 g     F .text	0000005e gfx_draw_pattern_white
+80034938 l     F .text	00000022 dump_callback.6254
+8003495c g     F .text	00000002 heap_init
+80034960 g     F .text	00000026 heap_trim
+80034988 g     F .text	00000050 malloc
+800349d8 g     F .text	00000066 memalign
+80034a40 g     F .text	00000066 calloc
+80034aa8 g     F .text	00000066 realloc
+80034b10 g     F .text	00000030 free
+80034b40 l     F .text	000004f8 cmd_heap
+80035038 g     F .text	00000074 heap_delayed_free
+800350ac l     F .text	0000006c cmd_page_alloc
+80035118 g     F .text	00000006 page_alloc
+80035120 g     F .text	0000003c page_free
+8003515c g     F .text	00000014 page_get_arenas
+80035170 g     F .text	0000000e page_first_alloc
+80035180 g     F .text	00000004 operator new(unsigned int)
+80035184 g     F .text	00000004 operator new[](unsigned int)
+80035188 g     F .text	00000004 operator new(unsigned int, void*)
+8003518c g     F .text	00000004 operator delete(void*)
+80035190 g     F .text	00000004 operator delete[](void*)
+80035194 l     F .text	00000086 heap_free_delayed_list
+8003521c g     F .text	0000002e iovec_size
+8003524c g     F .text	00000084 iovec_to_membuf
+800352d0 l     F .text	0000002c hexval
+800352fc g     F .text	0000008e atol
+8003538c g     F .text	00000004 atoi
+80035390 g     F .text	0000007a atoul
+8003540c g     F .text	00000004 atoui
+80035410 g     F .text	000000b4 atoull
+800354c4 g     F .text	00000102 strtoul
+800355c8 g     F .text	00000068 bsearch
+80035630 g     F .text	0000000e isblank
+80035640 g     F .text	00000014 isspace
+80035654 g     F .text	0000000c islower
+80035660 g     F .text	0000000c isupper
+8003566c g     F .text	0000000c isdigit
+80035678 g     F .text	00000010 isalpha
+80035688 g     F .text	0000001a isalnum
+800356a4 g     F .text	0000001c isxdigit
+800356c0 g     F .text	0000000c isgraph
+800356cc g     F .text	0000000e iscntrl
+800356dc g     F .text	0000000c isprint
+800356e8 g     F .text	00000022 ispunct
+8003570c g     F .text	0000000c tolower
+80035718 g     F .text	0000000c toupper
+80035724 g     F .text	0000000a __geterrno
+80035730 l     F .text	0000003a _vsnprintf_output
+8003576c l     F .text	000000c0 longlong_to_string
+8003582c l     F .text	00000072 exponent_to_string
+800358a0 l     F .text	0000032c double_to_hexstring.isra.0
+80035bcc l     F .text	00000050 longlong_to_hexstring.constprop.1
+80035c1c l     F .text	0000032c double_to_string.constprop.2
+80035f48 g     F .text	0000068a _printf_engine
+800365d4 g     F .text	0000003e vsnprintf
+80036614 g     F .text	00000024 snprintf
+80036638 g     F .text	0000000c vsprintf
+80036644 g     F .text	00000028 sprintf
+80036670 g     F .text	0000000c srand
+8003667c g     F .text	00000026 rand_add_entropy
+800366a4 g     F .text	00000022 rand
+800366c8 g     F .text	0000019a strtol
+80036864 g     F .text	00000254 strtoll
+80036ab8 l     F .text	00000016 _fprintf_output_func
+80036ad0 g     F .text	0000001e fputc
+80036af0 g     F .text	00000024 putchar
+80036b14 g     F .text	00000026 fputs
+80036b3c g     F .text	0000002e puts
+80036b6c g     F .text	0000003c fwrite
+80036ba8 g     F .text	00000022 getc
+80036bcc g     F .text	0000000c getchar
+80036bd8 g     F .text	00000022 vfprintf
+80036bfc g     F .text	0000002e fprintf
+80036c2c g     F .text	00000034 _printf
+80036c60 g     F .text	00000020 _vprintf
+80036c80 g     F .text	00000594 qsort
+80037214 g     F .text	00000004 __aeabi_unwind_cpp_pr0
+80037218 g     F .text	00000004 __aeabi_unwind_cpp_pr1
+8003721c g     F .text	00000004 __aeabi_unwind_cpp_pr2
+80037220 g     F .text	00000002 raise
+80037224 g     F .text	0000000a __aeabi_atexit
+80037230 g     F .text	00000004 atexit
+80037234 g     F .text	00000030 memchr
+80037264 g     F .text	00000040 memcmp
+800372a4 g     F .text	0000002a strcat
+800372d0 g     F .text	00000030 strchr
+80037300 g     F .text	0000001e strcmp
+80037320 g     F .text	00000004 strcoll
+80037324 g     F .text	00000010 strcpy
+80037334 g     F .text	00000028 strdup
+8003735c g     F .text	0000001a strerror
+80037378 g     F .text	0000006e strlcat
+800373e8 g     F .text	00000054 strlcpy
+8003743c g     F .text	00000018 strlen
+80037454 g     F .text	0000004e strncat
+800374a4 g     F .text	0000001e strncpy
+800374c4 g     F .text	00000050 strncmp
+80037514 g     F .text	0000005c strnicmp
+80037514  w    F .text	0000005c strncasecmp
+80037570 g     F .text	0000003c strnlen
+800375ac g     F .text	00000034 strpbrk
+800375e0 g     F .text	0000001c strrchr
+800375fc g     F .text	00000052 strspn
+80037650 g     F .text	0000004c strstr
+8003769c g     F .text	00000052 strtok
+800376f0 g     F .text	0000003a strxfrm
+8003772c g     F .text	00000014 __cxa_pure_virtual
+80037740 g     F .text	00000004 __cxa_atexit
+80037744 g     F .text	00000000 bcopy
+80037750 g     F .text	00000000 memcpy
+80037750 g     F .text	00000000 memmove
+80037850 g     F .text	00000000 bzero
+80037858 g     F .text	00000000 memset
+800378ec g     F .text	0000003c pool_alloc
+80037928 g     F .text	0000005a pool_free
+80037984 g     F .text	000000e0 pool_init
+80037a64 l     F .text	00000046 send_error
+80037aac l     F .text	00000116 udp_svc_callback
+80037bc4 l     F .text	00000030 end_transfer
+80037bf4 l     F .text	000000a8 udp_wrq_callback
+80037c9c g     F .text	00000106 tftp_set_write_client
+80037da4 g     F .text	00000010 tftp_server_init
+80037db4 l     F .text	00000078 init_mparams
+80037e2c l     F .text	0000023c release_unused_segments
+80038068 l     F .text	00000160 sys_trim
+800381c8 l     F .text	000005aa dispose_chunk
+80038774 l     F .text	00000340 try_realloc_chunk.isra.4.constprop.18
+80038ab4 g     F .text	000013a8 dlmalloc
+80039e5c l     F .text	0000021c ialloc.constprop.8
+8003a078 l     F .text	00000234 internal_memalign.constprop.9
+8003a2ac g     F .text	000006ac dlfree
+8003a958 g     F .text	0000003e dlcalloc
+8003a998 g     F .text	000000d8 dlrealloc
+8003aa70 g     F .text	00000078 dlrealloc_in_place
+8003aae8 g     F .text	0000000e dlmemalign
+8003aaf8 g     F .text	0000005c dlposix_memalign
+8003ab54 g     F .text	0000002e dlvalloc
+8003ab84 g     F .text	00000034 dlpvalloc
+8003abb8 g     F .text	0000001c dlindependent_calloc
+8003abd4 g     F .text	00000008 dlindependent_comalloc
+8003abdc g     F .text	000000f8 dlbulk_free
+8003acd4 g     F .text	000000f4 dlmalloc_inspect_all
+8003adc8 g     F .text	00000060 dlmalloc_trim
+8003ae28 g     F .text	0000000e dlmalloc_footprint
+8003ae38 g     F .text	0000000e dlmalloc_max_footprint
+8003ae48 g     F .text	00000016 dlmalloc_footprint_limit
+8003ae60 g     F .text	00000026 dlmalloc_set_footprint_limit
+8003ae88 g     F .text	0000015c dlmallinfo
+8003afe4 g     F .text	00000130 dlmalloc_stats
+8003b114 g     F .text	00000058 dlmallopt
+8003b16c g     F .text	00000022 dlmalloc_usable_size
+8003b190 l     F .text	00000028 mmap.part.2
+8003b1b8 l     F .text	00000028 munmap.part.3
+8003b1e0 g     F .text	00000014 console_init_hook
+8003b1f4 l     F .text	00000014 __debug_stdio_read
+8003b208 l     F .text	00000080 __debug_stdio_write
+8003b288 g     F .text	00000060 register_print_callback
+8003b2e8 g     F .text	00000058 unregister_print_callback
+8003b340 g     F .text	00000054 io_write
+8003b394 g     F .text	00000054 io_read
+8003b3e8 g     F .text	00000000 .hidden __aeabi_drsub
+8003b3f0 g     F .text	0000027a .hidden __aeabi_dsub
+8003b3f0 g     F .text	0000027a .hidden __subdf3
+8003b3f4 g     F .text	00000276 .hidden __adddf3
+8003b3f4 g     F .text	00000276 .hidden __aeabi_dadd
+8003b66c g     F .text	0000001e .hidden __aeabi_ui2d
+8003b66c g     F .text	0000001e .hidden __floatunsidf
+8003b68c g     F .text	00000022 .hidden __aeabi_i2d
+8003b68c g     F .text	00000022 .hidden __floatsidf
+8003b6b0 g     F .text	0000003a .hidden __aeabi_f2d
+8003b6b0 g     F .text	0000003a .hidden __extendsfdf2
+8003b6ec g     F .text	0000006a .hidden __aeabi_ul2d
+8003b6ec g     F .text	0000006a .hidden __floatundidf
+8003b6fc g     F .text	0000005a .hidden __aeabi_l2d
+8003b6fc g     F .text	0000005a .hidden __floatdidf
+8003b758 g     F .text	00000000 .hidden __aeabi_ldivmod
+8003b790 g     F .text	00000000 .hidden __aeabi_uldivmod
+8003b7bc g     F .text	00000030 .hidden __gnu_ldivmod_helper
+8003b7ec g     F .text	00000030 .hidden __gnu_uldivmod_helper
+8003b81c  w    F .text	00000002 .hidden __aeabi_idiv0
+8003b81c  w    F .text	00000002 .hidden __aeabi_ldiv0
+8003b820 g     F .text	00000354 .hidden __divdi3
+8003bb74 g     F .text	00000300 .hidden __udivdi3
+8003be78 g     F .text	00000000 .hidden __aeabi_uidiv
+8003be78 g     F .text	0000025c .hidden __udivsi3
+8003be78 l       .text	00000000 .udivsi3_skip_div0_test
+8003c0d4 g     F .text	0000001a .hidden __aeabi_uidivmod
+8003c0f0 l     F .text	00000008 __lk_secondary_cpu_entry_from_arm
+8003c0f8 l     F .text	00000008 __thread_preempt_from_arm
+8003c100 l     F .text	00000008 __arm_mmu_init_from_arm
+8003c108 l     F .text	00000008 __arch_spin_unlock_from_thumb
+8003c110 l     F .text	00000008 __memcpy_from_thumb
+8003c118 l     F .text	00000008 __arm_context_switch_from_thumb
+8003c120 l     F .text	00000008 __memset_from_thumb
+8003c128 g       .text	00000000 __exidx_start
+8003c128 l    d  .ARM.exidx	00000000 .ARM.exidx
+8003c130 g       .ARM.exidx	00000000 __exidx_end
+8003c130 g       .rodata	00000000 __fault_handler_table_end
+8003c130 g       .rodata	00000000 __fault_handler_table_start
+8003c130 g       .rodata	00000000 __rodata_start
+8003c130 l    d  .rodata	00000000 .rodata
+8003c130 l     O .rodata	0000000e __PRETTY_FUNCTION__.6963
+8003c130 l       .rodata	00000000 .LANCHOR1
+8003c198 l     O .rodata	00000010 _cmd_list
+8003c1a8 l     O .rodata	0000000f __PRETTY_FUNCTION__.6209
+8003c1a8 l       .rodata	00000000 .LANCHOR1
+8003c1b8 l     O .rodata	0000000d __PRETTY_FUNCTION__.6277
+8003c1c8 l     O .rodata	0000000f __PRETTY_FUNCTION__.6302
+8003cba0 l     O .rodata	0000000c __PRETTY_FUNCTION__.6260
+8003cba0 l       .rodata	00000000 .LANCHOR0
+8003cbac l     O .rodata	0000000f __PRETTY_FUNCTION__.6242
+8003cbbc l     O .rodata	0000000f __PRETTY_FUNCTION__.6221
+8003cbcc l     O .rodata	0000000f __PRETTY_FUNCTION__.6215
+8003cbdc l     O .rodata	0000000f __PRETTY_FUNCTION__.6232
+8003cbec l     O .rodata	0000000c __PRETTY_FUNCTION__.6251
+8003ce94 l     O .rodata	00000010 _cmd_list
+8003d180 g     O .rodata	00000004 ITER
+8003d184 g     O .rodata	00000004 BUFSIZE
+8003d188 l     O .rodata	00000010 _cmd_list
+8003d198 l     O .rodata	00000010 _cmd_list
+8003d1a8 l     O .rodata	00000010 pat.5740
+8003d1b8 l     O .rodata	00000010 _cmd_list
+8003d1c8 l     O .rodata	00000128 float_test_vec
+8003d1c8 l       .rodata	00000000 .LANCHOR0
+8003d2f0 l     O .rodata	00000090 _cmd_list
+8003d380 l     O .rodata	0000000e __PRETTY_FUNCTION__.5890
+8003d380 l       .rodata	00000000 .LANCHOR0
+8003d390 l       .rodata	00000000 .LANCHOR1
+8003f1fc l     O .rodata	00000010 __PRETTY_FUNCTION__.4383
+8003f1fc l       .rodata	00000000 .LANCHOR0
+8003f20c l     O .rodata	00000010 __PRETTY_FUNCTION__.4393
+8003f2c0 l     O .rodata	00000080 gicd_itargetsr
+8003f2c0 l       .rodata	00000000 .LANCHOR1
+8003f340 l     O .rodata	00000013 __func__.6069
+8003f354 l     O .rodata	0000000d __PRETTY_FUNCTION__.6140
+8003f408 l     O .rodata	00000022 __PRETTY_FUNCTION__.5974
+8003f408 l       .rodata	00000000 .LANCHOR1
+8003f42c l     O .rodata	00000017 __PRETTY_FUNCTION__.6010
+8003f5ac l     O .rodata	00000011 __PRETTY_FUNCTION__.6698
+8003f5ac l       .rodata	00000000 .LANCHOR1
+8003f5c0 l     O .rodata	00000010 __PRETTY_FUNCTION__.6754
+8003f708 l     O .rodata	0000001f __PRETTY_FUNCTION__.6655
+8003f708 l       .rodata	00000000 .LANCHOR0
+8003f728 l     O .rodata	0000001a __PRETTY_FUNCTION__.6686
+8003f744 l     O .rodata	0000001b __PRETTY_FUNCTION__.6632
+8003f988 l     O .rodata	00000030 _cmd_list
+8003f9b8 l     O .rodata	00000018 CSWTCH.75
+8003f9b8 l       .rodata	00000000 .LANCHOR1
+80040230 l     O .rodata	00000028 rcon
+80040230 l       .rodata	00000000 .LANCHOR0
+80040258 l     O .rodata	00000400 Te4
+80040658 l     O .rodata	00000400 Td3
+80040a58 l     O .rodata	00000400 Td0
+80040e58 l     O .rodata	00000400 Td1
+80041258 l     O .rodata	00000400 Td2
+80041328 l       .rodata	00000000 .LANCHOR1
+80041658 l     O .rodata	00000400 Te0
+80041a58 l     O .rodata	00000400 Te3
+80041e58 l     O .rodata	00000400 Te1
+80042258 l     O .rodata	00000400 Te2
+80042420 l       .rodata	00000000 .LANCHOR2
+80042658 l     O .rodata	00000400 Td4
+80042a58 l     O .rodata	00000010 key
+80042a58 l       .rodata	00000000 .LANCHOR0
+80042a68 l     O .rodata	00000010 plaintext
+80042a78 l     O .rodata	0000000c __PRETTY_FUNCTION__.5911
+80042a84 l     O .rodata	00000010 expected_ciphertext
+80042a94 l     O .rodata	00000020 _cmd_list
+80042c9c l     O .rodata	00000400 crc_table
+80042c9c l       .rodata	00000000 .LANCHOR0
+8004309c l     O .rodata	00000040 _cmd_list
+800431c8 l     O .rodata	00000100 _cmd_list
+80043654 l     O .rodata	00000034 fdt_errtable
+80043654 l       .rodata	00000000 .LANCHOR0
+800437dc l     O .rodata	00000010 _cmd_list
+800437ec l     O .rodata	00000080 _cmd_list
+80043cb8 l     O .rodata	00000044 ext2_api
+80043d20 l     O .rodata	00000044 fat32_api
+80043d64 l     O .rodata	00000010 __PRETTY_FUNCTION__.4958
+80043d64 l       .rodata	00000000 .LANCHOR0
+8004400c l     O .rodata	00000044 memfs_api
+80044058 l     O .rodata	00000020 empty.6640
+80044058 l       .rodata	00000000 .LANCHOR0
+80044078 l     O .rodata	00000044 spifs_api
+80044200 l     O .rodata	0000009c tests
+80044200 l       .rodata	00000000 .LANCHOR0
+8004429c l     O .rodata	00000010 _cmd_list
+80044920 l     O .rodata	00000010 init_jk
+80044920 l       .rodata	00000000 .LANCHOR0
+80044930 l     O .rodata	00000108 ipio2
+80044a38 l     O .rodata	00000040 PIo2
+80044a78 l     O .rodata	00000010 bp
+80044a78 l       .rodata	00000000 .LANCHOR0
+80044a88 l     O .rodata	00000010 dp_l
+80044a98 l     O .rodata	00000010 dp_h
+80044aa8 l     O .rodata	00000008 bp
+80044aa8 l       .rodata	00000000 .LANCHOR0
+80044ab0 l     O .rodata	00000008 dp_l
+80044ab8 l     O .rodata	00000008 dp_h
+80044ac0 l     O .rodata	00000010 Zero
+80044ac0 l       .rodata	00000000 .LANCHOR0
+80044ad0 l     O .rodata	00000010 ln2HI
+80044ad0 l       .rodata	00000000 .LANCHOR1
+80044ae0 l     O .rodata	00000010 ln2LO
+80044af0 l     O .rodata	00000010 halF
+80044b00 l     O .rodata	00000020 atanlo
+80044b00 l       .rodata	00000000 .LANCHOR0
+80044b20 l     O .rodata	00000020 atanhi
+80044b40 l     O .rodata	00000006 bcast_mac
+80044b40 l       .rodata	00000000 .LANCHOR2
+80044b48 l     O .rodata	00000020 _cmd_list
+80044b68 l     O .rodata	00000006 bcast_mac
+80044b68 l       .rodata	00000000 .LANCHOR2
+80044b70 l     O .rodata	00000006 broadcast_mac
+80044b78 l     O .rodata	0000000a __PRETTY_FUNCTION__.6748
+80044b78 l       .rodata	00000000 .LANCHOR2
+80044b84 l     O .rodata	00000028 CSWTCH.28
+80044bac l     O .rodata	0000000c __PRETTY_FUNCTION__.6780
+80044bb8 l     O .rodata	0000000a __PRETTY_FUNCTION__.6908
+80044bc4 l     O .rodata	00000010 _cmd_list
+80045570 l     O .rodata	00000010 _cmd_list
+80045580 g     O .rodata	00000018 version
+8004563c l     O .rodata	00000020 _cmd_list
+80045808 l     O .rodata	00000010 _cmd_list
+80045818 l     O .rodata	00000010 _cmd_list
+80045828 l     O .rodata	00000010 _cmd_list
+800461e4 l     O .rodata	0000000d __PRETTY_FUNCTION__.6376
+800461e4 l       .rodata	00000000 .LANCHOR0
+800461f4 l     O .rodata	00000010 _cmd_list
+80046a78 l     O .rodata	0000000d __func__.6397
+80046a78 l       .rodata	00000000 .LANCHOR2
+80046a88 l     O .rodata	00000060 _cmd_list
+80046d40 l     O .rodata	00000008 panic_hooks.5921
+80046d90 l     O .rodata	00000010 _cmd_list
+80047080 l     O .rodata	00000010 _cmd_list
+80047090 l     O .rodata	00000010 _cmd_list
+80047444 l     O .rodata	00000010 hextable_caps
+80047444 l       .rodata	00000000 .LANCHOR0
+80047454 l     O .rodata	00000010 hextable
+80047ba8 l     O .rodata	00000008 console_io_hooks
+80047be4 g       .fs_impls	00000000 __fs_impl_start
+80047be4 g     O .fs_impls	00000008 __fs_impl_ext2
+80047be4 l    d  .fs_impls	00000000 .fs_impls
+80047bec g     O .fs_impls	00000008 __fs_impl_fat32
+80047bf4 g     O .fs_impls	00000008 __fs_impl_memfs
+80047bfc g     O .fs_impls	00000008 __fs_impl_spifs
+80047c04 g       .apps	00000000 __apps_start
+80047c04 g       .apps	00000000 __drivers
+80047c04 g       .apps	00000000 __drivers_end
+80047c04 g       .fs_impls	00000000 __fs_impl_end
+80047c04 g     O .apps	00000014 _app_inetsrv
+80047c04 l    d  .apps	00000000 .apps
+80047c18 g     O .apps	00000014 _app_shell
+80047c2c g     O .apps	00000014 _app_stringtests
+80047c40 g     O .apps	00000014 _app_tests
+80047c54 g       .apps	00000000 __apps_end
+80047c54 g       .lk_init	00000000 __lk_init
+80047c54 g     O .lk_init	00000010 _init_struct_arm_gic_resume_cpu
+80047c54 l    d  .lk_init	00000000 .lk_init
+80047c64 g     O .lk_init	00000010 _init_struct_arm_gic_suspend_cpu
+80047c74 g     O .lk_init	00000010 _init_struct_arm_gic_init_percpu
+80047c84 g     O .lk_init	00000010 _init_struct_arm_generic_timer_resume_cpu
+80047c94 g     O .lk_init	00000010 _init_struct_arm_generic_timer_init_secondary_cpu
+80047ca4 g     O .lk_init	00000010 _init_struct_pktbuf
+80047cb4 g     O .lk_init	00000010 _init_struct_version
+80047cc4 g     O .lk_init	00000010 _init_struct_virtio
+80047cd4 g     O .lk_init	00000010 _init_struct_vm
+80047ce4 g     O .lk_init	00000010 _init_struct_vm_preheap
+80047cf4 g     O .lk_init	00000010 _init_struct_console
+80047d04 g       .data	00000000 __rodata_end
+80047d04 g       .lk_init	00000000 __lk_init_end
+80047d08 g       .data	00000000 __data_start
+80047d08 g       .data	00000000 __data_start_rom
+80047d08 l       .data	00000000 .LANCHOR0
+80047d08 l    d  .data	00000000 .data
+80047d08 l     O .data	0000002c arena
+80047d34 g     O .data	0000003c mmu_initial_mappings
+80047d70 g     O .data	00000000 __arm_in_handler
+80047d74 g     O .data	00000004 arm_boot_cpu_lock
+80047d74 l       .data	00000000 .LANCHOR1
+80047d78 l       .data	00000000 .LANCHOR2
+80047d78 l     O .data	0000001c imutex.5803
+80047d94 l     O .data	0000001c ievent.5842
+80047db0 l     O .data	00000018 isem.5774
+80047dc8 g     O .data	00000004 context1
+80047dc8 l       .data	00000000 .LANCHOR2
+80047dcc l     O .data	00000000 float_test_scratch
+80047dd4 l       .data	00000000 .LANCHOR0
+80047dd4 l     O .data	0000001c mount_lock
+80047df0 l     O .data	00000008 mounts
+80047df8 l       .data	00000000 .LANCHOR0
+80047df8 l     O .data	00000008 huge
+80047e00 l     O .data	00000008 twom1000
+80047e08 l       .data	00000000 .LANCHOR0
+80047e08 l     O .data	00000008 tiny
+80047e10 l     O .data	00000008 pi_lo
+80047e18 l       .data	00000000 .LANCHOR1
+80047e18 l     O .data	0000001c arp_mutex
+80047e34 l       .data	00000000 .LANCHOR1
+80047e34 l     O .data	00000006 minip_mac
+80047e3c l     O .data	00000004 minip_broadcast
+80047e40 l       .data	00000000 .LANCHOR0
+80047e40 l     O .data	0000001c net_timer_event
+80047e5c l     O .data	0000001c net_timer_lock
+80047e78 l     O .data	00000008 net_timer_list
+80047e80 l       .data	00000000 .LANCHOR0
+80047e80 l     O .data	0000001c tcp_socket_list_lock
+80047e9c l     O .data	00000008 tcp_socket_list
+80047ea4 l       .data	00000000 .LANCHOR0
+80047ea4 l     O .data	00000008 udp_list
+80047eac g     O .data	00000004 boot_alloc_end
+80047eac l       .data	00000000 .LANCHOR0
+80047eb0 g     O .data	00000004 boot_alloc_start
+80047eb4 l       .data	00000000 .LANCHOR0
+80047eb4 l     O .data	0000001c lock
+80047ed0 l     O .data	00000008 arena_list
+80047ed8 l     O .data	00000008 allocated.6519
+80047ee0 l       .data	00000000 .LANCHOR1
+80047ee0 l     O .data	00000008 aspace_list
+80047ee8 l     O .data	0000001c vmm_lock
+80047f04 l       .data	00000000 .LANCHOR1
+80047f04 l     O .data	00000024 bdevs
+80047f28 l       .data	00000000 .LANCHOR0
+80047f28 l     O .data	00000001 echo
+80047f2c l       .data	00000000 .LANCHOR0
+80047f2c l     O .data	00000004 panic_fd.5923
+80047f30 l     O .data	00000008 panic_io.5922
+80047f38 g     O .data	00000008 delayed_free_list
+80047f38 l       .data	00000000 .LANCHOR1
+80047f40 l       .data	00000000 .LANCHOR0
+80047f40 l     O .data	00000004 randseed
+80047f44 g     O .data	0000000c __stdio_FILEs
+80047f44 l       .data	00000000 .LANCHOR0
+80047f50 g     O .data	00000002 next_port
+80047f50 l       .data	00000000 .LANCHOR0
+80047f54 l     O .data	00000008 tftp_list
+80047f5c l       .data	00000000 .LANCHOR0
+80047f5c l     O .data	0000001c malloc_global_mutex
+80047f78 l       .data	00000000 .LANCHOR1
+80047f78 l     O .data	00000008 print_callbacks
+80047f80 g     O .data	00000008 console_io
+80047f88 g       .commands	00000000 __commands_start
+80047f88 g     O .commands	0000000c _cmd_block_dcc
+80047f88 l    d  .commands	00000000 .commands
+80047f94 g     O .commands	0000000c _cmd_block_stringtests
+80047fa0 g     O .commands	0000000c _cmd_block_cache_tests
+80047fac g     O .commands	0000000c _cmd_block_float_tests
+80047fb8 g     O .commands	0000000c _cmd_block_mem_tests
+80047fc4 g     O .commands	0000000c _cmd_block_tests
+80047fd0 g     O .commands	0000000c _cmd_block_kernel
+80047fdc g     O .commands	0000000c _cmd_block_aes_test
+80047fe8 g     O .commands	0000000c _cmd_block_crc
+80047ff4 g     O .commands	0000000c _cmd_block_mem
+80048000 g     O .commands	0000000c _cmd_block_fs
+8004800c g     O .commands	0000000c _cmd_block_fs_shell
+80048018 g     O .commands	0000000c _cmd_block_spifs
+80048024 g     O .commands	0000000c _cmd_block_minip
+80048030 g     O .commands	0000000c _cmd_block_tcp
+8004803c g     O .commands	0000000c _cmd_block_version
+80048048 g     O .commands	0000000c _cmd_block_platform_power
+80048054 g     O .commands	0000000c _cmd_block_pmm
+80048060 g     O .commands	0000000c _cmd_block_vm
+8004806c g     O .commands	0000000c _cmd_block_vmm
+80048078 g     O .commands	0000000c _cmd_block_bio
+80048084 g     O .commands	0000000c _cmd_block_help
+80048090 g     O .commands	0000000c _cmd_block_gfx
+8004809c g     O .commands	0000000c _cmd_block_heap
+800480a8 g     O .commands	0000000c _cmd_block_page_alloc
+800480b4 g       .commands	00000000 __commands_end
+800480b4 g       .commands	00000000 __ctor_end
+800480b4 g       .commands	00000000 __ctor_list
+800480b4 g       .commands	00000000 __data_end
+800480b4 g       .commands	00000000 __devices
+800480b4 g       .commands	00000000 __devices_end
+800480b4 g       .commands	00000000 __dtor_end
+800480b4 g       .commands	00000000 __dtor_list
+8004c000 g     O .bss	00004000 arm_kernel_translation_table
+8004c000 l       .bss	00000000 .LANCHOR0
+8004c000 l    d  .bss	00000000 .bss
+80050000 g     O .bss	00000000 tt_trampoline
+80054000 g       .bss	00000000 __bss_start
+80054000 l       .bss	00000000 .LANCHOR0
+80054000 l     O .bss	00000030 uart_rx_buf
+80054040 l       .bss	00000000 .LANCHOR0
+80054040 l     O .bss	00000004 count.6228
+80054044 l     O .bss	00000001 dcc_started.6233
+80054080 g     O .bss	00000004 secondaries_to_init
+80054080 l       .bss	00000000 .LANCHOR0
+800540c0 g     O .bss	00004000 abort_stack
+800580c0 g     O .bss	00000010 lk_boot_args
+800580c0 l       .bss	00000000 .LANCHOR0
+800580d0 l     O .bss	00000004 secondary_bootstrap_thread_count
+800580d4 l     O .bss	0000000c secondary_bootstrap_threads
+800580e0 l       .bss	00000000 .LANCHOR0
+800580e0 l     O .bss	00000004 dst
+800580e4 l     O .bss	00000004 src
+800580e8 l     O .bss	00000004 src2
+800580ec l     O .bss	00000004 dst2
+800580f0 l       .bss	00000000 .LANCHOR1
+800580f0 l     O .bss	00000004 atomic
+800580f4 l     O .bss	00000004 atomic_count
+800580f8 l     O .bss	0000001c e
+80058114 l     O .bss	0000001c context_switch_event
+80058130 l     O .bss	0000001c context_switch_done_event
+8005814c l     O .bss	00000018 sem
+80058164 l     O .bss	0000001c sem_test_mutex
+80058180 l     O .bss	00000004 sem_remaining_its
+80058184 l     O .bss	00000004 sem_threads
+80058188 l     O .bss	00000004 preempt_count
+8005818c l     O .bss	00000004 shared.5785
+80058190 g     O .bss	0000001c group_waiting_sync_evt
+80058190 l       .bss	00000000 .LANCHOR0
+800581ac l       .bss	00000000 .LANCHOR0
+800581ac l     O .bss	00000004 gicd_lock
+800581b0 l     O .bss	00000400 int_handler_table_per_cpu
+800585b0 l     O .bss	00000300 int_handler_table_shared
+800588b0 g     O .bss	0000000c ms_per_cntpct
+800588b0 l       .bss	00000000 .LANCHOR0
+800588bc l     O .bss	00000004 t_callback
+800588c0 l     O .bss	00000004 timer_irq
+800588c4 g     O .bss	0000000c cntpct_per_ms
+800588d0 g     O .bss	0000000c us_per_cntpct
+800588dc l       .bss	00000000 .LANCHOR0
+800588dc l     O .bss	00000001 found_index.6525
+800588e0 l       .bss	00000000 .LANCHOR0
+800588e0 l     O .bss	00000004 the_gdev
+800588e4 l       .bss	00000000 .LANCHOR1
+800588e4 l     O .bss	00000004 the_ndev
+80058900 l       .bss	00000000 .LANCHOR0
+80058900 l     O .bss	00000020 last_idle_time.6112
+80058920 l     O .bss	000000c0 old_stats.6111
+800589e0 l     O .bss	00000001 showthreadload.6127
+800589e4 l     O .bss	0000001c tltimer.6128
+80058a00 g     O .bss	00000004 thread_lock
+80058a00 l       .bss	00000000 .LANCHOR0
+80058a04 l     O .bss	00000100 run_queue
+80058b04 l     O .bss	00000004 run_queue_bitmap
+80058b08 g     O .bss	000000c0 thread_stats
+80058bc8 l     O .bss	00000640 _idle_threads
+80059208 l     O .bss	00000070 preempt_timer
+80059278 l     O .bss	00000008 thread_list
+80059280 l       .bss	00000000 .LANCHOR0
+80059280 l     O .bss	00000100 timers
+80059380 g     O .bss	00000004 timer_lock
+800593c0 g     O .bss	0000000c mp
+800593c0 l       .bss	00000000 .LANCHOR0
+80059400 l       .bss	00000000 .LANCHOR0
+80059400 l     O .bss	00000008 write_port_list
+80059408 l       .bss	00000000 .LANCHOR0
+80059408 l     O .bss	00000004 len.6413
+8005940c l     O .bss	00000004 address.6412
+80059410 l       .bss	00000000 .LANCHOR0
+80059410 l     O .bss	00000004 cwd
+80059418 l       .bss	00000000 .LANCHOR0
+80059418 l     O .bss	00000008 vzero
+80059420 l       .bss	00000000 .LANCHOR0
+80059420 l     O .bss	00000008 arp_list
+80059428 g     O .bss	00000004 dhcp_udp_handle
+80059428 l       .bss	00000000 .LANCHOR0
+8005942c l     O .bss	00000006 mac
+80059434 l     O .bss	00000004 configured
+80059438 l     O .bss	00000004 cfgstate
+8005943c l     O .bss	00000004 dhcp_thr
+80059440 l       .bss	00000000 .LANCHOR0
+80059440 l     O .bss	00000004 minip_ip
+80059444 g     O .bss	00000004 minip_tx_handler
+80059448 l     O .bss	00000020 minip_hostname
+80059468 l     O .bss	00000004 minip_netmask
+8005946c g     O .bss	00000004 minip_tx_arg
+80059470 l     O .bss	00000004 minip_gateway
+80059474 l       .bss	00000000 .LANCHOR0
+80059474 l     O .bss	00000004 pktbuf_pool
+80059478 l     O .bss	00000018 pktbuf_sem
+80059490 l     O .bss	00000004 lock
+80059494 l       .bss	00000000 .LANCHOR1
+80059494 l     O .bss	00000001 tcp_debug
+80059498 l       .bss	00000000 .LANCHOR0
+80059498 l     O .bss	00000004 devices
+8005949c g     O .bss	00000054 _kernel_aspace
+8005949c l       .bss	00000000 .LANCHOR0
+800594f0 l     O .bss	00000004 test_aspace.6594
+800594f4 l       .bss	00000000 .LANCHOR1
+800594f4 l     O .bss	00000004 history_next
+800594f8 l     O .bss	00000004 history
+800594fc l     O .bss	00000004 command_list
+80059500 l     O .bss	00000004 debug_buffer
+80059504 l     O .bss	00000004 command_lock
+80059508 l     O .bss	00000001 abort_script
+8005950c g     O .bss	00000004 lastresult
+80059510 g     O .bss	00000004 delayed_free_lock
+80059510 l       .bss	00000000 .LANCHOR0
+80059514 l     O .bss	00000001 heap_trace
+80059518 l       .bss	00000000 .LANCHOR0
+80059518 l     O .bss	00000004 _errno
+8005951c g     O .bss	00000004 __dso_handle
+80059520 l       .bss	00000000 .LANCHOR0
+80059520 l     O .bss	00000004 ___strtok
+80059524 l       .bss	00000000 .LANCHOR1
+80059524 l     O .bss	00000018 mparams
+8005953c l     O .bss	000001f4 _gm_
+80059730 g     O .bss	00000030 console_input_cbuf
+80059730 l       .bss	00000000 .LANCHOR0
+80059760 l     O .bss	00000100 console_cbuf_buf
+80059860 l     O .bss	00000004 print_spin_lock
+80059864 g       .bss	00000000 __bss_end
+80059864 g       .bss	00000000 _end
+88000000 g       .bss	00000000 _end_of_ram
+build-qemu-virt-a15-test/lk.elf:     file format elf32-littlearm
+SYMBOL TABLE:
