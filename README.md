@@ -20,6 +20,13 @@ See https://github.com/littlekernel/lk/wiki for documentation.
 This will get you a interactive prompt into LK which is running in qemu
 arm machine 'virt' emulation. type 'help' for commands.
 
+
+#test
+
+```
+qemu-system-arm -machine lm3s6965evb -cpu cortex-m3 -kernel ./build-lm3s6965evb-test/lk.elf -nographic
+```
+
 note 1: for ubuntu:
 sudo apt-get install gcc-arm-none-eabi
 or fetch a prebuilt toolchain from
